@@ -1,0 +1,20 @@
+Title: * F:\Finalproject\ice_ltspice\cselfmade_generated.asc
+Date: Sat Jul 25 10:52:34 2020
+Plotname: Operating Point
+Flags: real
+No. Variables: 5
+No. Points:            1
+Offset:   0.0000000000000000e+000
+Command: Linear Technology Corporation LTspice XVII
+Variables:
+	0	V(source)	voltage
+	1	V(cap)	voltage
+	2	I(C1)	device_current
+	3	I(R1)	device_current
+	4	I(V1)	device_current
+Values:
+0		0.000000000000000e+000
+	0.000000000000000e+000
+	0.000000000000000e+000
+	0.000000000000000e+000
+	0.000000000000000e+000

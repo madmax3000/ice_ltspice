@@ -1,0 +1,3 @@
+# this is the parameter edit file
+set R 100
+run C 1u
