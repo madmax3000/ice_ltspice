@@ -83,4 +83,4 @@ def multiplot():
         plt.plot(X, Y4, label=mr[3])
         plt.plot(X, Y5, label=mr[4])
         plt.show()
-plot()
+#plot()

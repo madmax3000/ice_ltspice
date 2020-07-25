@@ -97,9 +97,9 @@ def write(flname,a, b, c):
     f.iloc[a, b] = c
     f.to_csv(gv.paramsfile, sep=',', header=False, index=False, )
     '''
-    output_path = gf.paramsarray[flname]
+    output_path = gf.paramsarray[flname - 1]
     f = open(output_path, 'a')
-    f.write("run " + a + " " + c)
+    f.write("\nset " + a + " " + str(c))
     f.close
     return
 #---------------------------------------------------------------------------------------------------------------------------------
@@ -119,7 +119,7 @@ def evaluator(vars):
             f.close()
         else:
             flname = int(gv.bigres[m][0]) #the no in the params
-            a = int(gv.bigres[m][1])  # write parameters to the circuit para meters
+            a = gv.bigres[m][1]  # write parameters to the circuit para meters
             b = int(gv.bigres[m][4])
             write(flname,a, b, vars[m])  # vars is the output from the prediction of genetic algorithm
             print("\nThe  current value of  element ", m, " is :", vars[m])
@@ -131,6 +131,10 @@ def evaluator(vars):
     #simulator is done
     gv.optotimer = 1
     gv.vectotimer = 1
+    output_path = gf.paramsarray[flname - 1]
+    f = open(output_path, 'w+')
+    f.write("# this is the parameter edit file\n")
+    f.close
     for n in range(0, len(gv.bigout)):
         if gv.bigout[n][0] == 1.0:  # read circuit output parameters
             lol = gv.bigout[n][2] #it has the file no of params file so it find the right file name

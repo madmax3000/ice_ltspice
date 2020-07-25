@@ -1,1 +1,43 @@
  The results are given below
+
+This is a set of nondominanted_solutions values
+
+ This is solution  1
+ The value of  element 1 is 77.67677050486351
+ The value of  target 1 is -2.260783293454981 and the corresponding error value is 9.990551028184116
+
+ This is solution  2
+ The value of  element 1 is 48.57309545129635
+ The value of  target 1 is -2.260783293454981 and the corresponding error value is 9.990551028184116
+
+ This is solution  3
+ The value of  element 1 is 97.64058885521237
+ The value of  target 1 is -2.260783293454981 and the corresponding error value is 9.990551028184116
+
+ This is solution  4
+ The value of  element 1 is 70.1266934701214
+ The value of  target 1 is -2.260783293454981 and the corresponding error value is 9.990551028184116
+
+ This is solution  5
+ The value of  element 1 is 54.18350829484098
+ The value of  target 1 is -2.260783293454981 and the corresponding error value is 9.990551028184116
+
+ This is solution  6
+ The value of  element 1 is 93.01215625678438
+ The value of  target 1 is -2.260783293454981 and the corresponding error value is 9.990551028184116
+
+ This is solution  7
+ The value of  element 1 is 56.96903305806268
+ The value of  target 1 is -2.260783293454981 and the corresponding error value is 9.990551028184116
+
+ This is solution  8
+ The value of  element 1 is 40.69947182670997
+ The value of  target 1 is -2.260783293454981 and the corresponding error value is 9.990551028184116
+
+ This is solution  9
+ The value of  element 1 is 19.795155404294295
+ The value of  target 1 is -2.260783293454981 and the corresponding error value is 9.990551028184116
+
+ This is solution  10
+ The value of  element 1 is 41.39394624787646
+ The value of  target 1 is -2.260783293454981 and the corresponding error value is 9.990551028184116

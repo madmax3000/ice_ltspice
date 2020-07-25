@@ -1,1 +1,70 @@
  the logging procedures have started
+
+
+
+this is iteration number1
+The  current value of  element 0 is :77.67677050486351
+ The value of  target 1 is -2.260783293454981 and the corresponding error value is 9.990551028184116
+
+
+
+
+this is iteration number2
+The  current value of  element 0 is :48.57309545129635
+ The value of  target 1 is -2.260783293454981 and the corresponding error value is 9.990551028184116
+
+
+
+
+this is iteration number3
+The  current value of  element 0 is :97.64058885521237
+ The value of  target 1 is -2.260783293454981 and the corresponding error value is 9.990551028184116
+
+
+
+
+this is iteration number4
+The  current value of  element 0 is :70.1266934701214
+ The value of  target 1 is -2.260783293454981 and the corresponding error value is 9.990551028184116
+
+
+
+
+this is iteration number5
+The  current value of  element 0 is :54.18350829484098
+ The value of  target 1 is -2.260783293454981 and the corresponding error value is 9.990551028184116
+
+
+
+
+this is iteration number6
+The  current value of  element 0 is :93.01215625678438
+ The value of  target 1 is -2.260783293454981 and the corresponding error value is 9.990551028184116
+
+
+
+
+this is iteration number7
+The  current value of  element 0 is :56.96903305806268
+ The value of  target 1 is -2.260783293454981 and the corresponding error value is 9.990551028184116
+
+
+
+
+this is iteration number8
+The  current value of  element 0 is :40.69947182670997
+ The value of  target 1 is -2.260783293454981 and the corresponding error value is 9.990551028184116
+
+
+
+
+this is iteration number9
+The  current value of  element 0 is :19.795155404294295
+ The value of  target 1 is -2.260783293454981 and the corresponding error value is 9.990551028184116
+
+
+
+
+this is iteration number10
+The  current value of  element 0 is :41.39394624787646
+ The value of  target 1 is -2.260783293454981 and the corresponding error value is 9.990551028184116
