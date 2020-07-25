@@ -1,7 +1,0 @@
-* F:\Finalproject\ice_ltspice\cselfmade_generated.asc
-V1 source 0 SINE(0 10 10e3)
-R1 cap source 100
-C1 cap 0 1µ
-.tran 0 1 0
-.backanno
-.end

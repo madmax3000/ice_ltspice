@@ -30,7 +30,8 @@ def signalselector(a):
     for i in range(gv.n3,0,-1):
         gv.l.append(a[i])
     #print (gv.l)
-    return gv.l
+    #return gv.l #need to fix this issue in the future
+    return a
     
 def ripple(c,a):
     m=data_extractor(c,a)
