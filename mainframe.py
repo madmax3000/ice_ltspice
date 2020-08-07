@@ -93,14 +93,26 @@ def initalization():
 #-----------------------------------------------------------------------------------------------------------------------------------
 def write(flname,a, b, c):
     '''
-    f = pd.read_csv(gv.paramsfile, header=False, index=False, )
-    f.iloc[a, b] = c
-    f.to_csv(gv.paramsfile, sep=',', header=False, index=False, )
+    a is the element value , c is the value to be written
     '''
-    output_path = gf.paramsarray[flname - 1]
-    f = open(output_path, 'a')
-    f.write("\nset " + a + " " + str(c))
-    f.close
+    output_path = gf.diagramarray[flname - 1]
+    cn = a
+    value = c
+    prestr = "SYMATTR InstName "
+    preval = "SYMATTR Value "
+    c2 = 0
+    fp = open(output_path, "r", encoding="ISO-8859-1")
+    li = fp.readlines()
+    for i in range(len(li)):
+        if li[i].strip("\n") == (prestr + cn):
+            c2 = 1
+        elif c2 == 1:
+            li[i] = preval + value + "\n"
+            c2 = 0
+    fp.close()
+    fp = open(output_path, "w", encoding="ISO-8859-1")
+    fp.writelines(li)
+    fp.close()
     return
 #---------------------------------------------------------------------------------------------------------------------------------
 
