@@ -82,7 +82,7 @@ def main(argv):
     if parameter_file is not None:
         simulate(parameter_file, do_analysis)
 
-simulate(filename="simulation_parameters.txt")
+#simulate()
 '''
 if __name__ == '__main__':
     main(sys.argv[1:])'''

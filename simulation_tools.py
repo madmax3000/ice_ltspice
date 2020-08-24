@@ -47,7 +47,7 @@ def run_simulations(parameter_set=None, numerical_name_start=0):
             clean_raw_file(spice_exe_path, file_path_generated, output_path, output_header)
     else:
         # Run a simulation with the preset values of the file
-        output_path = config.output_data_path + 'result.csv'
+        output_path = config.output_data_path + '.csv'
         print('Starting simulation.')
         simulate(spice_exe_path, file_path)
         # Set header and cleanup the file

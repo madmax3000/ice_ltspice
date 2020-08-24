@@ -1,0 +1,8 @@
+* C:\projects\ice_ltspice\showfile.asc
+V1 N001 0 10
+R1 N002 N001 3
+R2 N002 0 4
+R3 N002 0 4.390070151369683
+.tran 1
+.backanno
+.end

@@ -17,7 +17,7 @@ def data_extractor(outputarrayno,meterno):
     y = signalselector(x)   #signal selector is directly called
     return y
 def signalselector(a):
-    data = np.loadtxt("data000.csv")
+    data = np.loadtxt(gf.outputarray[0])
     ele = data[-2, 0] - data[-3, 0]
     t2=float(ele) #t2-step size
     t1=1/60 #default time period
@@ -27,7 +27,7 @@ def signalselector(a):
     if len(a)<gv.n3:
         gv.n3=len(a)
     gv.l=[]
-    for i in range(gv.n3,0,-1):
+    for i in range(gv.n3,0,-1):  #reversing is done
         gv.l.append(a[i])
     #print (gv.l)
     #return gv.l #need to fix this issue in the future
@@ -83,4 +83,4 @@ def peak(c,m):
     c = max(a) #peak implemented
     return c
 ''''''
-print(rms(0,2))
+#print(rms(0,2))

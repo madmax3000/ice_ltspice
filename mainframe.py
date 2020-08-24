@@ -97,7 +97,7 @@ def write(flname,a, b, c):
     '''
     output_path = gf.diagramarray[flname - 1]
     cn = a
-    value = c
+    value = str(c)
     prestr = "SYMATTR InstName "
     preval = "SYMATTR Value "
     c2 = 0
@@ -138,7 +138,7 @@ def evaluator(vars):
             f = open("searchlog.txt", "a")
             f.write("\nThe  current value of  element " + str(m) + " is :" + str(vars[m]))
             f.close()
-    run.simulate(filename="simulation_parameters.txt")
+    run.simulate()
     ev.uservariable()
     #simulator is done
     gv.optotimer = 1
@@ -325,7 +325,7 @@ def ga(variables, outpu):#genetic algorithm function
 #-------------------------------------------------------------------------------------------------------------------------------------------
 def starter():#user initialisation
 
-    run.simulate(filename="simulation_parameters.txt")
+    run.simulate()
     a=input("Do you want to plot?\n y/n\nUserinput:")  #help user plot graphs
     if a=='y':
         b=input("Plotting options available are press the no  eg 1 or 2:\n1.Single plot\n2.Multiplot\nUser input: ")
