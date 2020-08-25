@@ -13,7 +13,7 @@ import gv
 #import statistics
 def data_extractor(outputarrayno,meterno):
     data = np.loadtxt(gf.outputarray[outputarrayno]) #load data
-    x = data[:, meterno]  # read data file
+    x = data[:,meterno]  # read data file
     y = signalselector(x)   #signal selector is directly called
     return y
 def signalselector(a):

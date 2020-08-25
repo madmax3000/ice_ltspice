@@ -3,41 +3,41 @@
 This is a set of feasible_solutions values
 
  This is solution  1
- The value of  element 1 is 3.999480619757782
- The value of  target 1 is 3.999844171763895 and the corresponding error value is 2.4282439167576273e-08
+ The value of  element 1 is 6.020168288168847
+ The value of  target 1 is 2.579741819859548 and the corresponding error value is 8.527907838677224
 
  This is solution  2
- The value of  element 1 is 3.9994527730539113
- The value of  target 1 is 3.9998358161932384 and the corresponding error value is 2.695632240274417e-08
+ The value of  element 1 is 8.920696394882093
+ The value of  target 1 is 1.9003491419684568 and the corresponding error value is 12.957486299727226
 
  This is solution  3
- The value of  element 1 is 3.9991774128225615
- The value of  target 1 is 3.9997531883176354 and the corresponding error value is 6.09160065516554e-08
+ The value of  element 1 is 8.11162280798674
+ The value of  target 1 is 2.051018575993403 and the corresponding error value is 11.895472863142572
 
  This is solution  4
- The value of  element 1 is 4.001323743685328
- The value of  target 1 is 3.9996029688686736 and the corresponding error value is 1.5763371924231025e-07
+ The value of  element 1 is 6.630397617613646
+ The value of  target 1 is 2.399280362081818 and the corresponding error value is 9.614462272971462
 
  This is solution  5
- The value of  element 1 is 3.9978189561973645
- The value of  target 1 is 3.9993454370238415 and the corresponding error value is 4.2845268975748946e-07
+ The value of  element 1 is 6.080627339301444
+ The value of  target 1 is 2.560659832641813 and the corresponding error value is 8.639720619445255
 
  This is solution  6
- The value of  element 1 is 4.002558277032395
- The value of  target 1 is 3.9992328603375427 and the corresponding error value is 5.8850326171516e-07
+ The value of  element 1 is 6.060305918245488
+ The value of  target 1 is 2.567042072040644 and the corresponding error value is 8.60224220717964
 
  This is solution  7
- The value of  element 1 is 4.003970630412788
- The value of  target 1 is 3.9988096380115143 and the corresponding error value is 1.4169616636315235e-06
+ The value of  element 1 is 8.474033236746664
+ The value of  target 1 is 1.9806760638663903 and the corresponding error value is 12.385640967442964
 
  This is solution  8
- The value of  element 1 is 3.9955992094734754
- The value of  target 1 is 3.9986787452931054 and the corresponding error value is 1.745714000491115e-06
+ The value of  element 1 is 6.939213158738492
+ The value of  target 1 is 2.317247710483767 and the corresponding error value is 10.129912136420824
 
  This is solution  9
- The value of  element 1 is 3.990109596020524
- The value of  target 1 is 3.997027734347278 and the corresponding error value is 8.834363110349718e-06
+ The value of  element 1 is 6.174007562957262
+ The value of  target 1 is 2.531735768442141 and the corresponding error value is 8.810592548345769
 
  This is solution  10
- The value of  element 1 is 3.989226721471365
- The value of  target 1 is 3.996761911596437 and the corresponding error value is 1.0485216509290543e-05
+ The value of  element 1 is 5.267201266307334
+ The value of  target 1 is 2.8436564507116056 and the corresponding error value is 7.056161051846065

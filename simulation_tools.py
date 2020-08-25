@@ -120,7 +120,7 @@ def clean_raw_file(spice_exe_path, file_path, output_path, output_header):
     #f.write('\t'.join(variables) + '\n')
     # here above lines show which lines are being printed
     for line in data:
-        f.write('\t'.join(line) + '\n')
+        f.write('\t'.join(line) + '\n')  #the csv file format making
     f.close()
 
     size = os.path.getsize(output_path)

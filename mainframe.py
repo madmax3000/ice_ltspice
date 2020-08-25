@@ -29,8 +29,9 @@ def initalization():
     variables = int(input("Enter no of elements to vary\nUser input: "))
     for res in range(0, variables):
         spec = []
-        spec=input("Specify the element's parameters in the following format \n (paramfile no ,element name ,max,min : )")
+        spec=input("Specify the element's parameters in the following format \n (element name ,max,min : )")
         spec=spec.split(",")
+        spec.insert(0,0) # since only 1 file  no need to specify the files each time
         spec.append(3)#column no: dummy stuff
         for i  in range(0,len(spec)):
             if i != 1:
@@ -61,8 +62,9 @@ def initalization():
                 outer.append(posoffile)
                 outer.append(9)#junk value to make it work
             else:
-                posoffile = int(input("Enter the  output file no\nUser input: "))
-                outer.append(posoffile-1)
+                #posoffile = int(input("Enter the  output file no\nUser input: "))
+                posoffile = 0
+                outer.append(posoffile)
                 pos = int(input("Enter output meter no in output file\nUser input: "))
                 outer.append(pos-1)
             ole=input("Enter the max and min limits of the output in the following format \n ( max,min)")
@@ -344,27 +346,33 @@ def starter():#user initialisation
         while appa == 'y':
             rval = int(input("Functions available:\n1.Average\n2.Ripple\n3.RMS\n4.THD\n5.Moving Average\n6.Peak\n7.Optimizing an external variable or expression\nUser input: "))  # compute vallues
             if (rval == 1):
-                num = (int(input("Enter file output number\nUser input: ")) - 1)
+                #num = (int(input("Enter file output number\nUser input: ")) - 1)
+                num = 0
                 rval1 = (int(input("Enter the meter number\nUser input: ")) - 1)
                 print(avg(num,rval1))
             if (rval == 2):
-                num = (int(input("Enter file output number\nUser input: ")) - 1)
+                #num = (int(input("Enter file output number\nUser input: ")) - 1)
+                num = 0
                 rval1 = (int(input("Enter the meter number\nUser input: "))-1)
                 print(ripple(num,rval1))
             if (rval == 3):
-                num = (int(input("Enter file output number\nUser input: ")) - 1)
+                #num = (int(input("Enter file output number\nUser input: ")) - 1)
+                num = 0
                 rval1 = (int(input("Enter the meter number\nUser input: "))-1)
                 print(rms(num,rval1))
             if (rval == 4):
-                num = (int(input("Enter file output number\nUser input: ")) - 1)
+                #num = (int(input("Enter file output number\nUser input: ")) - 1)
+                num = 0
                 rval1 = (int(input("Enter the meter number\nUser input: "))-1)
                 print(thd(num,rval1))
             if (rval == 5):
-                num = (int(input("Enter file output number\nUser input: ")) - 1)
+                #num = (int(input("Enter file output number\nUser input: ")) - 1)
+                num = 0
                 rval1 = (int(input("Enter the meter number\nUser input: "))-1)
                 print(moving_avg(num,rval1))
             if (rval == 6):
-                num = (int(input("Enter file output number\nUser input: ")) - 1)
+                #num = (int(input("Enter file output number\nUser input: ")) - 1)
+                num = 0
                 rval1 = (int(input("Enter the meter number\nUser input: "))-1)
                 print(peak(num,rval1))
             if (rval == 7):
