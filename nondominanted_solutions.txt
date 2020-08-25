@@ -3,5 +3,5 @@
 This is a set of nondominanted_solutions values
 
  This is solution  1
- The value of  element 1 is 5.267201266307334
- The value of  target 1 is 2.8436564507116056 and the corresponding error value is 7.056161051846065
+ The value of  element 1 is 4.001725656419596
+ The value of  target 1 is 4.000482459366048 and the corresponding error value is 3.076738394530932e-10

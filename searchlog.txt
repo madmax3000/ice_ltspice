@@ -3,68 +3,6998 @@
 
 
 this is iteration number1
-The  current value of  element 0 is :6.020168288168847
- The value of  target 1 is 2.579741819859548 and the corresponding error value is 8.527907838677224
+The  current value of  element 0 is :2.889708382930233
+ The value of  target 1 is 3.5865856867659467 and the corresponding error value is 0.17132505870001852
 
 
 
 
 this is iteration number2
-The  current value of  element 0 is :8.920696394882093
- The value of  target 1 is 1.9003491419684568 and the corresponding error value is 12.957486299727226
+The  current value of  element 0 is :9.532547979544518
+ The value of  target 1 is 3.1577077256476516 and the corresponding error value is 0.7102988177080052
 
 
 
 
 this is iteration number3
-The  current value of  element 0 is :8.11162280798674
- The value of  target 1 is 2.051018575993403 and the corresponding error value is 11.895472863142572
+The  current value of  element 0 is :8.15414787510514
+ The value of  target 1 is 3.2793660858822324 and the corresponding error value is 0.5200341220908127
 
 
 
 
 this is iteration number4
-The  current value of  element 0 is :6.630397617613646
- The value of  target 1 is 2.399280362081818 and the corresponding error value is 9.614462272971462
+The  current value of  element 0 is :3.989393785967719
+ The value of  target 1 is 3.9968122189899145 and the corresponding error value is 1.3599728778352063e-05
 
 
 
 
 this is iteration number5
-The  current value of  element 0 is :6.080627339301444
- The value of  target 1 is 2.560659832641813 and the corresponding error value is 8.639720619445255
+The  current value of  element 0 is :7.41014246575267
+ The value of  target 1 is 3.360306863140413 and the corresponding error value is 0.40984725248211873
 
 
 
 
 this is iteration number6
-The  current value of  element 0 is :6.060305918245488
- The value of  target 1 is 2.567042072040644 and the corresponding error value is 8.60224220717964
+The  current value of  element 0 is :4.724871967094948
+ The value of  target 1 is 3.8080186009778147 and the corresponding error value is 0.03704908896953793
 
 
 
 
 this is iteration number7
-The  current value of  element 0 is :8.474033236746664
- The value of  target 1 is 1.9806760638663903 and the corresponding error value is 12.385640967442964
+The  current value of  element 0 is :4.967159358867411
+ The value of  target 1 is 3.752851964029918 and the corresponding error value is 0.061329549719839414
 
 
 
 
 this is iteration number8
-The  current value of  element 0 is :6.939213158738492
- The value of  target 1 is 2.317247710483767 and the corresponding error value is 10.129912136420824
+The  current value of  element 0 is :5.586366443362146
+ The value of  target 1 is 3.6285010406256504 and the corresponding error value is 0.13838322577559947
 
 
 
 
 this is iteration number9
-The  current value of  element 0 is :6.174007562957262
- The value of  target 1 is 2.531735768442141 and the corresponding error value is 8.810592548345769
+The  current value of  element 0 is :4.037025810273463
+ The value of  target 1 is 3.989963766379124 and the corresponding error value is 0.0001110122189136888
 
 
 
 
 this is iteration number10
-The  current value of  element 0 is :5.267201266307334
- The value of  target 1 is 2.8436564507116056 and the corresponding error value is 7.056161051846065
+The  current value of  element 0 is :2.415491216956098
+ The value of  target 1 is 3.34226452998382 and the corresponding error value is 0.43327393398742214
+
+
+
+
+this is iteration number11
+The  current value of  element 0 is :5.411488032666211
+ The value of  target 1 is 3.661430732687852 and the corresponding error value is 0.11496796803559735
+
+
+
+
+this is iteration number12
+The  current value of  element 0 is :2.848615625570085
+ The value of  target 1 is 3.5674239617024885 and the corresponding error value is 0.18755485494746815
+
+
+
+
+this is iteration number13
+The  current value of  element 0 is :3.896693568333321
+ The value of  target 1 is 3.968437463216442 and the corresponding error value is 0.0010280062649970579
+
+
+
+
+this is iteration number14
+The  current value of  element 0 is :5.365100629140487
+ The value of  target 1 is 3.6704385087103795 and the corresponding error value is 0.10894058803232866
+
+
+
+
+this is iteration number15
+The  current value of  element 0 is :7.7023091151335485
+ The value of  target 1 is 3.3269967386390427 and the corresponding error value is 0.45360664306384685
+
+
+
+
+this is iteration number16
+The  current value of  element 0 is :4.501661532517208
+ The value of  target 1 is 3.862647603421369 and the corresponding error value is 0.019003283242472375
+
+
+
+
+this is iteration number17
+The  current value of  element 0 is :4.34213996138956
+ The value of  target 1 is 3.9041564689298447 and the corresponding error value is 0.009282075979066098
+
+
+
+
+this is iteration number18
+The  current value of  element 0 is :3.546718400868123
+ The value of  target 1 is 3.8522992658945223 and the corresponding error value is 0.021963457589402678
+
+
+
+
+this is iteration number19
+The  current value of  element 0 is :5.702222398330385
+ The value of  target 1 is 3.6075405045493314 and the corresponding error value is 0.1544171650648445
+
+
+
+
+this is iteration number20
+The  current value of  element 0 is :2.959239831307861
+ The value of  target 1 is 3.618241032004429 and the corresponding error value is 0.14612191861303933
+
+
+
+
+this is iteration number21
+The  current value of  element 0 is :4.755322052214315
+ The value of  target 1 is 3.8008583761908694 and the corresponding error value is 0.039856777957146663
+
+
+
+
+this is iteration number22
+The  current value of  element 0 is :3.9839814262740703
+ The value of  target 1 is 3.995180918790957 and the corresponding error value is 2.829262490840034e-05
+
+
+
+
+this is iteration number23
+The  current value of  element 0 is :5.646954595068544
+ The value of  target 1 is 3.617457198005668 and the corresponding error value is 0.14672178815966966
+
+
+
+
+this is iteration number24
+The  current value of  element 0 is :5.548125747245606
+ The value of  target 1 is 3.6355663053547875 and the corresponding error value is 0.13317660148740562
+
+
+
+
+this is iteration number25
+The  current value of  element 0 is :4.211326428553848
+ The value of  target 1 is 3.939863045911938 and the corresponding error value is 0.0036768402010777957
+
+
+
+
+this is iteration number26
+The  current value of  element 0 is :4.1275859871218
+ The value of  target 1 is 3.9635601440351564 and the corresponding error value is 0.0013645529587034335
+
+
+
+
+this is iteration number27
+The  current value of  element 0 is :3.6879996748311425
+ The value of  target 1 is 3.900994178988191 and the corresponding error value is 0.009901408415234333
+
+
+
+
+this is iteration number28
+The  current value of  element 0 is :3.1199439156541047
+ The value of  target 1 is 3.6879197537864474 and the corresponding error value is 0.09770641032292553
+
+
+
+
+this is iteration number29
+The  current value of  element 0 is :5.679395145458196
+ The value of  target 1 is 3.6116184238793902 and the corresponding error value is 0.15122888024605008
+
+
+
+
+this is iteration number30
+The  current value of  element 0 is :5.950323319961183
+ The value of  target 1 is 3.5647857859796126 and the corresponding error value is 0.1898468762994045
+
+
+
+
+this is iteration number31
+The  current value of  element 0 is :2.9406155251294503
+ The value of  target 1 is 3.609854736373563 and the corresponding error value is 0.152603721993769
+
+
+
+
+this is iteration number32
+The  current value of  element 0 is :3.8741336285397665
+ The value of  target 1 is 3.961389632870016 and the corresponding error value is 0.0015296208170421809
+
+
+
+
+this is iteration number33
+The  current value of  element 0 is :3.3805288092697765
+ The value of  target 1 is 3.791562458697744 and the corresponding error value is 0.04365489616543214
+
+
+
+
+this is iteration number34
+The  current value of  element 0 is :3.5982377963576724
+ The value of  target 1 is 3.870356299626016 and the corresponding error value is 0.01693738274703345
+
+
+
+
+this is iteration number35
+The  current value of  element 0 is :4.528502074644711
+ The value of  target 1 is 3.8558719599053806 and the corresponding error value is 0.020917269981611024
+
+
+
+
+this is iteration number36
+The  current value of  element 0 is :4.087045583936028
+ The value of  target 1 is 3.9752781452459685 and the corresponding error value is 0.0006361419572334945
+
+
+
+
+this is iteration number37
+The  current value of  element 0 is :4.232400105732403
+ The value of  target 1 is 3.934004669606921 and the corresponding error value is 0.004421628964084836
+
+
+
+
+this is iteration number38
+The  current value of  element 0 is :3.6538750068530685
+ The value of  target 1 is 3.8894673311898282 and the corresponding error value is 0.012328253543109425
+
+
+
+
+this is iteration number39
+The  current value of  element 0 is :4.605638748050393
+ The value of  target 1 is 3.836719895073448 and the corresponding error value is 0.02682392276975265
+
+
+
+
+this is iteration number40
+The  current value of  element 0 is :4.139460924564336
+ The value of  target 1 is 3.960158486789428 and the corresponding error value is 0.001627437688118791
+
+
+
+
+this is iteration number41
+The  current value of  element 0 is :3.3788831509045494
+ The value of  target 1 is 3.790941205860259 and the corresponding error value is 0.04391488820130253
+
+
+
+
+this is iteration number42
+The  current value of  element 0 is :4.566408110733783
+ The value of  target 1 is 3.8464015814592285 and the corresponding error value is 0.023746322596766976
+
+
+
+
+this is iteration number43
+The  current value of  element 0 is :4.476560376606993
+ The value of  target 1 is 3.869037319355523 and the corresponding error value is 0.017282436402231916
+
+
+
+
+this is iteration number44
+The  current value of  element 0 is :3.8892643639876985
+ The value of  target 1 is 3.9661228121053966 and the corresponding error value is 0.0011817910475409063
+
+
+
+
+this is iteration number45
+The  current value of  element 0 is :4.204680638233955
+ The value of  target 1 is 3.9417191943292034 and the corresponding error value is 0.0034551831153080293
+
+
+
+
+this is iteration number46
+The  current value of  element 0 is :4.039090154328295
+ The value of  target 1 is 3.989352630757195 and the corresponding error value is 0.0001242638410354452
+
+
+
+
+this is iteration number47
+The  current value of  element 0 is :3.8153263989840394
+ The value of  target 1 is 3.9427476449445966 and the corresponding error value is 0.003335334514445447
+
+
+
+
+this is iteration number48
+The  current value of  element 0 is :3.4700324079931466
+ The value of  target 1 is 3.824756920662821 and the corresponding error value is 0.030885629934914238
+
+
+
+
+this is iteration number49
+The  current value of  element 0 is :3.6191117497693153
+ The value of  target 1 is 3.8775731059778096 and the corresponding error value is 0.015111021273942987
+
+
+
+
+this is iteration number50
+The  current value of  element 0 is :3.427634647713748
+ The value of  target 1 is 3.809176790440348 and the corresponding error value is 0.03660457051620668
+
+
+
+
+this is iteration number51
+The  current value of  element 0 is :4.335923186464342
+ The value of  target 1 is 3.9058184403051097 and the corresponding error value is 0.008964597746257187
+
+
+
+
+this is iteration number52
+The  current value of  element 0 is :4.221498138068611
+ The value of  target 1 is 3.937030168335495 and the corresponding error value is 0.004028419531520691
+
+
+
+
+this is iteration number53
+The  current value of  element 0 is :3.080805406376207
+ The value of  target 1 is 3.6713801425570636 and the corresponding error value is 0.1083198805632592
+
+
+
+
+this is iteration number54
+The  current value of  element 0 is :3.837450972735377
+ The value of  target 1 is 3.9498075123119563 and the corresponding error value is 0.0025697283080025283
+
+
+
+
+this is iteration number55
+The  current value of  element 0 is :3.959630167488998
+ The value of  target 1 is 3.987802881007724 and the corresponding error value is 0.00016121683070403258
+
+
+
+
+this is iteration number56
+The  current value of  element 0 is :3.5684894337153485
+ The value of  target 1 is 3.859972764575197 and the corresponding error value is 0.01974790389613821
+
+
+
+
+this is iteration number57
+The  current value of  element 0 is :4.1548971619447155
+ The value of  target 1 is 3.955757246876729 and the corresponding error value is 0.002001913957050029
+
+
+
+
+this is iteration number58
+The  current value of  element 0 is :4.495074615196242
+ The value of  target 1 is 3.8643193605616215 and the corresponding error value is 0.018545166557845813
+
+
+
+
+this is iteration number59
+The  current value of  element 0 is :3.479115626285428
+ The value of  target 1 is 3.8280616917322496 and the corresponding error value is 0.029734970158243914
+
+
+
+
+this is iteration number60
+The  current value of  element 0 is :4.100150169524401
+ The value of  target 1 is 3.971472457117053 and the corresponding error value is 0.0008425982458213631
+
+
+
+
+this is iteration number61
+The  current value of  element 0 is :3.8943143600957715
+ The value of  target 1 is 3.9676968619101944 and the corresponding error value is 0.0010760458685388926
+
+
+
+
+this is iteration number62
+The  current value of  element 0 is :3.2209434701691357
+ The value of  target 1 is 3.729389369815607 and the corresponding error value is 0.0735009737989791
+
+
+
+
+this is iteration number63
+The  current value of  element 0 is :3.1525965429794276
+ The value of  target 1 is 3.70151494040386 and the corresponding error value is 0.0893920658617077
+
+
+
+
+this is iteration number64
+The  current value of  element 0 is :3.9651062622486184
+ The value of  target 1 is 3.9894675633603387 and the corresponding error value is 0.00012171465820815465
+
+
+
+
+this is iteration number65
+The  current value of  element 0 is :3.90528224323967
+ The value of  target 1 is 3.9711057329441237 and the corresponding error value is 0.0008640229357522093
+
+
+
+
+this is iteration number66
+The  current value of  element 0 is :3.700930689205723
+ The value of  target 1 is 3.9053241442493127 and the corresponding error value is 0.009058443517875747
+
+
+
+
+this is iteration number67
+The  current value of  element 0 is :4.284253617516035
+ The value of  target 1 is 3.9197649044562004 and the corresponding error value is 0.006518155652466548
+
+
+
+
+this is iteration number68
+The  current value of  element 0 is :3.9935393714181435
+ The value of  target 1 is 3.998059617609684 and the corresponding error value is 5.955466210968055e-06
+
+
+
+
+this is iteration number69
+The  current value of  element 0 is :3.43692211294976
+ The value of  target 1 is 3.8126116417402116 and the corresponding error value is 0.03530203516955882
+
+
+
+
+this is iteration number70
+The  current value of  element 0 is :3.4921654796009216
+ The value of  target 1 is 3.8327894700014458 and the corresponding error value is 0.028126821872396165
+
+
+
+
+this is iteration number71
+The  current value of  element 0 is :3.596077777070243
+ The value of  target 1 is 3.8696062712884842 and the corresponding error value is 0.01713316821600405
+
+
+
+
+this is iteration number72
+The  current value of  element 0 is :3.3793549768485116
+ The value of  target 1 is 3.7911193660197866 and the corresponding error value is 0.04384024988595635
+
+
+
+
+this is iteration number73
+The  current value of  element 0 is :4.012810084636903
+ The value of  target 1 is 3.9971655704979714 and the corresponding error value is 1.1118420104002856e-05
+
+
+
+
+this is iteration number74
+The  current value of  element 0 is :3.6387335410212183
+ The value of  target 1 is 3.8843056786945436 and the corresponding error value is 0.013501120303635787
+
+
+
+
+this is iteration number75
+The  current value of  element 0 is :4.618292057363494
+ The value of  target 1 is 3.8336227834200427 and the corresponding error value is 0.02784800541347418
+
+
+
+
+this is iteration number76
+The  current value of  element 0 is :3.7842297687431325
+ The value of  target 1 is 3.9327287835864126 and the corresponding error value is 0.004592937774177375
+
+
+
+
+this is iteration number77
+The  current value of  element 0 is :4.1139364639167
+ The value of  target 1 is 3.967487267221988 and the corresponding error value is 0.0010898405254724777
+
+
+
+
+this is iteration number78
+The  current value of  element 0 is :3.6185697723901473
+ The value of  target 1 is 3.8773864411249392 and the corresponding error value is 0.015156948378883203
+
+
+
+
+this is iteration number79
+The  current value of  element 0 is :4.124973090153548
+ The value of  target 1 is 3.964310483351494 and the corresponding error value is 0.0013096811152525254
+
+
+
+
+this is iteration number80
+The  current value of  element 0 is :3.643943580066783
+ The value of  target 1 is 3.886085047757299 and the corresponding error value is 0.013090781296699687
+
+
+
+
+this is iteration number81
+The  current value of  element 0 is :4.1878268600689195
+ The value of  target 1 is 3.9464451437651373 and the corresponding error value is 0.0029219274825717377
+
+
+
+
+this is iteration number82
+The  current value of  element 0 is :3.343591205608753
+ The value of  target 1 is 3.777520837937 and the corresponding error value is 0.049719706714317795
+
+
+
+
+this is iteration number83
+The  current value of  element 0 is :3.404770200901667
+ The value of  target 1 is 3.800667553115883 and the corresponding error value is 0.03993300682769364
+
+
+
+
+this is iteration number84
+The  current value of  element 0 is :4.036448815693139
+ The value of  target 1 is 3.990134660325702 and the corresponding error value is 0.00010744026656358956
+
+
+
+
+this is iteration number85
+The  current value of  element 0 is :3.7779437249851044
+ The value of  target 1 is 3.9306897309671665 and the corresponding error value is 0.004873473662436684
+
+
+
+
+this is iteration number86
+The  current value of  element 0 is :3.7094812189733855
+ The value of  target 1 is 3.9081759592227403 and the corresponding error value is 0.008523728505441225
+
+
+
+
+this is iteration number87
+The  current value of  element 0 is :4.282668517134153
+ The value of  target 1 is 3.9201965484306953 and the corresponding error value is 0.0064486443339437614
+
+
+
+
+this is iteration number88
+The  current value of  element 0 is :4.00046833321759
+ The value of  target 1 is 4.000140488451066 and the corresponding error value is 1.29248553817155e-07
+
+
+
+
+this is iteration number89
+The  current value of  element 0 is :4.051529730580313
+ The value of  target 1 is 3.985679238897033 and the corresponding error value is 0.00021965495967123723
+
+
+
+
+this is iteration number90
+The  current value of  element 0 is :3.838571217535816
+ The value of  target 1 is 3.9501634817805855 and the corresponding error value is 0.0025337650664535075
+
+
+
+
+this is iteration number91
+The  current value of  element 0 is :3.7948351055503178
+ The value of  target 1 is 3.936158370976047 and the corresponding error value is 0.004139845225456065
+
+
+
+
+this is iteration number92
+The  current value of  element 0 is :4.201821939896909
+ The value of  target 1 is 3.942518902525353 and the corresponding error value is 0.0033618076643646033
+
+
+
+
+this is iteration number93
+The  current value of  element 0 is :4.023648787500454
+ The value of  target 1 is 3.993934604157686 and the corresponding error value is 4.310442256628231e-05
+
+
+
+
+this is iteration number94
+The  current value of  element 0 is :4.564515624324015
+ The value of  target 1 is 3.846871685042875 and the corresponding error value is 0.023601659156565778
+
+
+
+
+this is iteration number95
+The  current value of  element 0 is :4.104640408905034
+ The value of  target 1 is 3.9701723946438046 and the corresponding error value is 0.0009197636466411715
+
+
+
+
+this is iteration number96
+The  current value of  element 0 is :3.713161371130022
+ The value of  target 1 is 3.909400615788856 and the corresponding error value is 0.008299097803649723
+
+
+
+
+this is iteration number97
+The  current value of  element 0 is :3.773533580035327
+ The value of  target 1 is 3.9292563898901816 and the corresponding error value is 0.005075651981479912
+
+
+
+
+this is iteration number98
+The  current value of  element 0 is :4.93913782634343
+ The value of  target 1 is 3.759026743733455 and the corresponding error value is 0.05830933349196891
+
+
+
+
+this is iteration number99
+The  current value of  element 0 is :4.183228595118746
+ The value of  target 1 is 3.9477392283287314 and the corresponding error value is 0.0027836990273478073
+
+
+
+
+this is iteration number100
+The  current value of  element 0 is :4.305280048494733
+ The value of  target 1 is 3.9140606348340077 and the corresponding error value is 0.007471763850299872
+
+
+
+
+this is iteration number101
+The  current value of  element 0 is :3.955567766885685
+ The value of  target 1 is 3.9865658711050647 and the corresponding error value is 0.00019415994806068894
+
+
+
+
+this is iteration number102
+The  current value of  element 0 is :4.233925816544599
+ The value of  target 1 is 3.933582141131623 and the corresponding error value is 0.004477999835528079
+
+
+
+
+this is iteration number103
+The  current value of  element 0 is :4.06340614729321
+ The value of  target 1 is 3.98218690731413 and the corresponding error value is 0.0003353693637212857
+
+
+
+
+this is iteration number104
+The  current value of  element 0 is :3.9633011584783437
+ The value of  target 1 is 3.9889191832444078 and the corresponding error value is 0.00013411531672662033
+
+
+
+
+this is iteration number105
+The  current value of  element 0 is :3.9995000160758263
+ The value of  target 1 is 3.999849991697396 and the corresponding error value is 4.2251079345496946e-07
+
+
+
+
+this is iteration number106
+The  current value of  element 0 is :3.4342530687502064
+ The value of  target 1 is 3.8116257985007 and the corresponding error value is 0.03567346399199839
+
+
+
+
+this is iteration number107
+The  current value of  element 0 is :4.442928986736995
+ The value of  target 1 is 3.877680143331647 and the corresponding error value is 0.015084717192034977
+
+
+
+
+this is iteration number108
+The  current value of  element 0 is :3.7346407039123513
+ The value of  target 1 is 3.9165153618304487 and the corresponding error value is 0.0070534194484705584
+
+
+
+
+this is iteration number109
+The  current value of  element 0 is :4.1926657505074925
+ The value of  target 1 is 3.9450855159051432 and the corresponding error value is 0.003070765047499202
+
+
+
+
+this is iteration number110
+The  current value of  element 0 is :5.114522913529739
+ The value of  target 1 is 3.721213171427034 and the corresponding error value is 0.07800113261434563
+
+
+
+
+this is iteration number111
+The  current value of  element 0 is :3.7769631194092
+ The value of  target 1 is 3.93037122342557 and the corresponding error value is 0.004918045303826393
+
+
+
+
+this is iteration number112
+The  current value of  element 0 is :3.447045350336661
+ The value of  target 1 is 3.8163415125483 and the corresponding error value is 0.03391434850049825
+
+
+
+
+this is iteration number113
+The  current value of  element 0 is :4.326593727292383
+ The value of  target 1 is 3.9083189646495953 and the corresponding error value is 0.008497343278272678
+
+
+
+
+this is iteration number114
+The  current value of  element 0 is :4.1573253567308885
+ The value of  target 1 is 3.9550670169945974 and the corresponding error value is 0.0020641559447692574
+
+
+
+
+this is iteration number115
+The  current value of  element 0 is :4.652220042498969
+ The value of  target 1 is 3.825379095199139 and the corresponding error value is 0.0306673312982724
+
+
+
+
+this is iteration number116
+The  current value of  element 0 is :4.427632874291816
+ The value of  target 1 is 3.8816423568165934 and the corresponding error value is 0.014127139343114142
+
+
+
+
+this is iteration number117
+The  current value of  element 0 is :4.583180278095841
+ The value of  target 1 is 3.8422476350325745 and the corresponding error value is 0.025043811017783437
+
+
+
+
+this is iteration number118
+The  current value of  element 0 is :3.951976407966151
+ The value of  target 1 is 3.985470817269715 and the corresponding error value is 0.00022587633354031946
+
+
+
+
+this is iteration number119
+The  current value of  element 0 is :4.046595425203391
+ The value of  target 1 is 3.987134435020727 and the corresponding error value is 0.00017863832721518055
+
+
+
+
+this is iteration number120
+The  current value of  element 0 is :3.907529085317011
+ The value of  target 1 is 3.9718024208055787 and the corresponding error value is 0.0008235510516201197
+
+
+
+
+this is iteration number121
+The  current value of  element 0 is :4.320159806706226
+ The value of  target 1 is 3.9100479181532144 and the corresponding error value is 0.008181579110417713
+
+
+
+
+this is iteration number122
+The  current value of  element 0 is :3.8463087239994014
+ The value of  target 1 is 3.952618238610648 and the corresponding error value is 0.002292663073746911
+
+
+
+
+this is iteration number123
+The  current value of  element 0 is :3.970087235143187
+ The value of  target 1 is 3.990978947735235 and the corresponding error value is 9.065043622840081e-05
+
+
+
+
+this is iteration number124
+The  current value of  element 0 is :4.196846398838239
+ The value of  target 1 is 3.943912632812295 and the corresponding error value is 0.0032021301252362112
+
+
+
+
+this is iteration number125
+The  current value of  element 0 is :4.428853360763435
+ The value of  target 1 is 3.881325484919339 and the corresponding error value is 0.014202565044710885
+
+
+
+
+this is iteration number126
+The  current value of  element 0 is :3.6227213057747205
+ The value of  target 1 is 3.8788153222613166 and the corresponding error value is 0.01480716079636737
+
+
+
+
+this is iteration number127
+The  current value of  element 0 is :3.1292705659833633
+ The value of  target 1 is 3.691821681555785 and the corresponding error value is 0.09528230427754848
+
+
+
+
+this is iteration number128
+The  current value of  element 0 is :3.335534334744728
+ The value of  target 1 is 3.7744307744592054 and the corresponding error value is 0.05110729473661494
+
+
+
+
+this is iteration number129
+The  current value of  element 0 is :3.7005485060718026
+ The value of  target 1 is 3.9051964663603935 and the corresponding error value is 0.009082763524195719
+
+
+
+
+this is iteration number130
+The  current value of  element 0 is :4.175655273739681
+ The value of  target 1 is 3.9498749841428955 and the corresponding error value is 0.0025628922305321435
+
+
+
+
+this is iteration number131
+The  current value of  element 0 is :3.746472625013986
+ The value of  target 1 is 3.9204106224605133 and the corresponding error value is 0.006414308394662534
+
+
+
+
+this is iteration number132
+The  current value of  element 0 is :4.3935320426975695
+ The value of  target 1 is 3.8905470713514525 and the corresponding error value is 0.012089646518392711
+
+
+
+
+this is iteration number133
+The  current value of  element 0 is :3.8867296747366247
+ The value of  target 1 is 3.9653316966719387 and the corresponding error value is 0.0012368095589745673
+
+
+
+
+this is iteration number134
+The  current value of  element 0 is :2.123936476422269
+ The value of  target 1 is 3.1620837101750188 and the corresponding error value is 0.7029418750438879
+
+
+
+
+this is iteration number135
+The  current value of  element 0 is :4.403065387097025
+ The value of  target 1 is 3.888047641442787 and the corresponding error value is 0.012645532945080102
+
+
+
+
+this is iteration number136
+The  current value of  element 0 is :3.546986072017668
+ The value of  target 1 is 3.8523939958521396 and the corresponding error value is 0.021935388464646224
+
+
+
+
+this is iteration number137
+The  current value of  element 0 is :4.707931817616008
+ The value of  target 1 is 3.812031408450613 and the corresponding error value is 0.035520410000609876
+
+
+
+
+this is iteration number138
+The  current value of  element 0 is :4.253320559191204
+ The value of  target 1 is 3.9282298144591037 and the corresponding error value is 0.005222979718115667
+
+
+
+
+this is iteration number139
+The  current value of  element 0 is :4.200069989941416
+ The value of  target 1 is 3.9430093848315133 and the corresponding error value is 0.0033051708324511025
+
+
+
+
+this is iteration number140
+The  current value of  element 0 is :4.039300250077705
+ The value of  target 1 is 3.989290457865244 and the corresponding error value is 0.00012565383487088506
+
+
+
+
+this is iteration number141
+The  current value of  element 0 is :4.269541859512612
+ The value of  target 1 is 3.923779900746611 and the corresponding error value is 0.005885973629449922
+
+
+
+
+this is iteration number142
+The  current value of  element 0 is :4.1346721058157225
+ The value of  target 1 is 3.9615286148039504 and the corresponding error value is 0.001518768864098925
+
+
+
+
+this is iteration number143
+The  current value of  element 0 is :3.028360100464763
+ The value of  target 1 is 3.6487892066443313 and the corresponding error value is 0.12370048216287435
+
+
+
+
+this is iteration number144
+The  current value of  element 0 is :4.418899904442873
+ The value of  target 1 is 3.8839133558734185 and the corresponding error value is 0.013592445588698312
+
+
+
+
+this is iteration number145
+The  current value of  element 0 is :3.885099326341847
+ The value of  target 1 is 3.9648224613979757 and the corresponding error value is 0.0012728867606989797
+
+
+
+
+this is iteration number146
+The  current value of  element 0 is :4.368599262244106
+ The value of  target 1 is 3.8971209274875953 and the corresponding error value is 0.010687232633525154
+
+
+
+
+this is iteration number147
+The  current value of  element 0 is :4.510133065783621
+ The value of  target 1 is 3.860502733032991 and the corresponding error value is 0.01959923475823214
+
+
+
+
+this is iteration number148
+The  current value of  element 0 is :4.27798321970629
+ The value of  target 1 is 3.921473752496146 and the corresponding error value is 0.00624514779454048
+
+
+
+
+this is iteration number149
+The  current value of  element 0 is :4.042423490241298
+ The value of  target 1 is 3.988366743622679 and the corresponding error value is 0.0001472159103178139
+
+
+
+
+this is iteration number150
+The  current value of  element 0 is :5.500831581583885
+ The value of  target 1 is 3.6444078568160077 and the corresponding error value is 0.12680161443736934
+
+
+
+
+this is iteration number151
+The  current value of  element 0 is :3.693179085522944
+ The value of  target 1 is 3.902730996871036 and the corresponding error value is 0.009558777972831497
+
+
+
+
+this is iteration number152
+The  current value of  element 0 is :3.955244686881855
+ The value of  target 1 is 3.986467416436916 and the corresponding error value is 0.0001969134014549574
+
+
+
+
+this is iteration number153
+The  current value of  element 0 is :4.313532783188859
+ The value of  target 1 is 3.911832621883754 and the corresponding error value is 0.007861903942009484
+
+
+
+
+this is iteration number154
+The  current value of  element 0 is :4.072635933506369
+ The value of  target 1 is 3.9794827321445867 and the corresponding error value is 0.00044172554810621495
+
+
+
+
+this is iteration number155
+The  current value of  element 0 is :4.307380035686348
+ The value of  target 1 is 3.9134931163713773 and the corresponding error value is 0.007570197798764797
+
+
+
+
+this is iteration number156
+The  current value of  element 0 is :4.319202245461126
+ The value of  target 1 is 3.910305553767227 and the corresponding error value is 0.008135038131236711
+
+
+
+
+this is iteration number157
+The  current value of  element 0 is :3.7624426474109565
+ The value of  target 1 is 3.9256415237397064 and the corresponding error value is 0.005603791468013028
+
+
+
+
+this is iteration number158
+The  current value of  element 0 is :3.838620618673175
+ The value of  target 1 is 3.950179176200542 and the corresponding error value is 0.002532185307856156
+
+
+
+
+this is iteration number159
+The  current value of  element 0 is :4.105115653392812
+ The value of  target 1 is 3.970034914147768 and the corresponding error value is 0.0009281214559838907
+
+
+
+
+this is iteration number160
+The  current value of  element 0 is :4.140841353908078
+ The value of  target 1 is 3.959763948557632 and the corresponding error value is 0.0016594258871152903
+
+
+
+
+this is iteration number161
+The  current value of  element 0 is :3.370818451457737
+ The value of  target 1 is 3.787890885771025 and the corresponding error value is 0.04520263545322962
+
+
+
+
+this is iteration number162
+The  current value of  element 0 is :3.4501881602645548
+ The value of  target 1 is 3.817496495229057 and the corresponding error value is 0.033490282758448744
+
+
+
+
+this is iteration number163
+The  current value of  element 0 is :4.41857914487926
+ The value of  target 1 is 3.8839968921796117 and the corresponding error value is 0.013572974131809152
+
+
+
+
+this is iteration number164
+The  current value of  element 0 is :3.9455482634925136
+ The value of  target 1 is 3.983507319405698 and the corresponding error value is 0.0002887511937799954
+
+
+
+
+this is iteration number165
+The  current value of  element 0 is :3.6348359241897206
+ The value of  target 1 is 3.882972270806362 and the corresponding error value is 0.013812767129413284
+
+
+
+
+this is iteration number166
+The  current value of  element 0 is :4.5308102102617465
+ The value of  target 1 is 3.855292012253617 and the corresponding error value is 0.021085359705353843
+
+
+
+
+this is iteration number167
+The  current value of  element 0 is :3.80714798203455
+ The value of  target 1 is 3.9401236205027317 and the corresponding error value is 0.003645307201198236
+
+
+
+
+this is iteration number168
+The  current value of  element 0 is :4.2593419409745295
+ The value of  target 1 is 3.926575176394457 and the corresponding error value is 0.005464879545110743
+
+
+
+
+this is iteration number169
+The  current value of  element 0 is :4.571889766825398
+ The value of  target 1 is 3.8450415065788395 and the corresponding error value is 0.0241673431767772
+
+
+
+
+this is iteration number170
+The  current value of  element 0 is :3.3859369475525725
+ The value of  target 1 is 3.793601262478654 and the corresponding error value is 0.04280708758792702
+
+
+
+
+this is iteration number171
+The  current value of  element 0 is :4.027333011128348
+ The value of  target 1 is 3.992839132351655 and the corresponding error value is 5.868889312546848e-05
+
+
+
+
+this is iteration number172
+The  current value of  element 0 is :3.9124795140277238
+ The value of  target 1 is 3.9733354578124884 and the corresponding error value is 0.0007379123522571294
+
+
+
+
+this is iteration number173
+The  current value of  element 0 is :4.134200072680739
+ The value of  target 1 is 3.9616637895973392 and the corresponding error value is 0.0015082512384397846
+
+
+
+
+this is iteration number174
+The  current value of  element 0 is :3.943939872111474
+ The value of  target 1 is 3.9830153331795155 and the corresponding error value is 0.00030571357382337276
+
+
+
+
+this is iteration number175
+The  current value of  element 0 is :4.000382112997094
+ The value of  target 1 is 4.000114626233992 and the corresponding error value is 1.4851293952787442e-07
+
+
+
+
+this is iteration number176
+The  current value of  element 0 is :3.976051680717573
+ The value of  target 1 is 3.9927852675900812 and the corresponding error value is 5.9517096156660453e-05
+
+
+
+
+this is iteration number177
+The  current value of  element 0 is :3.678761116989225
+ The value of  target 1 is 3.8978879202708447 and the corresponding error value is 0.010529238906342641
+
+
+
+
+this is iteration number178
+The  current value of  element 0 is :3.8486657293933524
+ The value of  target 1 is 3.9533646516943945 and the corresponding error value is 0.0022217410598908004
+
+
+
+
+this is iteration number179
+The  current value of  element 0 is :4.477982641534885
+ The value of  target 1 is 3.8686738850813027 and the corresponding error value is 0.017378124574557743
+
+
+
+
+this is iteration number180
+The  current value of  element 0 is :3.850181698914498
+ The value of  target 1 is 3.953844392604413 and the corresponding error value is 0.0021767457014511987
+
+
+
+
+this is iteration number181
+The  current value of  element 0 is :3.669076098162029
+ The value of  target 1 is 3.894620102233262 and the corresponding error value is 0.01121055275109501
+
+
+
+
+this is iteration number182
+The  current value of  element 0 is :3.960363511795147
+ The value of  target 1 is 3.9880259972401584 and the corresponding error value is 0.00015560074485255153
+
+
+
+
+this is iteration number183
+The  current value of  element 0 is :4.533629860971944
+ The value of  target 1 is 3.8545841215584202 and the corresponding error value is 0.021291443581378064
+
+
+
+
+this is iteration number184
+The  current value of  element 0 is :4.64589956718722
+ The value of  target 1 is 3.8269081533178637 and the corresponding error value is 0.03013412923451452
+
+
+
+
+this is iteration number185
+The  current value of  element 0 is :3.8715920743512457
+ The value of  target 1 is 3.960592071493472 and the corresponding error value is 0.0015926427576821874
+
+
+
+
+this is iteration number186
+The  current value of  element 0 is :3.7465346445279835
+ The value of  target 1 is 3.9204309958208774 and the corresponding error value is 0.006411045430236451
+
+
+
+
+this is iteration number187
+The  current value of  element 0 is :3.332688040693643
+ The value of  target 1 is 3.7733367728170575 and the corresponding error value is 0.051603131784169434
+
+
+
+
+this is iteration number188
+The  current value of  element 0 is :3.4478100532677622
+ The value of  target 1 is 3.816622670349263 and the corresponding error value is 0.03381087235948605
+
+
+
+
+this is iteration number189
+The  current value of  element 0 is :4.065061256955709
+ The value of  target 1 is 3.981701351916163 and the corresponding error value is 0.0003533891697799702
+
+
+
+
+this is iteration number190
+The  current value of  element 0 is :3.796717702939752
+ The value of  target 1 is 3.9367657917379066 and the corresponding error value is 0.004062049302795968
+
+
+
+
+this is iteration number191
+The  current value of  element 0 is :4.991493825058148
+ The value of  target 1 is 3.7475315270019145 and the corresponding error value is 0.06399304833098342
+
+
+
+
+this is iteration number192
+The  current value of  element 0 is :4.136818766176932
+ The value of  target 1 is 3.960914156876475 and the corresponding error value is 0.001567038975800365
+
+
+
+
+this is iteration number193
+The  current value of  element 0 is :3.2038888302398263
+ The value of  target 1 is 3.7225063907457248 and the corresponding error value is 0.07728044678621901
+
+
+
+
+this is iteration number194
+The  current value of  element 0 is :4.601118439309146
+ The value of  target 1 is 3.8378293258769345 and the corresponding error value is 0.026461748219652775
+
+
+
+
+this is iteration number195
+The  current value of  element 0 is :3.5113802687855262
+ The value of  target 1 is 3.839707737223768 and the corresponding error value is 0.025854151768701036
+
+
+
+
+this is iteration number196
+The  current value of  element 0 is :4.261811804458039
+ The value of  target 1 is 3.9258974376996836 and the corresponding error value is 0.005565542301772684
+
+
+
+
+this is iteration number197
+The  current value of  element 0 is :3.5602779317945963
+ The value of  target 1 is 3.857085948647068 and the corresponding error value is 0.02056759012546156
+
+
+
+
+this is iteration number198
+The  current value of  element 0 is :4.666814781821037
+ The value of  target 1 is 3.8218598884711 and the corresponding error value is 0.031912289447058
+
+
+
+
+this is iteration number199
+The  current value of  element 0 is :4.09463156686315
+ The value of  target 1 is 3.973073015444596 and the corresponding error value is 0.0007522394818023963
+
+
+
+
+this is iteration number200
+The  current value of  element 0 is :3.9874467393862094
+ The value of  target 1 is 3.9962257304227005 and the corresponding error value is 1.82693804194336e-05
+
+
+
+
+this is iteration number201
+The  current value of  element 0 is :4.770837711681312
+ The value of  target 1 is 3.7972357860642703 and the corresponding error value is 0.04131634066691036
+
+
+
+
+this is iteration number202
+The  current value of  element 0 is :2.5735252776528084
+ The value of  target 1 is 3.4296891250787604 and the corresponding error value is 0.3258250549283517
+
+
+
+
+this is iteration number203
+The  current value of  element 0 is :3.9950753948640196
+ The value of  target 1 is 3.9985213441449416 and the corresponding error value is 3.9150789927591194e-06
+
+
+
+
+this is iteration number204
+The  current value of  element 0 is :4.198316269658049
+ The value of  target 1 is 3.94350065387314 and the corresponding error value is 0.0032489254588896756
+
+
+
+
+this is iteration number205
+The  current value of  element 0 is :4.650374816268008
+ The value of  target 1 is 3.825825180996393 and the corresponding error value is 0.03051129239394307
+
+
+
+
+this is iteration number206
+The  current value of  element 0 is :3.6383801326455085
+ The value of  target 1 is 3.884184854736766 and the corresponding error value is 0.013529213017607343
+
+
+
+
+this is iteration number207
+The  current value of  element 0 is :3.7827712930253448
+ The value of  target 1 is 3.9322561020189744 and the corresponding error value is 0.00465722961164472
+
+
+
+
+this is iteration number208
+The  current value of  element 0 is :3.96836754703736
+ The value of  target 1 is 3.9904574395572676 and the corresponding error value is 0.00010085302024594554
+
+
+
+
+this is iteration number209
+The  current value of  element 0 is :3.6468175159509224
+ The value of  target 1 is 3.8870650944518 and the corresponding error value is 0.012867477796729209
+
+
+
+
+this is iteration number210
+The  current value of  element 0 is :4.606518784305731
+ The value of  target 1 is 3.8365040900864615 and the corresponding error value is 0.026894658468369623
+
+
+
+
+this is iteration number211
+The  current value of  element 0 is :4.6970678594424795
+ The value of  target 1 is 3.814616039173619 and the corresponding error value is 0.034552846892503764
+
+
+
+
+this is iteration number212
+The  current value of  element 0 is :3.7577204653143967
+ The value of  target 1 is 3.9240979758533006 and the corresponding error value is 0.0058372692937129385
+
+
+
+
+this is iteration number213
+The  current value of  element 0 is :4.805946737399512
+ The value of  target 1 is 3.7891021898165302 and the corresponding error value is 0.04468903415036657
+
+
+
+
+this is iteration number214
+The  current value of  element 0 is :4.181337007609256
+ The value of  target 1 is 3.948272161690224 and the corresponding error value is 0.0027277470945121585
+
+
+
+
+this is iteration number215
+The  current value of  element 0 is :3.0866348419543845
+ The value of  target 1 is 3.673860705666359 and the corresponding error value is 0.10669322860277934
+
+
+
+
+this is iteration number216
+The  current value of  element 0 is :4.060646314622606
+ The value of  target 1 is 3.982997171523265 and the corresponding error value is 0.00030634900468602547
+
+
+
+
+this is iteration number217
+The  current value of  element 0 is :3.906807583956427
+ The value of  target 1 is 3.9715787625241394 and the corresponding error value is 0.0008364379771351567
+
+
+
+
+this is iteration number218
+The  current value of  element 0 is :3.7508371651000703
+ The value of  target 1 is 3.9218432416201727 and the corresponding error value is 0.006186885638822624
+
+
+
+
+this is iteration number219
+The  current value of  element 0 is :3.7317204812738343
+ The value of  target 1 is 3.915551372901041 and the corresponding error value is 0.0072162692459981055
+
+
+
+
+this is iteration number220
+The  current value of  element 0 is :4.253879647661122
+ The value of  target 1 is 3.9280760398315993 and the corresponding error value is 0.005245230006474187
+
+
+
+
+this is iteration number221
+The  current value of  element 0 is :4.230697847718413
+ The value of  target 1 is 3.9344763468165063 and the corresponding error value is 0.004359122779694343
+
+
+
+
+this is iteration number222
+The  current value of  element 0 is :4.388286590506252
+ The value of  target 1 is 3.891925642186739 and the corresponding error value is 0.011788391174562167
+
+
+
+
+this is iteration number223
+The  current value of  element 0 is :4.622194910924842
+ The value of  target 1 is 3.8326699899537244 and the corresponding error value is 0.028166912272133162
+
+
+
+
+this is iteration number224
+The  current value of  element 0 is :4.15101378864656
+ The value of  target 1 is 3.956862308411167 and the corresponding error value is 0.001904248127202166
+
+
+
+
+this is iteration number225
+The  current value of  element 0 is :3.452749769974666
+ The value of  target 1 is 3.8184368475250303 and the corresponding error value is 0.03314699148912428
+
+
+
+
+this is iteration number226
+The  current value of  element 0 is :3.859751364264814
+ The value of  target 1 is 3.9568667683224414 and the corresponding error value is 0.001903858906627553
+
+
+
+
+this is iteration number227
+The  current value of  element 0 is :4.010803392155599
+ The value of  target 1 is 3.9977650982380233 and the corresponding error value is 7.479687647666685e-06
+
+
+
+
+this is iteration number228
+The  current value of  element 0 is :4.580180718668476
+ The value of  target 1 is 3.8429889075093193 and the corresponding error value is 0.024809744257607957
+
+
+
+
+this is iteration number229
+The  current value of  element 0 is :4.634946102004853
+ The value of  target 1 is 3.8295652400946834 and the corresponding error value is 0.029218692143888458
+
+
+
+
+this is iteration number230
+The  current value of  element 0 is :4.049644407902079
+ The value of  target 1 is 3.9862349529823735 and the corresponding error value is 0.00020349156641511173
+
+
+
+
+this is iteration number231
+The  current value of  element 0 is :3.887855846607291
+ The value of  target 1 is 3.9656832805790203 and the corresponding error value is 0.0012122039512392668
+
+
+
+
+this is iteration number232
+The  current value of  element 0 is :4.205571165427306
+ The value of  target 1 is 3.941470231067699 and the corresponding error value is 0.00348451362020092
+
+
+
+
+this is iteration number233
+The  current value of  element 0 is :4.39161802833962
+ The value of  target 1 is 3.8910498239510085 and the corresponding error value is 0.011979341037155363
+
+
+
+
+this is iteration number234
+The  current value of  element 0 is :3.741781571511255
+ The value of  target 1 is 3.9188682727070785 and the corresponding error value is 0.006663738900826006
+
+
+
+
+this is iteration number235
+The  current value of  element 0 is :3.330994204704231
+ The value of  target 1 is 3.7726851441219678 and the corresponding error value is 0.05189960855872888
+
+
+
+
+this is iteration number236
+The  current value of  element 0 is :4.138875230401512
+ The value of  target 1 is 3.9603259393009456 and the corresponding error value is 0.0016139551530513594
+
+
+
+
+this is iteration number237
+The  current value of  element 0 is :3.8275362920347087
+ The value of  target 1 is 3.946650745826876 and the corresponding error value is 0.0028997421750017994
+
+
+
+
+this is iteration number238
+The  current value of  element 0 is :3.5722534792573057
+ The value of  target 1 is 3.8612930457907093 and the corresponding error value is 0.019378576100227723
+
+
+
+
+this is iteration number239
+The  current value of  element 0 is :3.4721994214408234
+ The value of  target 1 is 3.8255464022091674 and the corresponding error value is 0.030608761379956634
+
+
+
+
+this is iteration number240
+The  current value of  element 0 is :4.697882498539864
+ The value of  target 1 is 3.8144219256594107 and the corresponding error value is 0.03462504975030209
+
+
+
+
+this is iteration number241
+The  current value of  element 0 is :4.177199686968864
+ The value of  target 1 is 3.949438997764217 and the corresponding error value is 0.0026072259493227184
+
+
+
+
+this is iteration number242
+The  current value of  element 0 is :3.9309582390833286
+ The value of  target 1 is 3.9790341559361178 and the corresponding error value is 0.0004607824613749348
+
+
+
+
+this is iteration number243
+The  current value of  element 0 is :3.750431380678778
+ The value of  target 1 is 3.921710143196464 and the corresponding error value is 0.006207841535121797
+
+
+
+
+this is iteration number244
+The  current value of  element 0 is :4.109396682868571
+ The value of  target 1 is 3.968797493434203 and the corresponding error value is 0.001005048922554429
+
+
+
+
+this is iteration number245
+The  current value of  element 0 is :4.1188590770455615
+ The value of  target 1 is 3.966068856494802 and the corresponding error value is 0.0011855036430755723
+
+
+
+
+this is iteration number246
+The  current value of  element 0 is :3.921236234963639
+ The value of  target 1 is 3.9760406226041316 and the corresponding error value is 0.0005982611425935478
+
+
+
+
+this is iteration number247
+The  current value of  element 0 is :4.2443960075900975
+ The value of  target 1 is 3.93068837672563 and the corresponding error value is 0.004873662744202615
+
+
+
+
+this is iteration number248
+The  current value of  element 0 is :3.9421492675824714
+ The value of  target 1 is 3.982467281165191 and the corresponding error value is 0.0003251789485753014
+
+
+
+
+this is iteration number249
+The  current value of  element 0 is :3.909519723708369
+ The value of  target 1 is 3.9724192014141475 and the corresponding error value is 0.0007885312492192498
+
+
+
+
+this is iteration number250
+The  current value of  element 0 is :3.5063347898173545
+ The value of  target 1 is 3.8378960476458137 and the corresponding error value is 0.02644004532120268
+
+
+
+
+this is iteration number251
+The  current value of  element 0 is :3.4966654603671135
+ The value of  target 1 is 3.8344142591478 and the corresponding error value is 0.02758447331442438
+
+
+
+
+this is iteration number252
+The  current value of  element 0 is :4.12885829329968
+ The value of  target 1 is 3.963195021877956 and the corresponding error value is 0.0013916613926862169
+
+
+
+
+this is iteration number253
+The  current value of  element 0 is :3.180509568353008
+ The value of  target 1 is 3.7129929529537473 and the corresponding error value is 0.08266030210125651
+
+
+
+
+this is iteration number254
+The  current value of  element 0 is :4.406597306750278
+ The value of  target 1 is 3.8871236275821675 and the corresponding error value is 0.0128542018226272
+
+
+
+
+this is iteration number255
+The  current value of  element 0 is :2.8947299900682344
+ The value of  target 1 is 3.5889038549674948 and the corresponding error value is 0.1694113866056196
+
+
+
+
+this is iteration number256
+The  current value of  element 0 is :3.1554311073847634
+ The value of  target 1 is 3.7026865338662294 and the corresponding error value is 0.08869286061061091
+
+
+
+
+this is iteration number257
+The  current value of  element 0 is :4.802874573402063
+ The value of  target 1 is 3.7898104096278384 and the corresponding error value is 0.04439010349118949
+
+
+
+
+this is iteration number258
+The  current value of  element 0 is :4.802496822363074
+ The value of  target 1 is 3.7898975379183613 and the corresponding error value is 0.04435339703484834
+
+
+
+
+this is iteration number259
+The  current value of  element 0 is :3.6247328263331995
+ The value of  target 1 is 3.8795068513130877 and the corresponding error value is 0.014639342029173415
+
+
+
+
+this is iteration number260
+The  current value of  element 0 is :3.873409913291275
+ The value of  target 1 is 3.961162598738599 and the corresponding error value is 0.0015474311380005215
+
+
+
+
+this is iteration number261
+The  current value of  element 0 is :4.178894787933529
+ The value of  target 1 is 3.9489607354297673 and the corresponding error value is 0.0026562957924405033
+
+
+
+
+this is iteration number262
+The  current value of  element 0 is :4.189034152300306
+ The value of  target 1 is 3.946105711002642 and the corresponding error value is 0.002958738675528185
+
+
+
+
+this is iteration number263
+The  current value of  element 0 is :3.138868581155466
+ The value of  target 1 is 3.6958214803030676 and the corresponding error value is 0.09282900036471442
+
+
+
+
+this is iteration number264
+The  current value of  element 0 is :3.848788126873417
+ The value of  target 1 is 3.9534033950775513 and the corresponding error value is 0.002218090195221273
+
+
+
+
+this is iteration number265
+The  current value of  element 0 is :3.770538114899356
+ The value of  target 1 is 3.9282815193610365 and the corresponding error value is 0.005215508945800429
+
+
+
+
+this is iteration number266
+The  current value of  element 0 is :4.186195811743384
+ The value of  target 1 is 3.946903937039064 and the corresponding error value is 0.0028725379649126867
+
+
+
+
+this is iteration number267
+The  current value of  element 0 is :3.75190131501704
+ The value of  target 1 is 3.922192191902837 and the corresponding error value is 0.006132112808982191
+
+
+
+
+this is iteration number268
+The  current value of  element 0 is :3.9067528987905167
+ The value of  target 1 is 3.971561808323161 and the corresponding error value is 0.0008374189375254982
+
+
+
+
+this is iteration number269
+The  current value of  element 0 is :4.024613386246536
+ The value of  target 1 is 3.9936476532026584 and the corresponding error value is 4.695465663104669e-05
+
+
+
+
+this is iteration number270
+The  current value of  element 0 is :3.658989265401156
+ The value of  target 1 is 3.8912041849802157 and the corresponding error value is 0.011945575180839042
+
+
+
+
+this is iteration number271
+The  current value of  element 0 is :4.24965708174317
+ The value of  target 1 is 3.9292381499387865 and the corresponding error value is 0.005078251274146961
+
+
+
+
+this is iteration number272
+The  current value of  element 0 is :3.8230924462281317
+ The value of  target 1 is 3.9452321868961833 and the corresponding error value is 0.003054531165278484
+
+
+
+
+this is iteration number273
+The  current value of  element 0 is :3.7047366004197873
+ The value of  target 1 is 3.9065946219711787 and the corresponding error value is 0.008818220022735952
+
+
+
+
+this is iteration number274
+The  current value of  element 0 is :3.9019136560203798
+ The value of  target 1 is 3.970060176435282 and the corresponding error value is 0.0009265828586511933
+
+
+
+
+this is iteration number275
+The  current value of  element 0 is :4.152171753675287
+ The value of  target 1 is 3.9565326421664047 and the corresponding error value is 0.0019331285548674715
+
+
+
+
+this is iteration number276
+The  current value of  element 0 is :4.410066957077752
+ The value of  target 1 is 3.8862169422401687 and the corresponding error value is 0.013060617290937084
+
+
+
+
+this is iteration number277
+The  current value of  element 0 is :4.114934967640241
+ The value of  target 1 is 3.9671993628568645 and the corresponding error value is 0.001108932434138818
+
+
+
+
+this is iteration number278
+The  current value of  element 0 is :4.6821287505001665
+ The value of  target 1 is 3.818184521309072 and the corresponding error value is 0.033238933770302466
+
+
+
+
+this is iteration number279
+The  current value of  element 0 is :3.5901518870687594
+ The value of  target 1 is 3.8675454745954325 and the corresponding error value is 0.01767690582555394
+
+
+
+
+this is iteration number280
+The  current value of  element 0 is :3.7598251364896136
+ The value of  target 1 is 3.9247862623410517 and the corresponding error value is 0.005732570070288145
+
+
+
+
+this is iteration number281
+The  current value of  element 0 is :3.783400872429958
+ The value of  target 1 is 3.932460174973044 and the corresponding error value is 0.004629417789698885
+
+
+
+
+this is iteration number282
+The  current value of  element 0 is :3.549771882009092
+ The value of  target 1 is 3.853379333960106 and the corresponding error value is 0.021644490376022164
+
+
+
+
+this is iteration number283
+The  current value of  element 0 is :3.5619661216413254
+ The value of  target 1 is 3.8576801783929042 and the corresponding error value is 0.020397501443882835
+
+
+
+
+this is iteration number284
+The  current value of  element 0 is :2.8200749556104343
+ The value of  target 1 is 3.5539109491324172 and the corresponding error value is 0.19944178035480897
+
+
+
+
+this is iteration number285
+The  current value of  element 0 is :4.667989035271492
+ The value of  target 1 is 3.8215774421503266 and the corresponding error value is 0.032013281707469955
+
+
+
+
+this is iteration number286
+The  current value of  element 0 is :3.9148428353902345
+ The value of  target 1 is 3.974066374666911 and the corresponding error value is 0.0006987365482501607
+
+
+
+
+this is iteration number287
+The  current value of  element 0 is :3.6519551967130983
+ The value of  target 1 is 3.8888144896768666 and the corresponding error value is 0.012473653216138874
+
+
+
+
+this is iteration number288
+The  current value of  element 0 is :4.614163108188167
+ The value of  target 1 is 3.8346320523176063 and the corresponding error value is 0.0275121760683695
+
+
+
+
+this is iteration number289
+The  current value of  element 0 is :3.6751817907306084
+ The value of  target 1 is 3.8966815895314477 and the corresponding error value is 0.010778262352216933
+
+
+
+
+this is iteration number290
+The  current value of  element 0 is :4.027020709692844
+ The value of  target 1 is 3.992931937925629 and the corresponding error value is 5.7275563561539344e-05
+
+
+
+
+this is iteration number291
+The  current value of  element 0 is :4.060323010634076
+ The value of  target 1 is 3.9830921415980436 and the corresponding error value is 0.00030303353414258565
+
+
+
+
+this is iteration number292
+The  current value of  element 0 is :4.087014980621424
+ The value of  target 1 is 3.9752870528433775 and the corresponding error value is 0.0006356927043226711
+
+
+
+
+this is iteration number293
+The  current value of  element 0 is :4.94758761783336
+ The value of  target 1 is 3.7571592910429388 and the corresponding error value is 0.059214700635725474
+
+
+
+
+this is iteration number294
+The  current value of  element 0 is :3.775308685127044
+ The value of  target 1 is 3.92983359367099 and the corresponding error value is 0.004993740983456823
+
+
+
+
+this is iteration number295
+The  current value of  element 0 is :4.408428962277755
+ The value of  target 1 is 3.8866448532523092 and the corresponding error value is 0.012962994440938336
+
+
+
+
+this is iteration number296
+The  current value of  element 0 is :3.858029914070902
+ The value of  target 1 is 3.9563238505503504 and the corresponding error value is 0.00195153218019783
+
+
+
+
+this is iteration number297
+The  current value of  element 0 is :4.062986791323051
+ The value of  target 1 is 3.9823099769053307 and the corresponding error value is 0.0003308769401846237
+
+
+
+
+this is iteration number298
+The  current value of  element 0 is :4.046447554538111
+ The value of  target 1 is 3.987178082634154 and the corresponding error value is 0.00017747348230244943
+
+
+
+
+this is iteration number299
+The  current value of  element 0 is :3.687642206369242
+ The value of  target 1 is 3.90087418580331 and the corresponding error value is 0.009925302854353515
+
+
+
+
+this is iteration number300
+The  current value of  element 0 is :4.227998926484278
+ The value of  target 1 is 3.9352247424732383 and the corresponding error value is 0.004260859245185143
+
+
+
+
+this is iteration number301
+The  current value of  element 0 is :3.8521663131071433
+ The value of  target 1 is 3.9544720449788673 and the corresponding error value is 0.0021185726434274728
+
+
+
+
+this is iteration number302
+The  current value of  element 0 is :4.09558903768043
+ The value of  target 1 is 3.9727951025222596 and the corresponding error value is 0.0007675613442521376
+
+
+
+
+this is iteration number303
+The  current value of  element 0 is :3.937478444481214
+ The value of  target 1 is 3.981036043534429 and the corresponding error value is 0.0003788456012936681
+
+
+
+
+this is iteration number304
+The  current value of  element 0 is :3.499220432528473
+ The value of  target 1 is 3.835335523859134 and the corresponding error value is 0.027279304178886892
+
+
+
+
+this is iteration number305
+The  current value of  element 0 is :3.9776959515974104
+ The value of  target 1 is 3.9932825659337765 and the corresponding error value is 5.2091354500292206e-05
+
+
+
+
+this is iteration number306
+The  current value of  element 0 is :4.15048586795661
+ The value of  target 1 is 3.9570126477182166 and the corresponding error value is 0.0018911498084799858
+
+
+
+
+this is iteration number307
+The  current value of  element 0 is :3.9626705240086366
+ The value of  target 1 is 3.988727517928987 and the corresponding error value is 0.00013859133411233304
+
+
+
+
+this is iteration number308
+The  current value of  element 0 is :3.3881259377222745
+ The value of  target 1 is 3.7944252570268855 and the corresponding error value is 0.04246679969143546
+
+
+
+
+this is iteration number309
+The  current value of  element 0 is :3.966275964525755
+ The value of  target 1 is 3.989822726077002 and the corresponding error value is 0.00011400417842674967
+
+
+
+
+this is iteration number310
+The  current value of  element 0 is :4.174350637822141
+ The value of  target 1 is 3.9502434598056553 and the corresponding error value is 0.002525719832305848
+
+
+
+
+this is iteration number311
+The  current value of  element 0 is :4.44154897337184
+ The value of  target 1 is 3.8780368056298444 and the corresponding error value is 0.014997233975342653
+
+
+
+
+this is iteration number312
+The  current value of  element 0 is :4.058626978230168
+ The value of  target 1 is 3.9835905229118698 and the corresponding error value is 0.0002859304153940219
+
+
+
+
+this is iteration number313
+The  current value of  element 0 is :3.8971479051916953
+ The value of  target 1 is 3.9685788180399793 and the corresponding error value is 0.0010189618577247932
+
+
+
+
+this is iteration number314
+The  current value of  element 0 is :4.055884811039967
+ The value of  target 1 is 3.9843969320679893 and the corresponding error value is 0.00025930879682297157
+
+
+
+
+this is iteration number315
+The  current value of  element 0 is :3.773633759156109
+ The value of  target 1 is 3.929288974673797 and the corresponding error value is 0.005071010128009226
+
+
+
+
+this is iteration number316
+The  current value of  element 0 is :4.800449447729413
+ The value of  target 1 is 3.7903699407381612 and the corresponding error value is 0.04415464180538412
+
+
+
+
+this is iteration number317
+The  current value of  element 0 is :3.4795796686945017
+ The value of  target 1 is 3.828230215148776 and the corresponding error value is 0.029676878772687165
+
+
+
+
+this is iteration number318
+The  current value of  element 0 is :4.206497614279776
+ The value of  target 1 is 3.9412113047295163 and the corresponding error value is 0.0035151493868763478
+
+
+
+
+this is iteration number319
+The  current value of  element 0 is :3.462221319741886
+ The value of  target 1 is 3.8219057169335353 and the corresponding error value is 0.031895917944024736
+
+
+
+
+this is iteration number320
+The  current value of  element 0 is :3.7516087120492614
+ The value of  target 1 is 3.922096256664667 and the corresponding error value is 0.006147146968992854
+
+
+
+
+this is iteration number321
+The  current value of  element 0 is :3.6432137483765388
+ The value of  target 1 is 3.8858359989629894 and the corresponding error value is 0.013147833133815715
+
+
+
+
+this is iteration number322
+The  current value of  element 0 is :3.465954588619364
+ The value of  target 1 is 3.823269507594863 and the corresponding error value is 0.0314106474381676
+
+
+
+
+this is iteration number323
+The  current value of  element 0 is :4.099447664024189
+ The value of  target 1 is 3.9716760357480716 and the corresponding error value is 0.0008308209151964817
+
+
+
+
+this is iteration number324
+The  current value of  element 0 is :4.076775473884778
+ The value of  target 1 is 3.978272714997943 and the corresponding error value is 0.0004940521985626905
+
+
+
+
+this is iteration number325
+The  current value of  element 0 is :4.06784479326717
+ The value of  target 1 is 3.9808853796650876 and the corresponding error value is 0.0003847333308827831
+
+
+
+
+this is iteration number326
+The  current value of  element 0 is :3.570662153462746
+ The value of  target 1 is 3.860735099883756 and the corresponding error value is 0.019534227304503844
+
+
+
+
+this is iteration number327
+The  current value of  element 0 is :3.3680181971567604
+ The value of  target 1 is 3.78682947828759 and the corresponding error value is 0.045655091848853746
+
+
+
+
+this is iteration number328
+The  current value of  element 0 is :4.5344714158406605
+ The value of  target 1 is 3.8543729678095886 and the corresponding error value is 0.021353109536777708
+
+
+
+
+this is iteration number329
+The  current value of  element 0 is :3.7216547345298165
+ The value of  target 1 is 3.912220651287951 and the corresponding error value is 0.0077932434090236275
+
+
+
+
+this is iteration number330
+The  current value of  element 0 is :3.854507499069653
+ The value of  target 1 is 3.9552118912797525 and the corresponding error value is 0.002051012791457015
+
+
+
+
+this is iteration number331
+The  current value of  element 0 is :4.221284436035623
+ The value of  target 1 is 3.9370895856871417 and the corresponding error value is 0.0040208806433284176
+
+
+
+
+this is iteration number332
+The  current value of  element 0 is :4.014818159864064
+ The value of  target 1 is 3.9965660500621665 and the corresponding error value is 1.54759621133852e-05
+
+
+
+
+this is iteration number333
+The  current value of  element 0 is :4.252108898603451
+ The value of  target 1 is 3.9285631748550127 and the corresponding error value is 0.0051749068119405625
+
+
+
+
+this is iteration number334
+The  current value of  element 0 is :4.737636280021347
+ The value of  target 1 is 3.8050088924981544 and the corresponding error value is 0.038216773112298374
+
+
+
+
+this is iteration number335
+The  current value of  element 0 is :5.031580373502601
+ The value of  target 1 is 3.738850785292808 and the corresponding error value is 0.06846031155689063
+
+
+
+
+this is iteration number336
+The  current value of  element 0 is :4.150898644827833
+ The value of  target 1 is 3.9568950963355283 and the corresponding error value is 0.0019013876235879131
+
+
+
+
+this is iteration number337
+The  current value of  element 0 is :5.250268584484178
+ The value of  target 1 is 3.6932534477503856 and the corresponding error value is 0.09440044386927543
+
+
+
+
+this is iteration number338
+The  current value of  element 0 is :3.9386164196056983
+ The value of  target 1 is 3.9813849607743426 and the corresponding error value is 0.0003653847245984458
+
+
+
+
+this is iteration number339
+The  current value of  element 0 is :4.12261551574439
+ The value of  target 1 is 3.964988078826912 and the corresponding error value is 0.0012610965454036545
+
+
+
+
+this is iteration number340
+The  current value of  element 0 is :3.8422421089654377
+ The value of  target 1 is 3.951328940028848 and the corresponding error value is 0.0024177931386867037
+
+
+
+
+this is iteration number341
+The  current value of  element 0 is :3.2585491733459913
+ The value of  target 1 is 3.7443996053157225 and the corresponding error value is 0.06558741215744304
+
+
+
+
+this is iteration number342
+The  current value of  element 0 is :4.1417925918415115
+ The value of  target 1 is 3.959492185063299 and the corresponding error value is 0.0016816408858827743
+
+
+
+
+this is iteration number343
+The  current value of  element 0 is :3.8366955038921535
+ The value of  target 1 is 3.9495673730907654 and the corresponding error value is 0.0025941324838753463
+
+
+
+
+this is iteration number344
+The  current value of  element 0 is :3.8211558315895653
+ The value of  target 1 is 3.9446132706038983 and the corresponding error value is 0.0031233265225931632
+
+
+
+
+this is iteration number345
+The  current value of  element 0 is :2.8852716653606
+ The value of  target 1 is 3.5845333144798053 and the corresponding error value is 0.17302828346265708
+
+
+
+
+this is iteration number346
+The  current value of  element 0 is :3.7497320420692457
+ The value of  target 1 is 3.9214807117847332 and the corresponding error value is 0.006244047910047494
+
+
+
+
+this is iteration number347
+The  current value of  element 0 is :3.9213240674656165
+ The value of  target 1 is 3.976067713623708 and the corresponding error value is 0.0005969366175731665
+
+
+
+
+this is iteration number348
+The  current value of  element 0 is :3.2623090848006866
+ The value of  target 1 is 3.745887891512302 and the corresponding error value is 0.06482732578855163
+
+
+
+
+this is iteration number349
+The  current value of  element 0 is :3.91065697778824
+ The value of  target 1 is 3.9727713729662364 and the corresponding error value is 0.0007688767571775999
+
+
+
+
+this is iteration number350
+The  current value of  element 0 is :4.02686794840826
+ The value of  target 1 is 3.9929773371634747 and the corresponding error value is 5.659045615204816e-05
+
+
+
+
+this is iteration number351
+The  current value of  element 0 is :3.9965899862132517
+ The value of  target 1 is 3.9989763850193327 and the corresponding error value is 2.321402609315605e-06
+
+
+
+
+this is iteration number352
+The  current value of  element 0 is :3.9073014684594014
+ The value of  target 1 is 3.971731868031362 and the corresponding error value is 0.0008276054169650055
+
+
+
+
+this is iteration number353
+The  current value of  element 0 is :4.414667306160942
+ The value of  target 1 is 3.8850163667820166 and the corresponding error value is 0.01333646954122587
+
+
+
+
+this is iteration number354
+The  current value of  element 0 is :4.575768418881856
+ The value of  target 1 is 3.8440805913066907 and the corresponding error value is 0.024467031415964728
+
+
+
+
+this is iteration number355
+The  current value of  element 0 is :4.84527930706774
+ The value of  target 1 is 3.7800935472138777 and the corresponding error value is 0.04857900442976143
+
+
+
+
+this is iteration number356
+The  current value of  element 0 is :4.915975478614811
+ The value of  target 1 is 3.76417016299345 and the corresponding error value is 0.055851791859542844
+
+
+
+
+this is iteration number357
+The  current value of  element 0 is :4.201532443489241
+ The value of  target 1 is 3.9425999309604753 and the corresponding error value is 0.003352417994781793
+
+
+
+
+this is iteration number358
+The  current value of  element 0 is :3.974736740206083
+ The value of  target 1 is 3.992387366070858 and the corresponding error value is 6.581482926827622e-05
+
+
+
+
+this is iteration number359
+The  current value of  element 0 is :3.9812226016549594
+ The value of  target 1 is 3.9943482084568 and the corresponding error value is 3.784453919099663e-05
+
+
+
+
+this is iteration number360
+The  current value of  element 0 is :3.8508967325299546
+ The value of  target 1 is 3.9540705801077496 and the corresponding error value is 0.002155691031530955
+
+
+
+
+this is iteration number361
+The  current value of  element 0 is :3.4920392673328866
+ The value of  target 1 is 3.832743858575191 and the corresponding error value is 0.028142122985740665
+
+
+
+
+this is iteration number362
+The  current value of  element 0 is :3.889606658467348
+ The value of  target 1 is 3.966229592620017 and the corresponding error value is 0.001174460821990046
+
+
+
+
+this is iteration number363
+The  current value of  element 0 is :4.5762447153598895
+ The value of  target 1 is 3.843962673096838 and the corresponding error value is 0.02450393471398755
+
+
+
+
+this is iteration number364
+The  current value of  element 0 is :3.797818555473655
+ The value of  target 1 is 3.937120789977237 and the corresponding error value is 0.004016924263109563
+
+
+
+
+this is iteration number365
+The  current value of  element 0 is :3.9257424320600958
+ The value of  target 1 is 3.9774294232947724 and the corresponding error value is 0.0005322515095118164
+
+
+
+
+this is iteration number366
+The  current value of  element 0 is :4.581056721827932
+ The value of  target 1 is 3.842772350348141 and the corresponding error value is 0.024878011464699833
+
+
+
+
+this is iteration number367
+The  current value of  element 0 is :3.418837580164828
+ The value of  target 1 is 3.8059118441437034 and the corresponding error value is 0.0378645503995546
+
+
+
+
+this is iteration number368
+The  current value of  element 0 is :4.416112738132056
+ The value of  target 1 is 3.884639517390382 and the corresponding error value is 0.013423651430533727
+
+
+
+
+this is iteration number369
+The  current value of  element 0 is :4.109444121723364
+ The value of  target 1 is 3.968783791545012 and the corresponding error value is 0.0010059178787602955
+
+
+
+
+this is iteration number370
+The  current value of  element 0 is :3.890534080400701
+ The value of  target 1 is 3.9665188410967573 and the corresponding error value is 0.0011547191604074692
+
+
+
+
+this is iteration number371
+The  current value of  element 0 is :3.922862408274738
+ The value of  target 1 is 3.9765420619337695 and the corresponding error value is 0.0005739827963853673
+
+
+
+
+this is iteration number372
+The  current value of  element 0 is :3.11207480845947
+ The value of  target 1 is 3.684615878975789 and the corresponding error value is 0.09978277791523876
+
+
+
+
+this is iteration number373
+The  current value of  element 0 is :3.425067361059127
+ The value of  target 1 is 3.808225121885244 and the corresponding error value is 0.03696962875404456
+
+
+
+
+this is iteration number374
+The  current value of  element 0 is :2.7722567468189885
+ The value of  target 1 is 3.530885367075951 and the corresponding error value is 0.22053790345638985
+
+
+
+
+this is iteration number375
+The  current value of  element 0 is :4.480877148216848
+ The value of  target 1 is 3.8679347612304706 and the corresponding error value is 0.017573542530022492
+
+
+
+
+this is iteration number376
+The  current value of  element 0 is :4.937619254305552
+ The value of  target 1 is 3.759362859859623 and the corresponding error value is 0.05814712035508014
+
+
+
+
+this is iteration number377
+The  current value of  element 0 is :3.700478624487982
+ The value of  target 1 is 3.9051731187105343 and the corresponding error value is 0.009087214296376003
+
+
+
+
+this is iteration number378
+The  current value of  element 0 is :4.250202939015085
+ The value of  target 1 is 3.929087829660297 and the corresponding error value is 0.005099698072626857
+
+
+
+
+this is iteration number379
+The  current value of  element 0 is :4.125802200281902
+ The value of  target 1 is 3.964072317073988 and the corresponding error value is 0.0013269760833580948
+
+
+
+
+this is iteration number380
+The  current value of  element 0 is :4.011045539946509
+ The value of  target 1 is 3.9976927308664365 and the corresponding error value is 7.880759988261763e-06
+
+
+
+
+this is iteration number381
+The  current value of  element 0 is :4.656229163431347
+ The value of  target 1 is 3.824410775775301 and the corresponding error value is 0.031007414888056466
+
+
+
+
+this is iteration number382
+The  current value of  element 0 is :4.195690796256028
+ The value of  target 1 is 3.9442366717801702 and the corresponding error value is 0.0031655621023723613
+
+
+
+
+this is iteration number383
+The  current value of  element 0 is :3.6521064377359718
+ The value of  target 1 is 3.888865936929966 and the corresponding error value is 0.01246216403752445
+
+
+
+
+this is iteration number384
+The  current value of  element 0 is :4.1677959800989
+ The value of  target 1 is 3.952097202224784 and the corresponding error value is 0.0023428308324685357
+
+
+
+
+this is iteration number385
+The  current value of  element 0 is :4.229435269790517
+ The value of  target 1 is 3.934826367958874 and the corresponding error value is 0.004313025945473266
+
+
+
+
+this is iteration number386
+The  current value of  element 0 is :4.200952886587104
+ The value of  target 1 is 3.9427621695479678 and the corresponding error value is 0.0033336570653076914
+
+
+
+
+this is iteration number387
+The  current value of  element 0 is :2.892618649571161
+ The value of  target 1 is 3.587929794201948 and the corresponding error value is 0.17021417471224737
+
+
+
+
+this is iteration number388
+The  current value of  element 0 is :4.061868023732524
+ The value of  target 1 is 3.982638392247516 and the corresponding error value is 0.0003190370315036211
+
+
+
+
+this is iteration number389
+The  current value of  element 0 is :3.967948490435993
+ The value of  target 1 is 3.9903303097007927 and the corresponding error value is 0.00010342260078180306
+
+
+
+
+this is iteration number390
+The  current value of  element 0 is :4.212799274917543
+ The value of  target 1 is 3.9394522479995153 and the corresponding error value is 0.0037268280243127555
+
+
+
+
+this is iteration number391
+The  current value of  element 0 is :5.00887453499508
+ The value of  target 1 is 3.743755023125618 and the corresponding error value is 0.06591798315022725
+
+
+
+
+this is iteration number392
+The  current value of  element 0 is :3.533016889714176
+ The value of  target 1 is 3.847437333961785 and the corresponding error value is 0.023428179734726287
+
+
+
+
+this is iteration number393
+The  current value of  element 0 is :4.541837274951303
+ The value of  target 1 is 3.8525272315594616 and the corresponding error value is 0.021895940199957366
+
+
+
+
+this is iteration number394
+The  current value of  element 0 is :4.03772995271294
+ The value of  target 1 is 3.9897552602981383 and the corresponding error value is 0.00011544943126077581
+
+
+
+
+this is iteration number395
+The  current value of  element 0 is :3.4041265952147794
+ The value of  target 1 is 3.8004269285906975 and the corresponding error value is 0.04002923390315209
+
+
+
+
+this is iteration number396
+The  current value of  element 0 is :2.9970935234042386
+ The value of  target 1 is 3.6350817544384886 and the corresponding error value is 0.1335304941892535
+
+
+
+
+this is iteration number397
+The  current value of  element 0 is :4.237972767072882
+ The value of  target 1 is 3.932462432913572 and the corresponding error value is 0.004629110535040303
+
+
+
+
+this is iteration number398
+The  current value of  element 0 is :4.277574010120574
+ The value of  target 1 is 3.9215853971734287 and the corresponding error value is 0.006227514539275593
+
+
+
+
+this is iteration number399
+The  current value of  element 0 is :4.137988978666804
+ The value of  target 1 is 3.960579386261223 and the corresponding error value is 0.0015936554012806734
+
+
+
+
+this is iteration number400
+The  current value of  element 0 is :4.0681027526761335
+ The value of  target 1 is 3.9808098006241313 and the corresponding error value is 0.0003877039514614859
+
+
+
+
+this is iteration number401
+The  current value of  element 0 is :3.8714370714517727
+ The value of  target 1 is 3.9605434067798613 and the corresponding error value is 0.0015965293417596847
+
+
+
+
+this is iteration number402
+The  current value of  element 0 is :3.7965495568954593
+ The value of  target 1 is 3.9367115562312436 and the corresponding error value is 0.004068965558439878
+
+
+
+
+this is iteration number403
+The  current value of  element 0 is :3.596351078921318
+ The value of  target 1 is 3.8697012042176513 and the corresponding error value is 0.017108324978112724
+
+
+
+
+this is iteration number404
+The  current value of  element 0 is :3.908778217235632
+ The value of  target 1 is 3.9721895036355126 and the corresponding error value is 0.0008014842044036891
+
+
+
+
+this is iteration number405
+The  current value of  element 0 is :4.1463768657703985
+ The value of  target 1 is 3.9581837200206085 and the corresponding error value is 0.0017906675512943037
+
+
+
+
+this is iteration number406
+The  current value of  element 0 is :3.9830639439140523
+ The value of  target 1 is 3.9949040798360227 and the corresponding error value is 3.131432248161466e-05
+
+
+
+
+this is iteration number407
+The  current value of  element 0 is :3.7354759544678844
+ The value of  target 1 is 3.9167908947393015 and the corresponding error value is 0.007007214303546798
+
+
+
+
+this is iteration number408
+The  current value of  element 0 is :4.006812546900324
+ The value of  target 1 is 3.998958669595307 and the corresponding error value is 2.375699416432312e-06
+
+
+
+
+this is iteration number409
+The  current value of  element 0 is :4.661337254521019
+ The value of  target 1 is 3.8231787873440375 and the corresponding error value is 0.0314428124577813
+
+
+
+
+this is iteration number410
+The  current value of  element 0 is :3.538531828307123
+ The value of  target 1 is 3.849397340014981 and the corresponding error value is 0.02283201385454851
+
+
+
+
+this is iteration number411
+The  current value of  element 0 is :4.0753238675791525
+ The value of  target 1 is 3.9786968328675396 and the corresponding error value is 0.00047537809700602755
+
+
+
+
+this is iteration number412
+The  current value of  element 0 is :3.831339174613878
+ The value of  target 1 is 3.9478628920433945 and the corresponding error value is 0.00277066513403541
+
+
+
+
+this is iteration number413
+The  current value of  element 0 is :4.0455764639432505
+ The value of  target 1 is 3.987435251638331 and the corresponding error value is 0.00017068764975374556
+
+
+
+
+this is iteration number414
+The  current value of  element 0 is :4.435449939948858
+ The value of  target 1 is 3.879615008300936 and the corresponding error value is 0.014613181218082872
+
+
+
+
+this is iteration number415
+The  current value of  element 0 is :3.773221009344635
+ The value of  target 1 is 3.9291547138691376 and the corresponding error value is 0.005090149853094712
+
+
+
+
+this is iteration number416
+The  current value of  element 0 is :3.5854512727302534
+ The value of  target 1 is 3.8659075039431605 and the corresponding error value is 0.018115139994810518
+
+
+
+
+this is iteration number417
+The  current value of  element 0 is :3.7388481636965585
+ The value of  target 1 is 3.917902462647795 and the corresponding error value is 0.006822353176649008
+
+
+
+
+this is iteration number418
+The  current value of  element 0 is :4.620519853333626
+ The value of  target 1 is 3.833078773587374 and the corresponding error value is 0.028029867053507934
+
+
+
+
+this is iteration number419
+The  current value of  element 0 is :4.2413886256478985
+ The value of  target 1 is 3.9315185191600603 and the corresponding error value is 0.004758444698871047
+
+
+
+
+this is iteration number420
+The  current value of  element 0 is :4.161060955730043
+ The value of  target 1 is 3.9540062631119195 and the corresponding error value is 0.002161667569818115
+
+
+
+
+this is iteration number421
+The  current value of  element 0 is :4.500102760751225
+ The value of  target 1 is 3.863042899011715 and the corresponding error value is 0.018894454612103765
+
+
+
+
+this is iteration number422
+The  current value of  element 0 is :4.330561904243672
+ The value of  target 1 is 3.9072544524041364 and the corresponding error value is 0.008694732146452581
+
+
+
+
+this is iteration number423
+The  current value of  element 0 is :3.967056144120436
+ The value of  target 1 is 3.9900595347163277 and the corresponding error value is 0.00010900331533957964
+
+
+
+
+this is iteration number424
+The  current value of  element 0 is :3.7921051399004027
+ The value of  target 1 is 3.9352768086792183 and the corresponding error value is 0.004254064686067379
+
+
+
+
+this is iteration number425
+The  current value of  element 0 is :3.942438176834096
+ The value of  target 1 is 3.9825557313665882 and the corresponding error value is 0.0003219967767880668
+
+
+
+
+this is iteration number426
+The  current value of  element 0 is :3.6918747253899573
+ The value of  target 1 is 3.9022939177688207 and the corresponding error value is 0.009644434587197265
+
+
+
+
+this is iteration number427
+The  current value of  element 0 is :3.574834572202591
+ The value of  target 1 is 3.8621973069994993 and the corresponding error value is 0.019127634891190928
+
+
+
+
+this is iteration number428
+The  current value of  element 0 is :3.5391983882728395
+ The value of  target 1 is 3.8496339563074624 and the corresponding error value is 0.022760563139438843
+
+
+
+
+this is iteration number429
+The  current value of  element 0 is :3.867856263799763
+ The value of  target 1 is 3.9594184239508907 and the corresponding error value is 0.0016876958906787995
+
+
+
+
+this is iteration number430
+The  current value of  element 0 is :4.279395371867439
+ The value of  target 1 is 3.9210885920113014 and the corresponding error value is 0.006306171718747634
+
+
+
+
+this is iteration number431
+The  current value of  element 0 is :3.92136175334012
+ The value of  target 1 is 3.9760793371800682 and the corresponding error value is 0.0005963687725648278
+
+
+
+
+this is iteration number432
+The  current value of  element 0 is :4.041123255256436
+ The value of  target 1 is 3.9887511729601783 and the corresponding error value is 0.00013803493681165902
+
+
+
+
+this is iteration number433
+The  current value of  element 0 is :3.876883714447783
+ The value of  target 1 is 3.962251816510193 and the corresponding error value is 0.001462923540269993
+
+
+
+
+this is iteration number434
+The  current value of  element 0 is :3.5419729001286777
+ The value of  target 1 is 3.8506182112287495 and the corresponding error value is 0.02246455060526994
+
+
+
+
+this is iteration number435
+The  current value of  element 0 is :4.039356074984885
+ The value of  target 1 is 3.9892739385612845 and the corresponding error value is 0.000126024455425828
+
+
+
+
+this is iteration number436
+The  current value of  element 0 is :3.9664068034497717
+ The value of  target 1 is 3.9898624442771213 and the corresponding error value is 0.00011315759175736166
+
+
+
+
+this is iteration number437
+The  current value of  element 0 is :3.290931561117758
+ The value of  target 1 is 3.7571442300417406 and the corresponding error value is 0.059222030771977574
+
+
+
+
+this is iteration number438
+The  current value of  element 0 is :4.05979309045543
+ The value of  target 1 is 3.9832478278792705 and the corresponding error value is 0.00029763744288329895
+
+
+
+
+this is iteration number439
+The  current value of  element 0 is :2.9053911935890415
+ The value of  target 1 is 3.5938087712664997 and the corresponding error value is 0.1653977555287648
+
+
+
+
+this is iteration number440
+The  current value of  element 0 is :3.967371396693151
+ The value of  target 1 is 3.9901552051745957 and the corresponding error value is 0.00010701477997972518
+
+
+
+
+this is iteration number441
+The  current value of  element 0 is :4.031748194066441
+ The value of  target 1 is 3.9915281666606237 and the corresponding error value is 8.049379346955486e-05
+
+
+
+
+this is iteration number442
+The  current value of  element 0 is :4.229034976245992
+ The value of  target 1 is 3.934937371329193 and the corresponding error value is 0.004298458278226223
+
+
+
+
+this is iteration number443
+The  current value of  element 0 is :4.1773681169345664
+ The value of  target 1 is 3.9493914639690386 and the corresponding error value is 0.0026120824552281403
+
+
+
+
+this is iteration number444
+The  current value of  element 0 is :4.350377431071446
+ The value of  target 1 is 3.901959540489221 and the corresponding error value is 0.009710222160595574
+
+
+
+
+this is iteration number445
+The  current value of  element 0 is :4.177711917287874
+ The value of  target 1 is 3.949294446109106 and the corresponding error value is 0.0026220087492732935
+
+
+
+
+this is iteration number446
+The  current value of  element 0 is :2.3963456273745196
+ The value of  target 1 is 3.331216654292928 and the corresponding error value is 0.4479401968408531
+
+
+
+
+this is iteration number447
+The  current value of  element 0 is :4.088007702763896
+ The value of  target 1 is 3.974998152669884 and the corresponding error value is 0.0006503442172485707
+
+
+
+
+this is iteration number448
+The  current value of  element 0 is :3.799098526625346
+ The value of  target 1 is 3.937533371385622 and the corresponding error value is 0.003964796319061085
+
+
+
+
+this is iteration number449
+The  current value of  element 0 is :3.3468484849652635
+ The value of  target 1 is 3.7787673143197953 and the corresponding error value is 0.04916538389895673
+
+
+
+
+this is iteration number450
+The  current value of  element 0 is :3.753936552245328
+ The value of  target 1 is 3.9228591976088576 and the corresponding error value is 0.006028094195940519
+
+
+
+
+this is iteration number451
+The  current value of  element 0 is :3.607762093740404
+ The value of  target 1 is 3.8736561820642526 and the corresponding error value is 0.016089354148517202
+
+
+
+
+this is iteration number452
+The  current value of  element 0 is :5.177317297942255
+ The value of  target 1 is 3.7081424135338237 and the corresponding error value is 0.08547295836432812
+
+
+
+
+this is iteration number453
+The  current value of  element 0 is :3.9223048237226976
+ The value of  target 1 is 3.9763701603188553 and the corresponding error value is 0.0005822491630377767
+
+
+
+
+this is iteration number454
+The  current value of  element 0 is :3.973926704696584
+ The value of  target 1 is 3.9921421574353255 and the corresponding error value is 6.985353233589467e-05
+
+
+
+
+this is iteration number455
+The  current value of  element 0 is :3.6753146838777173
+ The value of  target 1 is 3.896726406793277 and the corresponding error value is 0.010768958647034558
+
+
+
+
+this is iteration number456
+The  current value of  element 0 is :4.07348991176337
+ The value of  target 1 is 3.9792329665108435 and the corresponding error value is 0.00045228671342893175
+
+
+
+
+this is iteration number457
+The  current value of  element 0 is :2.3440589886011693
+ The value of  target 1 is 3.3005138234016074 and the corresponding error value is 0.48998064742883696
+
+
+
+
+this is iteration number458
+The  current value of  element 0 is :3.3942691063499444
+ The value of  target 1 is 3.7967339386295635 and the corresponding error value is 0.04152060776642073
+
+
+
+
+this is iteration number459
+The  current value of  element 0 is :5.929900006456266
+ The value of  target 1 is 3.5682004668736784 and the corresponding error value is 0.18688288634123615
+
+
+
+
+this is iteration number460
+The  current value of  element 0 is :4.264858476046347
+ The value of  target 1 is 3.9250621922903823 and the corresponding error value is 0.005690862832033343
+
+
+
+
+this is iteration number461
+The  current value of  element 0 is :3.2784878897035132
+ The value of  target 1 is 3.75226637507106 and the corresponding error value is 0.061619932545361925
+
+
+
+
+this is iteration number462
+The  current value of  element 0 is :4.317914528921714
+ The value of  target 1 is 3.9106521479192553 and the corresponding error value is 0.008072636523523488
+
+
+
+
+this is iteration number463
+The  current value of  element 0 is :2.489253917923053
+ The value of  target 1 is 3.3838881863813586 and the corresponding error value is 0.38021012869407095
+
+
+
+
+this is iteration number464
+The  current value of  element 0 is :3.9484230689731
+ The value of  target 1 is 3.9843859892093736 and the corresponding error value is 0.00025966134376044405
+
+
+
+
+this is iteration number465
+The  current value of  element 0 is :4.020012259111457
+ The value of  target 1 is 3.9950172746404355 and the corresponding error value is 3.0060277368417883e-05
+
+
+
+
+this is iteration number466
+The  current value of  element 0 is :4.097063443480626
+ The value of  target 1 is 3.97236732451955 and the corresponding error value is 0.0007914474296883413
+
+
+
+
+this is iteration number467
+The  current value of  element 0 is :4.001725656419596
+ The value of  target 1 is 4.000482459366048 and the corresponding error value is 3.076738394530932e-10
+
+
+
+
+this is iteration number468
+The  current value of  element 0 is :4.155664771832324
+ The value of  target 1 is 3.955538987134495 and the corresponding error value is 0.0020214926778921783
+
+
+
+
+this is iteration number469
+The  current value of  element 0 is :4.4317008147900205
+ The value of  target 1 is 3.8805866967590363 and the corresponding error value is 0.014379200294159454
+
+
+
+
+this is iteration number470
+The  current value of  element 0 is :4.023440366518079
+ The value of  target 1 is 3.9939966183653075 and the corresponding error value is 4.2293972686463577e-05
+
+
+
+
+this is iteration number471
+The  current value of  element 0 is :3.7516330799363473
+ The value of  target 1 is 3.922104246514578 and the corresponding error value is 0.006145894164547133
+
+
+
+
+this is iteration number472
+The  current value of  element 0 is :4.131789550534212
+ The value of  target 1 is 3.962354424372082 and the corresponding error value is 0.0014550849399852697
+
+
+
+
+this is iteration number473
+The  current value of  element 0 is :5.467370714191014
+ The value of  target 1 is 3.650733640428144 and the corresponding error value is 0.12233650628814924
+
+
+
+
+this is iteration number474
+The  current value of  element 0 is :4.7064741682199704
+ The value of  target 1 is 3.8123776879600033 and the corresponding error value is 0.03539000428727411
+
+
+
+
+this is iteration number475
+The  current value of  element 0 is :4.164295587284841
+ The value of  target 1 is 3.9530888520964886 and the corresponding error value is 0.002247816945528688
+
+
+
+
+this is iteration number476
+The  current value of  element 0 is :3.27459276168614
+ The value of  target 1 is 3.7507345044241442 and the corresponding error value is 0.06238280278025313
+
+
+
+
+this is iteration number477
+The  current value of  element 0 is :3.445636880814255
+ The value of  target 1 is 3.8158234434272633 and the corresponding error value is 0.03410543054756344
+
+
+
+
+this is iteration number478
+The  current value of  element 0 is :4.428030126137748
+ The value of  target 1 is 3.881539205474721 and the corresponding error value is 0.014151670634085827
+
+
+
+
+this is iteration number479
+The  current value of  element 0 is :3.8532265607048
+ The value of  target 1 is 3.9548071745884883 and the corresponding error value is 0.0020878342940869456
+
+
+
+
+this is iteration number480
+The  current value of  element 0 is :4.812972134621729
+ The value of  target 1 is 3.7874851444887287 and the corresponding error value is 0.04537532866848803
+
+
+
+
+this is iteration number481
+The  current value of  element 0 is :2.788055694164732
+ The value of  target 1 is 3.538547031083908 and the corresponding error value is 0.21340054549039264
+
+
+
+
+this is iteration number482
+The  current value of  element 0 is :3.8454115478259814
+ The value of  target 1 is 3.9523339558501 and the corresponding error value is 0.002319967809050191
+
+
+
+
+this is iteration number483
+The  current value of  element 0 is :3.666891224149653
+ The value of  target 1 is 3.8938812787096997 and the corresponding error value is 0.011367551729578868
+
+
+
+
+this is iteration number484
+The  current value of  element 0 is :4.12291426477887
+ The value of  target 1 is 3.9649021844467436 and the corresponding error value is 0.001267204472163708
+
+
+
+
+this is iteration number485
+The  current value of  element 0 is :4.432835888733385
+ The value of  target 1 is 3.8802923861598098 and the corresponding error value is 0.014449870425152443
+
+
+
+
+this is iteration number486
+The  current value of  element 0 is :4.938487092227837
+ The value of  target 1 is 3.7591707564592136 and the corresponding error value is 0.05823980378796848
+
+
+
+
+this is iteration number487
+The  current value of  element 0 is :4.482214558004701
+ The value of  target 1 is 3.8675934815326407 and the corresponding error value is 0.01766414265111468
+
+
+
+
+this is iteration number488
+The  current value of  element 0 is :3.879485858166265
+ The value of  target 1 is 3.9630668379931815 and the corresponding error value is 0.0014012416178287666
+
+
+
+
+this is iteration number489
+The  current value of  element 0 is :4.670073815913203
+ The value of  target 1 is 3.821076240270708 and the corresponding error value is 0.03219288555539496
+
+
+
+
+this is iteration number490
+The  current value of  element 0 is :3.5996895752404123
+ The value of  target 1 is 3.8708600614313364 and the corresponding error value is 0.016806513672087024
+
+
+
+
+this is iteration number491
+The  current value of  element 0 is :4.148979225815135
+ The value of  target 1 is 3.9574418525942328 and the corresponding error value is 0.0018540040580168331
+
+
+
+
+this is iteration number492
+The  current value of  element 0 is :3.9552363150921144
+ The value of  target 1 is 3.986464865087684 and the corresponding error value is 0.0001969850120069303
+
+
+
+
+this is iteration number493
+The  current value of  element 0 is :3.783459739566664
+ The value of  target 1 is 3.9324792538787126 and the corresponding error value is 0.004626821902896724
+
+
+
+
+this is iteration number494
+The  current value of  element 0 is :3.692746561430691
+ The value of  target 1 is 3.902586085389089 and the corresponding error value is 0.009587134674432887
+
+
+
+
+this is iteration number495
+The  current value of  element 0 is :3.5613295938605036
+ The value of  target 1 is 3.8574561702093964 and the corresponding error value is 0.020461537241163362
+
+
+
+
+this is iteration number496
+The  current value of  element 0 is :4.246534697078765
+ The value of  target 1 is 3.9300985334045926 and the corresponding error value is 0.004956366498784352
+
+
+
+
+this is iteration number497
+The  current value of  element 0 is :3.910826205301147
+ The value of  target 1 is 3.9728237651933336 and the corresponding error value is 0.0007659739730737678
+
+
+
+
+this is iteration number498
+The  current value of  element 0 is :3.9711952097446495
+ The value of  target 1 is 3.9913147821447352 and the corresponding error value is 8.436822704868598e-05
+
+
+
+
+this is iteration number499
+The  current value of  element 0 is :4.050435738633571
+ The value of  target 1 is 3.9860016575934454 and the corresponding error value is 0.00021020193253771773
+
+
+
+
+this is iteration number500
+The  current value of  element 0 is :4.3848541457823655
+ The value of  target 1 is 3.8928290153473055 and the corresponding error value is 0.011593040936080901
+
+
+
+
+this is iteration number501
+The  current value of  element 0 is :4.827970965000879
+ The value of  target 1 is 3.7840444651249703 and the corresponding error value is 0.046852998578035474
+
+
+
+
+this is iteration number502
+The  current value of  element 0 is :3.736982111585121
+ The value of  target 1 is 3.9172875332650405 and the corresponding error value is 0.006924314620116837
+
+
+
+
+this is iteration number503
+The  current value of  element 0 is :4.427978852250057
+ The value of  target 1 is 3.8815525186221977 and the corresponding error value is 0.014148503326122759
+
+
+
+
+this is iteration number504
+The  current value of  element 0 is :3.138121472043312
+ The value of  target 1 is 3.6955107040298576 and the corresponding error value is 0.0930184706563635
+
+
+
+
+this is iteration number505
+The  current value of  element 0 is :4.440860912329857
+ The value of  target 1 is 3.878214693679892 and the corresponding error value is 0.014953696141802789
+
+
+
+
+this is iteration number506
+The  current value of  element 0 is :4.2816193548120856
+ The value of  target 1 is 3.92048237484474 and the corresponding error value is 0.006402820335487806
+
+
+
+
+this is iteration number507
+The  current value of  element 0 is :4.0121692273601735
+ The value of  target 1 is 3.9973569899999912 and the corresponding error value is 9.878511860158982e-06
+
+
+
+
+this is iteration number508
+The  current value of  element 0 is :5.001351810019168
+ The value of  target 1 is 3.7453871714818385 and the corresponding error value is 0.06508255527453717
+
+
+
+
+this is iteration number509
+The  current value of  element 0 is :3.842894750368268
+ The value of  target 1 is 3.9515359836168518 and the corresponding error value is 0.0023974749003692684
+
+
+
+
+this is iteration number510
+The  current value of  element 0 is :4.851458352043738
+ The value of  target 1 is 3.7786881227060016 and the corresponding error value is 0.04920050890868806
+
+
+
+
+this is iteration number511
+The  current value of  element 0 is :2.7398830558016023
+ The value of  target 1 is 3.51501602492578 and the corresponding error value is 0.23569469005386665
+
+
+
+
+this is iteration number512
+The  current value of  element 0 is :4.00484241867317
+ The value of  target 1 is 3.9995485044290895 and the corresponding error value is 9.053438214634792e-07
+
+
+
+
+this is iteration number513
+The  current value of  element 0 is :3.949098044886955
+ The value of  target 1 is 3.9845921628852827 and the corresponding error value is 0.0002530592816683958
+
+
+
+
+this is iteration number514
+The  current value of  element 0 is :3.835708978198072
+ The value of  target 1 is 3.9492536899105066 and the corresponding error value is 0.002626184297788573
+
+
+
+
+this is iteration number515
+The  current value of  element 0 is :3.9052538084304036
+ The value of  target 1 is 3.971096912472181 and the corresponding error value is 0.0008645415561686149
+
+
+
+
+this is iteration number516
+The  current value of  element 0 is :3.852076447069818
+ The value of  target 1 is 3.954443633697677 and the corresponding error value is 0.0021211888769738165
+
+
+
+
+this is iteration number517
+The  current value of  element 0 is :3.9409123343138663
+ The value of  target 1 is 3.982088489155439 and the corresponding error value is 0.00033898373157941375
+
+
+
+
+this is iteration number518
+The  current value of  element 0 is :4.2097413255067
+ The value of  target 1 is 3.9403053820321956 and the corresponding error value is 0.0036233920322899936
+
+
+
+
+this is iteration number519
+The  current value of  element 0 is :4.398563745671102
+ The value of  target 1 is 3.889226899760515 and the corresponding error value is 0.01238170283690665
+
+
+
+
+this is iteration number520
+The  current value of  element 0 is :4.273220758165321
+ The value of  target 1 is 3.922774039873877 and the corresponding error value is 0.0060413248775277465
+
+
+
+
+this is iteration number521
+The  current value of  element 0 is :3.3405750634769857
+ The value of  target 1 is 3.776365206080762 and the corresponding error value is 0.05023640584521957
+
+
+
+
+this is iteration number522
+The  current value of  element 0 is :4.4889186927761875
+ The value of  target 1 is 3.8658849408349445 and the corresponding error value is 0.01812121415401156
+
+
+
+
+this is iteration number523
+The  current value of  element 0 is :2.72002739064816
+ The value of  target 1 is 3.505168284926179 and the corresponding error value is 0.24535350795797367
+
+
+
+
+this is iteration number524
+The  current value of  element 0 is :3.7719181036591065
+ The value of  target 1 is 3.928730767292087 and the corresponding error value is 0.005150822763482652
+
+
+
+
+this is iteration number525
+The  current value of  element 0 is :3.9519580653494693
+ The value of  target 1 is 3.985465220795071 and the corresponding error value is 0.00022604458574097933
+
+
+
+
+this is iteration number526
+The  current value of  element 0 is :3.9134941053150385
+ The value of  target 1 is 3.9736493210087938 and the corresponding error value is 0.0007209589622888372
+
+
+
+
+this is iteration number527
+The  current value of  element 0 is :3.5687807115118195
+ The value of  target 1 is 3.860075000690835 and the corresponding error value is 0.019719180430979137
+
+
+
+
+this is iteration number528
+The  current value of  element 0 is :4.130889350093515
+ The value of  target 1 is 3.962612485418197 and the corresponding error value is 0.001435463761186365
+
+
+
+
+this is iteration number529
+The  current value of  element 0 is :3.6852069114195025
+ The value of  target 1 is 3.9000562956340223 and the corresponding error value is 0.010088937746760042
+
+
+
+
+this is iteration number530
+The  current value of  element 0 is :4.023599828174398
+ The value of  target 1 is 3.993949171258289 and the corresponding error value is 4.291335720323392e-05
+
+
+
+
+this is iteration number531
+The  current value of  element 0 is :4.167877494708262
+ The value of  target 1 is 3.952074123463932 and the corresponding error value is 0.002345065518286555
+
+
+
+
+this is iteration number532
+The  current value of  element 0 is :3.7587403741676075
+ The value of  target 1 is 3.9244315807536614 and the corresponding error value is 0.005786404406636832
+
+
+
+
+this is iteration number533
+The  current value of  element 0 is :4.222147920493835
+ The value of  target 1 is 3.9368495302079642 and the corresponding error value is 0.004051382304746934
+
+
+
+
+this is iteration number534
+The  current value of  element 0 is :3.7274083818573756
+ The value of  target 1 is 3.9141260224187406 and the corresponding error value is 0.007460464003208001
+
+
+
+
+this is iteration number535
+The  current value of  element 0 is :3.035885697644699
+ The value of  target 1 is 3.652061529544911 and the corresponding error value is 0.12140936769308248
+
+
+
+
+this is iteration number536
+The  current value of  element 0 is :3.7897240223622592
+ The value of  target 1 is 3.9345071826232947 and the corresponding error value is 0.00435505194531526
+
+
+
+
+this is iteration number537
+The  current value of  element 0 is :4.138483375643719
+ The value of  target 1 is 3.9604379909946 and the corresponding error value is 0.0016049645655488059
+
+
+
+
+this is iteration number538
+The  current value of  element 0 is :3.9815371160226123
+ The value of  target 1 is 3.9944431806975342 and the corresponding error value is 3.6685060062729284e-05
+
+
+
+
+this is iteration number539
+The  current value of  element 0 is :3.8912297091425003
+ The value of  target 1 is 3.966735734063594 and the corresponding error value is 0.0011400256542244006
+
+
+
+
+this is iteration number540
+The  current value of  element 0 is :3.320673501963224
+ The value of  target 1 is 3.76870523456045 and the corresponding error value is 0.05372881328517632
+
+
+
+
+this is iteration number541
+The  current value of  element 0 is :4.445632559509298
+ The value of  target 1 is 3.876981872383392 and the corresponding error value is 0.015256727849912815
+
+
+
+
+this is iteration number542
+The  current value of  element 0 is :4.248992882368494
+ The value of  target 1 is 3.929421096837155 and the corresponding error value is 0.005052210474833213
+
+
+
+
+this is iteration number543
+The  current value of  element 0 is :4.252350023460002
+ The value of  target 1 is 3.9284968241348173 and the corresponding error value is 0.005184457334672521
+
+
+
+
+this is iteration number544
+The  current value of  element 0 is :4.0467538784023755
+ The value of  target 1 is 3.9870876662027896 and the corresponding error value is 0.00017989069788780743
+
+
+
+
+this is iteration number545
+The  current value of  element 0 is :3.821006298344355
+ The value of  target 1 is 3.94456546375604 and the corresponding error value is 0.0031286723448269303
+
+
+
+
+this is iteration number546
+The  current value of  element 0 is :3.905642100581435
+ The value of  target 1 is 3.9712173529034014 and the corresponding error value is 0.000857473420983971
+
+
+
+
+this is iteration number547
+The  current value of  element 0 is :3.706657966780752
+ The value of  target 1 is 3.90723532902521 and the corresponding error value is 0.008698298852035912
+
+
+
+
+this is iteration number548
+The  current value of  element 0 is :3.9793476535830647
+ The value of  target 1 is 3.9937818225830237 and the corresponding error value is 4.513390780597827e-05
+
+
+
+
+this is iteration number549
+The  current value of  element 0 is :2.8867824433030123
+ The value of  target 1 is 3.5852326266476964 and the corresponding error value is 0.17244699137092204
+
+
+
+
+this is iteration number550
+The  current value of  element 0 is :3.9653111420737472
+ The value of  target 1 is 3.9895297826427774 and the corresponding error value is 0.00012034566886472238
+
+
+
+
+this is iteration number551
+The  current value of  element 0 is :4.214857035435377
+ The value of  target 1 is 3.9388786509268163 and the corresponding error value is 0.0037971906615992296
+
+
+
+
+this is iteration number552
+The  current value of  element 0 is :3.364287547742167
+ The value of  target 1 is 3.7854135956948745 and the corresponding error value is 0.04626216131690819
+
+
+
+
+this is iteration number553
+The  current value of  element 0 is :3.843312205375767
+ The value of  target 1 is 3.951668391306722 and the corresponding error value is 0.0023845260075734957
+
+
+
+
+this is iteration number554
+The  current value of  element 0 is :3.4574905332827255
+ The value of  target 1 is 3.8201746974077673 and the corresponding error value is 0.03251721475498052
+
+
+
+
+this is iteration number555
+The  current value of  element 0 is :4.148707455446516
+ The value of  target 1 is 3.9575192966971233 and the corresponding error value is 0.0018473408564099666
+
+
+
+
+this is iteration number556
+The  current value of  element 0 is :3.4185122667165997
+ The value of  target 1 is 3.805790892630255 and the corresponding error value is 0.037911636492723104
+
+
+
+
+this is iteration number557
+The  current value of  element 0 is :4.032454370731443
+ The value of  target 1 is 3.991318674015621 and the corresponding error value is 8.429674683144804e-05
+
+
+
+
+this is iteration number558
+The  current value of  element 0 is :3.811922299886726
+ The value of  target 1 is 3.941656391932178 and the corresponding error value is 0.0034625702104395333
+
+
+
+
+this is iteration number559
+The  current value of  element 0 is :4.281398156848778
+ The value of  target 1 is 3.9205426492323436 and the corresponding error value is 0.006393177941782136
+
+
+
+
+this is iteration number560
+The  current value of  element 0 is :3.906802237527737
+ The value of  target 1 is 3.971577104969927 and the corresponding error value is 0.0008365338569206634
+
+
+
+
+this is iteration number561
+The  current value of  element 0 is :4.032218258508351
+ The value of  target 1 is 3.991388712761501 and the corresponding error value is 8.301555514244424e-05
+
+
+
+
+this is iteration number562
+The  current value of  element 0 is :3.299276623832066
+ The value of  target 1 is 3.7604018874368172 and the corresponding error value is 0.05764710365640307
+
+
+
+
+this is iteration number563
+The  current value of  element 0 is :4.0583143931947285
+ The value of  target 1 is 3.983682408389754 and the corresponding error value is 0.00028283138756903854
+
+
+
+
+this is iteration number564
+The  current value of  element 0 is :4.26492548612161
+ The value of  target 1 is 3.925043831036211 and the corresponding error value is 0.005693633434691964
+
+
+
+
+this is iteration number565
+The  current value of  element 0 is :3.971643190556268
+ The value of  target 1 is 3.991450530925355 and the corresponding error value is 8.189289053296407e-05
+
+
+
+
+this is iteration number566
+The  current value of  element 0 is :3.0800153371311563
+ The value of  target 1 is 3.6710434851703284 and the corresponding error value is 0.10854159516371402
+
+
+
+
+this is iteration number567
+The  current value of  element 0 is :3.6015491137322746
+ The value of  target 1 is 3.8715049123474103 and the corresponding error value is 0.016639732638499445
+
+
+
+
+this is iteration number568
+The  current value of  element 0 is :4.251538057592452
+ The value of  target 1 is 3.9287202754861 and the corresponding error value is 0.005152328851291475
+
+
+
+
+this is iteration number569
+The  current value of  element 0 is :3.687640487830759
+ The value of  target 1 is 3.9008736088945857 and the corresponding error value is 0.0099254178046891
+
+
+
+
+this is iteration number570
+The  current value of  element 0 is :3.3196449438997098
+ The value of  target 1 is 3.7683077037586368 and the corresponding error value is 0.05391326243383726
+
+
+
+
+this is iteration number571
+The  current value of  element 0 is :4.559761771042768
+ The value of  target 1 is 3.84805381816994 and the corresponding error value is 0.02323983835456391
+
+
+
+
+this is iteration number572
+The  current value of  element 0 is :4.583970976518358
+ The value of  target 1 is 3.842052349602655 and the corresponding error value is 0.025105657916439435
+
+
+
+
+this is iteration number573
+The  current value of  element 0 is :4.517336372272778
+ The value of  target 1 is 3.858683546892099 and the corresponding error value is 0.020111906372105713
+
+
+
+
+this is iteration number574
+The  current value of  element 0 is :4.726991256649621
+ The value of  target 1 is 3.8075180660126806 and the corresponding error value is 0.03724202684548633
+
+
+
+
+this is iteration number575
+The  current value of  element 0 is :4.466393586086654
+ The value of  target 1 is 3.8716401314472018 and the corresponding error value is 0.0166048657234446
+
+
+
+
+this is iteration number576
+The  current value of  element 0 is :3.9651186699844985
+ The value of  target 1 is 3.9894713315525294 and the corresponding error value is 0.0001216315277242466
+
+
+
+
+this is iteration number577
+The  current value of  element 0 is :4.0008645183299345
+ The value of  target 1 is 4.00025931626679 and the corresponding error value is 5.792865943204185e-08
+
+
+
+
+this is iteration number578
+The  current value of  element 0 is :4.449493242729677
+ The value of  target 1 is 3.8759858082106167 and the corresponding error value is 0.015503783956963488
+
+
+
+
+this is iteration number579
+The  current value of  element 0 is :3.8366241697950434
+ The value of  target 1 is 3.9495446949007618 and the corresponding error value is 0.0025964431177565163
+
+
+
+
+this is iteration number580
+The  current value of  element 0 is :3.508008008546105
+ The value of  target 1 is 3.8384972413932426 and the corresponding error value is 0.02624489379619952
+
+
+
+
+this is iteration number581
+The  current value of  element 0 is :3.792696775424764
+ The value of  target 1 is 3.935467934194637 and the corresponding error value is 0.004229169582913168
+
+
+
+
+this is iteration number582
+The  current value of  element 0 is :4.577148313856213
+ The value of  target 1 is 3.8437390154546742 and the corresponding error value is 0.024574006275620057
+
+
+
+
+this is iteration number583
+The  current value of  element 0 is :3.184867195948155
+ The value of  target 1 is 3.7147730338620266 and the corresponding error value is 0.08163989917841094
+
+
+
+
+this is iteration number584
+The  current value of  element 0 is :4.373687936673156
+ The value of  target 1 is 3.8957748580780063 and the corresponding error value is 0.010967355350581855
+
+
+
+
+this is iteration number585
+The  current value of  element 0 is :4.376124590648489
+ The value of  target 1 is 3.8951311044318375 and the corresponding error value is 0.01110260415325446
+
+
+
+
+this is iteration number586
+The  current value of  element 0 is :3.5552146265665208
+ The value of  target 1 is 3.855301420954674 and the corresponding error value is 0.021082627356781933
+
+
+
+
+this is iteration number587
+The  current value of  element 0 is :3.888254787532561
+ The value of  target 1 is 3.9658077935696308 and the corresponding error value is 0.0012035491870073954
+
+
+
+
+this is iteration number588
+The  current value of  element 0 is :3.6982226407807124
+ The value of  target 1 is 3.904419063793256 and the corresponding error value is 0.009231546302364552
+
+
+
+
+this is iteration number589
+The  current value of  element 0 is :4.427058934503732
+ The value of  target 1 is 3.881791410929414 and the corresponding error value is 0.014091729119129438
+
+
+
+
+this is iteration number590
+The  current value of  element 0 is :4.007883872939744
+ The value of  target 1 is 3.9986380967833632 and the corresponding error value is 3.4666835881245955e-06
+
+
+
+
+this is iteration number591
+The  current value of  element 0 is :4.253158395780588
+ The value of  target 1 is 3.9282744221256003 and the corresponding error value is 0.005216534099291064
+
+
+
+
+this is iteration number592
+The  current value of  element 0 is :4.157529698141988
+ The value of  target 1 is 3.9550089576847887 and the corresponding error value is 0.002069434930924404
+
+
+
+
+this is iteration number593
+The  current value of  element 0 is :4.181524843188249
+ The value of  target 1 is 3.9482192258499493 and the corresponding error value is 0.00273327934572867
+
+
+
+
+this is iteration number594
+The  current value of  element 0 is :3.3936723480648237
+ The value of  target 1 is 3.7965099127281694 and the corresponding error value is 0.04161195570516931
+
+
+
+
+this is iteration number595
+The  current value of  element 0 is :3.9660426348623936
+ The value of  target 1 is 3.9897518906704126 and the corresponding error value is 0.00011552185416077723
+
+
+
+
+this is iteration number596
+The  current value of  element 0 is :4.858487543258038
+ The value of  target 1 is 3.777092545165738 and the corresponding error value is 0.049910890875523084
+
+
+
+
+this is iteration number597
+The  current value of  element 0 is :3.9867383184529075
+ The value of  target 1 is 3.9960122407670524 and the corresponding error value is 2.0139982932911782e-05
+
+
+
+
+this is iteration number598
+The  current value of  element 0 is :3.837068262909674
+ The value of  target 1 is 3.9496858693491896 and the corresponding error value is 0.002582075873797687
+
+
+
+
+this is iteration number599
+The  current value of  element 0 is :3.883016856323226
+ The value of  target 1 is 3.9641715755960605 and the corresponding error value is 0.0013197544196727929
+
+
+
+
+this is iteration number600
+The  current value of  element 0 is :3.8634599166982166
+ The value of  target 1 is 3.9580352476219596 and the corresponding error value is 0.001803255194528342
+
+
+
+
+this is iteration number601
+The  current value of  element 0 is :3.244035890464801
+ The value of  target 1 is 3.7386336392041817 and the corresponding error value is 0.06857399091644602
+
+
+
+
+this is iteration number602
+The  current value of  element 0 is :4.172740344235264
+ The value of  target 1 is 3.95069848927802 and the corresponding error value is 0.0024801904701915577
+
+
+
+
+this is iteration number603
+The  current value of  element 0 is :4.864398270244292
+ The value of  target 1 is 3.7757534902697696 and the corresponding error value is 0.05051099363592083
+
+
+
+
+this is iteration number604
+The  current value of  element 0 is :3.808863496597514
+ The value of  target 1 is 3.940674683092772 and the corresponding error value is 0.0035790685430503173
+
+
+
+
+this is iteration number605
+The  current value of  element 0 is :3.8556934023216023
+ The value of  target 1 is 3.9555864153709233 and the corresponding error value is 0.0020172300842332936
+
+
+
+
+this is iteration number606
+The  current value of  element 0 is :4.042191344145078
+ The value of  target 1 is 3.988435367534584 and the corresponding error value is 0.0001455553565255832
+
+
+
+
+this is iteration number607
+The  current value of  element 0 is :3.636882493880986
+ The value of  target 1 is 3.8836726619065067 and the corresponding error value is 0.013648626926011527
+
+
+
+
+this is iteration number608
+The  current value of  element 0 is :4.426268993688092
+ The value of  target 1 is 3.8819966068092704 and the corresponding error value is 0.014043054197716806
+
+
+
+
+this is iteration number609
+The  current value of  element 0 is :3.8667302809707396
+ The value of  target 1 is 3.9590643754340498 and the corresponding error value is 0.0017169109831704293
+
+
+
+
+this is iteration number610
+The  current value of  element 0 is :4.4222167210326475
+ The value of  target 1 is 3.883050060139598 and the corresponding error value is 0.013794488373212172
+
+
+
+
+this is iteration number611
+The  current value of  element 0 is :3.8640185118859787
+ The value of  target 1 is 3.958211113444149 and the corresponding error value is 0.0017883499261336778
+
+
+
+
+this is iteration number612
+The  current value of  element 0 is :5.050510894582443
+ The value of  target 1 is 3.7347871449198164 and the corresponding error value is 0.07060332135486296
+
+
+
+
+this is iteration number613
+The  current value of  element 0 is :4.883070322849429
+ The value of  target 1 is 3.7715391628632915 and the corresponding error value is 0.05242306494234264
+
+
+
+
+this is iteration number614
+The  current value of  element 0 is :3.8261423023756005
+ The value of  target 1 is 3.9462060031355515 and the corresponding error value is 0.0029478380955168123
+
+
+
+
+this is iteration number615
+The  current value of  element 0 is :4.165788079932034
+ The value of  target 1 is 3.9526658894135576 and the corresponding error value is 0.0022881021355960628
+
+
+
+
+this is iteration number616
+The  current value of  element 0 is :4.280802248244707
+ The value of  target 1 is 3.920705050916056 and the corresponding error value is 0.00636723389930929
+
+
+
+
+this is iteration number617
+The  current value of  element 0 is :4.044662611499792
+ The value of  target 1 is 3.987705128692758 and the corresponding error value is 0.00016370873176890435
+
+
+
+
+this is iteration number618
+The  current value of  element 0 is :3.758402186823024
+ The value of  target 1 is 3.9243209758684534 and the corresponding error value is 0.0058032437176348504
+
+
+
+
+this is iteration number619
+The  current value of  element 0 is :4.335601052877684
+ The value of  target 1 is 3.905904651477062 and the corresponding error value is 0.008948279962176202
+
+
+
+
+this is iteration number620
+The  current value of  element 0 is :4.123705464172965
+ The value of  target 1 is 3.9646747464105276 and the corresponding error value is 0.0012834487947500461
+
+
+
+
+this is iteration number621
+The  current value of  element 0 is :4.5707780703043985
+ The value of  target 1 is 3.8453171421189216 and the corresponding error value is 0.02408171938013916
+
+
+
+
+this is iteration number622
+The  current value of  element 0 is :4.267976626355107
+ The value of  target 1 is 3.9242082319089056 and the corresponding error value is 0.0058204338784654305
+
+
+
+
+this is iteration number623
+The  current value of  element 0 is :4.160671884248363
+ The value of  target 1 is 3.9541166802084 and the corresponding error value is 0.0021514123548899084
+
+
+
+
+this is iteration number624
+The  current value of  element 0 is :4.853073970998007
+ The value of  target 1 is 3.7783210861302194 and the corresponding error value is 0.049363469768355636
+
+
+
+
+this is iteration number625
+The  current value of  element 0 is :3.977264397133821
+ The value of  target 1 is 3.99315207308438 and the corresponding error value is 5.39920299572998e-05
+
+
+
+
+this is iteration number626
+The  current value of  element 0 is :3.8930345152966446
+ The value of  target 1 is 3.9672982111168333 and the corresponding error value is 0.0011023587850424099
+
+
+
+
+this is iteration number627
+The  current value of  element 0 is :3.4925904526828733
+ The value of  target 1 is 3.8329430333342334 and the corresponding error value is 0.028075337078233037
+
+
+
+
+this is iteration number628
+The  current value of  element 0 is :3.012021313414907
+ The value of  target 1 is 3.6416488098412922 and the corresponding error value is 0.12877417667832147
+
+
+
+
+this is iteration number629
+The  current value of  element 0 is :4.466886519630789
+ The value of  target 1 is 3.8715137374422293 and the corresponding error value is 0.016637455928622327
+
+
+
+
+this is iteration number630
+The  current value of  element 0 is :4.082849650262709
+ The value of  target 1 is 3.976500318183523 and the corresponding error value is 0.0005759847272921763
+
+
+
+
+this is iteration number631
+The  current value of  element 0 is :4.199729341763813
+ The value of  target 1 is 3.94310478768403 and the corresponding error value is 0.003294210396795351
+
+
+
+
+this is iteration number632
+The  current value of  element 0 is :3.751036409270349
+ The value of  target 1 is 3.921908587029968 and the corresponding error value is 0.006176610192626223
+
+
+
+
+this is iteration number633
+The  current value of  element 0 is :4.3247762846404925
+ The value of  target 1 is 3.9088069830716687 and the corresponding error value is 0.008407609353419354
+
+
+
+
+this is iteration number634
+The  current value of  element 0 is :4.15152984007559
+ The value of  target 1 is 3.9567153753434763 and the corresponding error value is 0.0019170933563127182
+
+
+
+
+this is iteration number635
+The  current value of  element 0 is :3.5160296084696627
+ The value of  target 1 is 3.8413740898703272 and the corresponding error value is 0.025321055274596885
+
+
+
+
+this is iteration number636
+The  current value of  element 0 is :4.811563440308296
+ The value of  target 1 is 3.7878091065241524 and the corresponding error value is 0.045237416167554625
+
+
+
+
+this is iteration number637
+The  current value of  element 0 is :4.296949561838728
+ The value of  target 1 is 3.916315843027208 and the corresponding error value is 0.007086972285219781
+
+
+
+
+this is iteration number638
+The  current value of  element 0 is :3.582583853634979
+ The value of  target 1 is 3.8649068987918995 and the corresponding error value is 0.018385489095230342
+
+
+
+
+this is iteration number639
+The  current value of  element 0 is :3.930565339728255
+ The value of  target 1 is 3.978913376980011 and the corresponding error value is 0.0004659822934071398
+
+
+
+
+this is iteration number640
+The  current value of  element 0 is :4.1794066717987315
+ The value of  target 1 is 3.948816364620855 and the corresponding error value is 0.0026711981660044546
+
+
+
+
+this is iteration number641
+The  current value of  element 0 is :4.25103563941282
+ The value of  target 1 is 3.9288585704096217 and the corresponding error value is 0.005132494433753216
+
+
+
+
+this is iteration number642
+The  current value of  element 0 is :4.033082405188533
+ The value of  target 1 is 3.991132406097913 and the corresponding error value is 8.775181551442943e-05
+
+
+
+
+this is iteration number643
+The  current value of  element 0 is :3.9308911092008394
+ The value of  target 1 is 3.9790135211115736 and the corresponding error value is 0.00046166877502282043
+
+
+
+
+this is iteration number644
+The  current value of  element 0 is :4.181193984688799
+ The value of  target 1 is 3.9483124706847743 and the corresponding error value is 0.0027235382160276044
+
+
+
+
+this is iteration number645
+The  current value of  element 0 is :3.688348615936884
+ The value of  target 1 is 3.9011112944386643 and the corresponding error value is 0.009878114793157996
+
+
+
+
+this is iteration number646
+The  current value of  element 0 is :4.028484501931304
+ The value of  target 1 is 3.9924970348977107 and the corresponding error value is 6.404745042847042e-05
+
+
+
+
+this is iteration number647
+The  current value of  element 0 is :3.8442678406277313
+ The value of  target 1 is 3.9519714232436702 and the corresponding error value is 0.002355022761995049
+
+
+
+
+this is iteration number648
+The  current value of  element 0 is :3.9467720344403476
+ The value of  target 1 is 3.983881467914699 and the corresponding error value is 0.00027617560867019197
+
+
+
+
+this is iteration number649
+The  current value of  element 0 is :4.498494475419391
+ The value of  target 1 is 3.863450958867265 and the corresponding error value is 0.018782439675402263
+
+
+
+
+this is iteration number650
+The  current value of  element 0 is :4.706797176695112
+ The value of  target 1 is 3.8123009404368213 and the corresponding error value is 0.035418886020465105
+
+
+
+
+this is iteration number651
+The  current value of  element 0 is :3.5579540493352244
+ The value of  target 1 is 3.856267337553257 and the corresponding error value is 0.020803060916476344
+
+
+
+
+this is iteration number652
+The  current value of  element 0 is :4.536103397966823
+ The value of  target 1 is 3.8539636507409236 and the corresponding error value is 0.021472901654178193
+
+
+
+
+this is iteration number653
+The  current value of  element 0 is :4.3463582669517296
+ The value of  target 1 is 3.9030307031896454 and the corresponding error value is 0.00950026382070512
+
+
+
+
+this is iteration number654
+The  current value of  element 0 is :3.6813133957928272
+ The value of  target 1 is 3.8987471304334416 and the corresponding error value is 0.010353646465029178
+
+
+
+
+this is iteration number655
+The  current value of  element 0 is :3.662805908542108
+ The value of  target 1 is 3.8924982026578347 and the corresponding error value is 0.011664388229138265
+
+
+
+
+this is iteration number656
+The  current value of  element 0 is :2.406417293116866
+ The value of  target 1 is 3.3370412611549174 and the corresponding error value is 0.4401774981499083
+
+
+
+
+this is iteration number657
+The  current value of  element 0 is :4.4598889103224355
+ The value of  target 1 is 3.8733098977502287 and the corresponding error value is 0.01617732211030743
+
+
+
+
+this is iteration number658
+The  current value of  element 0 is :3.562657812520511
+ The value of  target 1 is 3.8579235384190995 and the corresponding error value is 0.020328047396930164
+
+
+
+
+this is iteration number659
+The  current value of  element 0 is :3.94843783683217
+ The value of  target 1 is 3.984390500627787 and the corresponding error value is 0.00025951597002334744
+
+
+
+
+this is iteration number660
+The  current value of  element 0 is :4.030765590049878
+ The value of  target 1 is 3.991819749255469 and the corresponding error value is 7.534675298794532e-05
+
+
+
+
+this is iteration number661
+The  current value of  element 0 is :4.305703464485354
+ The value of  target 1 is 3.913946175414612 and the corresponding error value is 0.007491564550358244
+
+
+
+
+this is iteration number662
+The  current value of  element 0 is :3.8395987205083655
+ The value of  target 1 is 3.9504898553050287 and the corresponding error value is 0.002501014572412025
+
+
+
+
+this is iteration number663
+The  current value of  element 0 is :3.973113023224843
+ The value of  target 1 is 3.9918957747973165 and the corresponding error value is 7.403269133850445e-05
+
+
+
+
+this is iteration number664
+The  current value of  element 0 is :3.8803200555276947
+ The value of  target 1 is 3.963327957761983 and the corresponding error value is 0.0013817607241449579
+
+
+
+
+this is iteration number665
+The  current value of  element 0 is :4.261593386295552
+ The value of  target 1 is 3.92595734978401 and the corresponding error value is 0.005556606701223508
+
+
+
+
+this is iteration number666
+The  current value of  element 0 is :3.9076883263340942
+ The value of  target 1 is 3.9718517762116905 and the corresponding error value is 0.0008207207262250974
+
+
+
+
+this is iteration number667
+The  current value of  element 0 is :4.3280282818987805
+ The value of  target 1 is 3.907933966375145 and the corresponding error value is 0.008568470581037877
+
+
+
+
+this is iteration number668
+The  current value of  element 0 is :3.898873901971392
+ The value of  target 1 is 3.9691156074218594 and the corresponding error value is 0.0009849800974988834
+
+
+
+
+this is iteration number669
+The  current value of  element 0 is :4.194848945116756
+ The value of  target 1 is 3.944472812465686 and the corresponding error value is 0.003139045743005254
+
+
+
+
+this is iteration number670
+The  current value of  element 0 is :4.638755679280129
+ The value of  target 1 is 3.8286400753475256 and the corresponding error value is 0.02953583370155439
+
+
+
+
+this is iteration number671
+The  current value of  element 0 is :4.698185178990926
+ The value of  target 1 is 3.814349815041556 and the corresponding error value is 0.034651891360063136
+
+
+
+
+this is iteration number672
+The  current value of  element 0 is :4.053261093528991
+ The value of  target 1 is 3.985169225702678 and the corresponding error value is 0.00023503264055545244
+
+
+
+
+this is iteration number673
+The  current value of  element 0 is :4.135764549172008
+ The value of  target 1 is 3.961215858553163 and the corresponding error value is 0.0015432437692151494
+
+
+
+
+this is iteration number674
+The  current value of  element 0 is :3.7033574992462777
+ The value of  target 1 is 3.9061344608257738 and the corresponding error value is 0.008904854983642543
+
+
+
+
+this is iteration number675
+The  current value of  element 0 is :4.115254894166152
+ The value of  target 1 is 3.967107137450287 and the corresponding error value is 0.0011150832692640598
+
+
+
+
+this is iteration number676
+The  current value of  element 0 is :3.9297284106569164
+ The value of  target 1 is 3.9786560453138775 and the corresponding error value is 0.0004771583563293994
+
+
+
+
+this is iteration number677
+The  current value of  element 0 is :3.744506333015001
+ The value of  target 1 is 3.919764457116685 and the corresponding error value is 0.006518227884663662
+
+
+
+
+this is iteration number678
+The  current value of  element 0 is :4.854037598311604
+ The value of  target 1 is 3.7781022550854013 and the corresponding error value is 0.04946075694309918
+
+
+
+
+this is iteration number679
+The  current value of  element 0 is :3.8506546531628603
+ The value of  target 1 is 3.9539940093382246 and the corresponding error value is 0.0021628071674331933
+
+
+
+
+this is iteration number680
+The  current value of  element 0 is :4.013439252354517
+ The value of  target 1 is 3.996977684253946 and the corresponding error value is 1.2406708214903036e-05
+
+
+
+
+this is iteration number681
+The  current value of  element 0 is :3.803882775902042
+ The value of  target 1 is 3.939073814764016 and the corresponding error value is 0.0037731762326455114
+
+
+
+
+this is iteration number682
+The  current value of  element 0 is :4.81838288105353
+ The value of  target 1 is 3.7862421163983697 and the corresponding error value is 0.045906440685450016
+
+
+
+
+this is iteration number683
+The  current value of  element 0 is :3.682189692163562
+ The value of  target 1 is 3.8990419432051406 and the corresponding error value is 0.010293737288589032
+
+
+
+
+this is iteration number684
+The  current value of  element 0 is :3.3536211898093793
+ The value of  target 1 is 3.7813539235634117 and the corresponding error value is 0.04802500281755127
+
+
+
+
+this is iteration number685
+The  current value of  element 0 is :4.569271755343348
+ The value of  target 1 is 3.8456907754964487 and the corresponding error value is 0.023965895991391147
+
+
+
+
+this is iteration number686
+The  current value of  element 0 is :3.890647599998851
+ The value of  target 1 is 3.966554239518343 and the corresponding error value is 0.0011523146546780778
+
+
+
+
+this is iteration number687
+The  current value of  element 0 is :3.4613625662970797
+ The value of  target 1 is 3.8215917296311095 and the corresponding error value is 0.03200816920638824
+
+
+
+
+this is iteration number688
+The  current value of  element 0 is :4.173810065736863
+ The value of  target 1 is 3.950396184467249 and the corresponding error value is 0.0025103923309399965
+
+
+
+
+this is iteration number689
+The  current value of  element 0 is :4.3102675473266485
+ The value of  target 1 is 3.912713416598458 and the corresponding error value is 0.007706484225315986
+
+
+
+
+this is iteration number690
+The  current value of  element 0 is :3.952419224614027
+ The value of  target 1 is 3.985605913066145 and the corresponding error value is 0.00022183382559324907
+
+
+
+
+this is iteration number691
+The  current value of  element 0 is :4.5211495244843025
+ The value of  target 1 is 3.85772224141218 and the corresponding error value is 0.02038548834736201
+
+
+
+
+this is iteration number692
+The  current value of  element 0 is :3.403265250650483
+ The value of  target 1 is 3.800104803442648 and the corresponding error value is 0.04015823480325994
+
+
+
+
+this is iteration number693
+The  current value of  element 0 is :3.805953683776922
+ The value of  target 1 is 3.939739782313148 and the corresponding error value is 0.0036918040533537267
+
+
+
+
+this is iteration number694
+The  current value of  element 0 is :3.152554734346862
+ The value of  target 1 is 3.7014976496802543 and the corresponding error value is 0.0894024054967323
+
+
+
+
+this is iteration number695
+The  current value of  element 0 is :3.8486014534863324
+ The value of  target 1 is 3.953344305281575 and the corresponding error value is 0.0022236595443773438
+
+
+
+
+this is iteration number696
+The  current value of  element 0 is :4.125904734079082
+ The value of  target 1 is 3.9640428683959446 and the corresponding error value is 0.0013291224447954631
+
+
+
+
+this is iteration number697
+The  current value of  element 0 is :3.9388127949361653
+ The value of  target 1 is 3.98144515766581 and the corresponding error value is 0.0003630870163808594
+
+
+
+
+this is iteration number698
+The  current value of  element 0 is :3.8300253268810494
+ The value of  target 1 is 3.947444298893976 and the corresponding error value is 0.002814907419851801
+
+
+
+
+this is iteration number699
+The  current value of  element 0 is :4.401576340602173
+ The value of  target 1 is 3.8884375226728496 and the corresponding error value is 0.012557998824698238
+
+
+
+
+this is iteration number700
+The  current value of  element 0 is :3.910646377869031
+ The value of  target 1 is 3.972768091164647 and the corresponding error value is 0.0007690587676523749
+
+
+
+
+this is iteration number701
+The  current value of  element 0 is :3.773760286908267
+ The value of  target 1 is 3.929330128050451 and the corresponding error value is 0.005065150673315303
+
+
+
+
+this is iteration number702
+The  current value of  element 0 is :4.063131283565362
+ The value of  target 1 is 3.9822675703379 and the corresponding error value is 0.0003324214913834536
+
+
+
+
+this is iteration number703
+The  current value of  element 0 is :4.100213552341649
+ The value of  target 1 is 3.971454091869324 and the corresponding error value is 0.0008436647791356947
+
+
+
+
+this is iteration number704
+The  current value of  element 0 is :4.002898949447661
+ The value of  target 1 is 4.000130756147193 and the corresponding error value is 1.363410228360114e-07
+
+
+
+
+this is iteration number705
+The  current value of  element 0 is :4.05606526405289
+ The value of  target 1 is 3.984343841372101 and the corresponding error value is 0.00026102146160986
+
+
+
+
+this is iteration number706
+The  current value of  element 0 is :3.5518298228089558
+ The value of  target 1 is 3.854106555977496 and the corresponding error value is 0.021431040452770233
+
+
+
+
+this is iteration number707
+The  current value of  element 0 is :4.72628814067641
+ The value of  target 1 is 3.8076840918131323 and the corresponding error value is 0.03717797444992684
+
+
+
+
+this is iteration number708
+The  current value of  element 0 is :4.351144082419169
+ The value of  target 1 is 3.901755378543175 and the corresponding error value is 0.009750500266651762
+
+
+
+
+this is iteration number709
+The  current value of  element 0 is :3.989109761358585
+ The value of  target 1 is 3.9967266901607132 and the corresponding error value is 1.4237867143262836e-05
+
+
+
+
+this is iteration number710
+The  current value of  element 0 is :3.5126674579673116
+ The value of  target 1 is 3.840169370686481 and the corresponding error value is 0.025705910696069232
+
+
+
+
+this is iteration number711
+The  current value of  element 0 is :3.419449170091913
+ The value of  target 1 is 3.806139191730287 and the corresponding error value is 0.03777612379125632
+
+
+
+
+this is iteration number712
+The  current value of  element 0 is :4.541170990628397
+ The value of  target 1 is 3.8526940102085314 and the corresponding error value is 0.021846610618235895
+
+
+
+
+this is iteration number713
+The  current value of  element 0 is :3.9810135134187314
+ The value of  target 1 is 3.994285065382917 and the corresponding error value is 3.862541229462491e-05
+
+
+
+
+this is iteration number714
+The  current value of  element 0 is :3.8578342487370065
+ The value of  target 1 is 3.9562621196118934 and the corresponding error value is 0.0019569900612324766
+
+
+
+
+this is iteration number715
+The  current value of  element 0 is :4.072175844054603
+ The value of  target 1 is 3.9796173264728854 and the corresponding error value is 0.0004360860536400804
+
+
+
+
+this is iteration number716
+The  current value of  element 0 is :3.7625912560478723
+ The value of  target 1 is 3.9256900565033055 and the corresponding error value is 0.005596527645978716
+
+
+
+
+this is iteration number717
+The  current value of  element 0 is :4.035445005648184
+ The value of  target 1 is 3.990432049988872 and the corresponding error value is 0.00010136361742658642
+
+
+
+
+this is iteration number718
+The  current value of  element 0 is :4.252674547312639
+ The value of  target 1 is 3.928407532842181 and the corresponding error value is 0.005197323820901295
+
+
+
+
+this is iteration number719
+The  current value of  element 0 is :4.164614718555809
+ The value of  target 1 is 3.9529983943247027 and the corresponding error value is 0.0022564025417314967
+
+
+
+
+this is iteration number720
+The  current value of  element 0 is :4.01948599750677
+ The value of  target 1 is 3.9951740674666967 and the corresponding error value is 2.836555734930526e-05
+
+
+
+
+this is iteration number721
+The  current value of  element 0 is :4.307869950033124
+ The value of  target 1 is 3.9133607746763523 and the corresponding error value is 0.0075932445900055425
+
+
+
+
+this is iteration number722
+The  current value of  element 0 is :2.941300238777603
+ The value of  target 1 is 3.6101642425510354 and the corresponding error value is 0.1523620035432574
+
+
+
+
+this is iteration number723
+The  current value of  element 0 is :3.9368667769771895
+ The value of  target 1 is 3.980848440651267 and the corresponding error value is 0.00038618378483680043
+
+
+
+
+this is iteration number724
+The  current value of  element 0 is :4.271094598406928
+ The value of  target 1 is 3.923355210030137 and the corresponding error value is 0.0059513186194943375
+
+
+
+
+this is iteration number725
+The  current value of  element 0 is :3.8751160932777635
+ The value of  target 1 is 3.9616977443009995 and the corresponding error value is 0.0015056150473306623
+
+
+
+
+this is iteration number726
+The  current value of  element 0 is :2.602336453681807
+ The value of  target 1 is 3.4449376022271587 and the corresponding error value is 0.3086495778191094
+
+
+
+
+this is iteration number727
+The  current value of  element 0 is :3.786885027614166
+ The value of  target 1 is 3.9335886905165314 and the corresponding error value is 0.0044771233367926
+
+
+
+
+this is iteration number728
+The  current value of  element 0 is :4.842978642266802
+ The value of  target 1 is 3.7806175103964055 and the corresponding error value is 0.04834830923427512
+
+
+
+
+this is iteration number729
+The  current value of  element 0 is :3.128215170670666
+ The value of  target 1 is 3.6913808971117827 and the corresponding error value is 0.09555461977041663
+
+
+
+
+this is iteration number730
+The  current value of  element 0 is :3.912271169353976
+ The value of  target 1 is 3.9732709925060883 and the corresponding error value is 0.0007414188491035337
+
+
+
+
+this is iteration number731
+The  current value of  element 0 is :3.51467901199218
+ The value of  target 1 is 3.840890332955585 and the corresponding error value is 0.025475245814029275
+
+
+
+
+this is iteration number732
+The  current value of  element 0 is :4.350518365350854
+ The value of  target 1 is 3.9019220053235646 and the corresponding error value is 0.009717621034427448
+
+
+
+
+this is iteration number733
+The  current value of  element 0 is :3.862526338189231
+ The value of  target 1 is 3.957741244941558 and the corresponding error value is 0.001828311134147883
+
+
+
+
+this is iteration number734
+The  current value of  element 0 is :5.007757983636969
+ The value of  target 1 is 3.7439970419055912 and the corresponding error value is 0.06579376751118234
+
+
+
+
+this is iteration number735
+The  current value of  element 0 is :4.064312944871642
+ The value of  target 1 is 3.981920847918264 and the corresponding error value is 0.0003451848920762914
+
+
+
+
+this is iteration number736
+The  current value of  element 0 is :3.8884097238735666
+ The value of  target 1 is 3.9658561457912582 and the corresponding error value is 0.0012001966344365976
+
+
+
+
+this is iteration number737
+The  current value of  element 0 is :3.5983469083370823
+ The value of  target 1 is 3.8703941706407066 and the corresponding error value is 0.01692752683326974
+
+
+
+
+this is iteration number738
+The  current value of  element 0 is :4.1170011732940415
+ The value of  target 1 is 3.9666039149163153 and the corresponding error value is 0.001148944584000437
+
+
+
+
+this is iteration number739
+The  current value of  element 0 is :4.719868812768507
+ The value of  target 1 is 3.80920155675469 and the corresponding error value is 0.03659509438807925
+
+
+
+
+this is iteration number740
+The  current value of  element 0 is :4.441098325906026
+ The value of  target 1 is 3.8781533094022542 and the corresponding error value is 0.014968712700220684
+
+
+
+
+this is iteration number741
+The  current value of  element 0 is :4.070421254197475
+ The value of  target 1 is 3.980130809786867 and the corresponding error value is 0.00041490390993882453
+
+
+
+
+this is iteration number742
+The  current value of  element 0 is :3.9864527657704265
+ The value of  target 1 is 3.995926171637509 and the corresponding error value is 2.0919905889533045e-05
+
+
+
+
+this is iteration number743
+The  current value of  element 0 is :3.9749922425570077
+ The value of  target 1 is 3.992464695580651 and the corresponding error value is 6.45661171116215e-05
+
+
+
+
+this is iteration number744
+The  current value of  element 0 is :3.6850964419939762
+ The value of  target 1 is 3.900019177149743 and the corresponding error value is 0.010096395760664808
+
+
+
+
+this is iteration number745
+The  current value of  element 0 is :4.05460983259888
+ The value of  target 1 is 3.9847721353901164 and the corresponding error value is 0.0002473657251868472
+
+
+
+
+this is iteration number746
+The  current value of  element 0 is :4.131261708623843
+ The value of  target 1 is 3.9625057315172247 and the corresponding error value is 0.001443564437541256
+
+
+
+
+this is iteration number747
+The  current value of  element 0 is :4.09086856289162
+ The value of  target 1 is 3.9741661430851085 and the corresponding error value is 0.0006934720200140102
+
+
+
+
+this is iteration number748
+The  current value of  element 0 is :4.484768028651515
+ The value of  target 1 is 3.8669422968858047 and the corresponding error value is 0.017837660061139692
+
+
+
+
+this is iteration number749
+The  current value of  element 0 is :4.747786205439767
+ The value of  target 1 is 3.8026241191293195 and the corresponding error value is 0.039154864230347974
+
+
+
+
+this is iteration number750
+The  current value of  element 0 is :4.030204338682204
+ The value of  target 1 is 3.9919863424195094 and the corresponding error value is 7.248236539785465e-05
+
+
+
+
+this is iteration number751
+The  current value of  element 0 is :3.7722243833552707
+ The value of  target 1 is 3.9288304443575757 and the corresponding error value is 0.005136525205982645
+
+
+
+
+this is iteration number752
+The  current value of  element 0 is :3.7676050707490987
+ The value of  target 1 is 3.9273259313418984 and the corresponding error value is 0.0053544443239806495
+
+
+
+
+this is iteration number753
+The  current value of  element 0 is :3.9365508813655037
+ The value of  target 1 is 3.9807515372603968 and the corresponding error value is 0.0003900017805775214
+
+
+
+
+this is iteration number754
+The  current value of  element 0 is :3.5126847264312255
+ The value of  target 1 is 3.8401755622484184 and the corresponding error value is 0.025703925340360964
+
+
+
+
+this is iteration number755
+The  current value of  element 0 is :4.014335706490752
+ The value of  target 1 is 3.996710050457912 and the corresponding error value is 1.4363717531578934e-05
+
+
+
+
+this is iteration number756
+The  current value of  element 0 is :4.2962320338099165
+ The value of  target 1 is 3.9165103828061083 and the corresponding error value is 0.00705425579637657
+
+
+
+
+this is iteration number757
+The  current value of  element 0 is :3.352915344169924
+ The value of  target 1 is 3.78108467206536 and the corresponding error value is 0.04814308613266582
+
+
+
+
+this is iteration number758
+The  current value of  element 0 is :3.8042839950259424
+ The value of  target 1 is 3.9392028788151876 and the corresponding error value is 0.0037573370655456517
+
+
+
+
+this is iteration number759
+The  current value of  element 0 is :3.8904420427963187
+ The value of  target 1 is 3.966490140277893 and the corresponding error value is 0.0011566705583174273
+
+
+
+
+this is iteration number760
+The  current value of  element 0 is :3.7234179748945726
+ The value of  target 1 is 3.9128049924070187 and the corresponding error value is 0.0076904143567331495
+
+
+
+
+this is iteration number761
+The  current value of  element 0 is :4.252595691589612
+ The value of  target 1 is 3.9284292287499607 and the corresponding error value is 0.005194196068575579
+
+
+
+
+this is iteration number762
+The  current value of  element 0 is :3.810216274739153
+ The value of  target 1 is 3.9411089850877694 and the corresponding error value is 0.0035272926523048686
+
+
+
+
+this is iteration number763
+The  current value of  element 0 is :4.3167276016982505
+ The value of  target 1 is 3.91097174529994 and the corresponding error value is 0.008015308389638931
+
+
+
+
+this is iteration number764
+The  current value of  element 0 is :5.259114564089747
+ The value of  target 1 is 3.691469208176499 and the corresponding error value is 0.0955000302950605
+
+
+
+
+this is iteration number765
+The  current value of  element 0 is :4.156543451924736
+ The value of  target 1 is 3.955289216105281 and the corresponding error value is 0.002044014980375053
+
+
+
+
+this is iteration number766
+The  current value of  element 0 is :3.7526697864416034
+ The value of  target 1 is 3.922444100421581 and the corresponding error value is 0.006092723458996347
+
+
+
+
+this is iteration number767
+The  current value of  element 0 is :4.045393090691376
+ The value of  target 1 is 3.9874893981879485 and the corresponding error value is 0.0001692757595117749
+
+
+
+
+this is iteration number768
+The  current value of  element 0 is :4.39552188471119
+ The value of  target 1 is 3.8900247351227826 and the corresponding error value is 0.012204784149691485
+
+
+
+
+this is iteration number769
+The  current value of  element 0 is :4.089503517960969
+ The value of  target 1 is 3.9745630299311134 and the corresponding error value is 0.0006727264163543493
+
+
+
+
+this is iteration number770
+The  current value of  element 0 is :4.408411448145365
+ The value of  target 1 is 3.886649429894682 and the corresponding error value is 0.012961952313306097
+
+
+
+
+this is iteration number771
+The  current value of  element 0 is :4.597212590303578
+ The value of  target 1 is 3.838789228081523 and the corresponding error value is 0.026150373754469956
+
+
+
+
+this is iteration number772
+The  current value of  element 0 is :4.019245978956719
+ The value of  target 1 is 3.995245587441036 and the corresponding error value is 2.760885133980532e-05
+
+
+
+
+this is iteration number773
+The  current value of  element 0 is :3.323104813082053
+ The value of  target 1 is 3.769644274610505 and the corresponding error value is 0.05329436594511021
+
+
+
+
+this is iteration number774
+The  current value of  element 0 is :4.179431942775113
+ The value of  target 1 is 3.9488092378894954 and the corresponding error value is 0.0026719348875648362
+
+
+
+
+this is iteration number775
+The  current value of  element 0 is :3.907764749304574
+ The value of  target 1 is 3.971875461872047 and the corresponding error value is 0.0008193641830386645
+
+
+
+
+this is iteration number776
+The  current value of  element 0 is :4.8887851098367605
+ The value of  target 1 is 3.770254085342171 and the corresponding error value is 0.05301318121662051
+
+
+
+
+this is iteration number777
+The  current value of  element 0 is :3.574181853442754
+ The value of  target 1 is 3.861968716612437 and the corresponding error value is 0.019190916477005455
+
+
+
+
+this is iteration number778
+The  current value of  element 0 is :3.9004929010213454
+ The value of  target 1 is 3.9696188202711133 and the corresponding error value is 0.0009536472614478377
+
+
+
+
+this is iteration number779
+The  current value of  element 0 is :3.9789707759203754
+ The value of  target 1 is 3.9936679300353934 and the corresponding error value is 4.667718000128739e-05
+
+
+
+
+this is iteration number780
+The  current value of  element 0 is :3.8984508784824543
+ The value of  target 1 is 3.968984076584002 and the corresponding error value is 0.0009932534287630836
+
+
+
+
+this is iteration number781
+The  current value of  element 0 is :2.5677140033662464
+ The value of  target 1 is 3.426588607028864 and the corresponding error value is 0.3293742869820706
+
+
+
+
+this is iteration number782
+The  current value of  element 0 is :4.43841712253535
+ The value of  target 1 is 3.8788468211462073 and the corresponding error value is 0.014799495925233032
+
+
+
+
+this is iteration number783
+The  current value of  element 0 is :3.85571603037831
+ The value of  target 1 is 3.9555935600629915 and the corresponding error value is 0.002016588347816211
+
+
+
+
+this is iteration number784
+The  current value of  element 0 is :3.2491154196922114
+ The value of  target 1 is 3.740655515370804 and the corresponding error value is 0.06751915619221274
+
+
+
+
+this is iteration number785
+The  current value of  element 0 is :3.558955829112345
+ The value of  target 1 is 3.856620313084564 and the corresponding error value is 0.020701364306884063
+
+
+
+
+this is iteration number786
+The  current value of  element 0 is :3.752632604779473
+ The value of  target 1 is 3.9224319137296333 and the corresponding error value is 0.006094626093917515
+
+
+
+
+this is iteration number787
+The  current value of  element 0 is :4.98621425722214
+ The value of  target 1 is 3.748682558082174 and the corresponding error value is 0.06341202405403804
+
+
+
+
+this is iteration number788
+The  current value of  element 0 is :3.7696444613599294
+ The value of  target 1 is 3.927990474632332 and the corresponding error value is 0.005257631269044581
+
+
+
+
+this is iteration number789
+The  current value of  element 0 is :4.075860461800004
+ The value of  target 1 is 3.978540030598902 and the corresponding error value is 0.0004822402560971951
+
+
+
+
+this is iteration number790
+The  current value of  element 0 is :3.9819697390144846
+ The value of  target 1 is 3.9945738004403353 and the corresponding error value is 3.511984122097761e-05
+
+
+
+
+this is iteration number791
+The  current value of  element 0 is :4.4294212762535485
+ The value of  target 1 is 3.88117808133999 and the corresponding error value is 0.014237720272706166
+
+
+
+
+this is iteration number792
+The  current value of  element 0 is :4.513221550782312
+ The value of  target 1 is 3.8597222245882428 and the corresponding error value is 0.019818382049883333
+
+
+
+
+this is iteration number793
+The  current value of  element 0 is :4.334538096343295
+ The value of  target 1 is 3.906189190923813 and the corresponding error value is 0.00889452870860509
+
+
+
+
+this is iteration number794
+The  current value of  element 0 is :3.829279739107374
+ The value of  target 1 is 3.947206665665339 and the corresponding error value is 0.002840179484506039
+
+
+
+
+this is iteration number795
+The  current value of  element 0 is :3.850298674480592
+ The value of  target 1 is 3.953881399612672 and the corresponding error value is 0.002173293902073452
+
+
+
+
+this is iteration number796
+The  current value of  element 0 is :3.824625448077291
+ The value of  target 1 is 3.945721807012776 and the corresponding error value is 0.0030006504269456265
+
+
+
+
+this is iteration number797
+The  current value of  element 0 is :3.186030896035395
+ The value of  target 1 is 3.71524786707505 and the corresponding error value is 0.0813687793382336
+
+
+
+
+this is iteration number798
+The  current value of  element 0 is :3.989978904232175
+ The value of  target 1 is 3.996988389833774 and the corresponding error value is 1.2331405959545134e-05
+
+
+
+
+this is iteration number799
+The  current value of  element 0 is :4.286159586707231
+ The value of  target 1 is 3.9192461855926846 and the corresponding error value is 0.006602182355738561
+
+
+
+
+this is iteration number800
+The  current value of  element 0 is :3.6759462991632024
+ The value of  target 1 is 3.8969393843121978 and the corresponding error value is 0.010724801121636795
+
+
+
+
+this is iteration number801
+The  current value of  element 0 is :4.4939799598025
+ The value of  target 1 is 3.864597527443644 and the corresponding error value is 0.01846948204693122
+
+
+
+
+this is iteration number802
+The  current value of  element 0 is :4.199340463362106
+ The value of  target 1 is 3.943213711459771 and the corresponding error value is 0.0032817188547144224
+
+
+
+
+this is iteration number803
+The  current value of  element 0 is :4.03389681123993
+ The value of  target 1 is 3.990890923085586 and the corresponding error value is 9.23343591471355e-05
+
+
+
+
+this is iteration number804
+The  current value of  element 0 is :4.0951026739226
+ The value of  target 1 is 3.97293626171966 and the corresponding error value is 0.0007597596679871162
+
+
+
+
+this is iteration number805
+The  current value of  element 0 is :2.6499038347340553
+ The value of  target 1 is 3.4696723084479943 and the corresponding error value is 0.2817780381184319
+
+
+
+
+this is iteration number806
+The  current value of  element 0 is :3.5410754017791426
+ The value of  target 1 is 3.8502999384268133 and the corresponding error value is 0.022560058496589264
+
+
+
+
+this is iteration number807
+The  current value of  element 0 is :3.6722080573680724
+ The value of  target 1 is 3.895678140858756 and the corresponding error value is 0.010987622153826933
+
+
+
+
+this is iteration number808
+The  current value of  element 0 is :4.370636775164303
+ The value of  target 1 is 3.8965816890101275 and the corresponding error value is 0.010799015358987989
+
+
+
+
+this is iteration number809
+The  current value of  element 0 is :5.505459682887046
+ The value of  target 1 is 3.6435375292574017 and the corresponding error value is 0.1274222055186608
+
+
+
+
+this is iteration number810
+The  current value of  element 0 is :4.552850237956334
+ The value of  target 1 is 3.8497756971780976 and the corresponding error value is 0.02271781546114871
+
+
+
+
+this is iteration number811
+The  current value of  element 0 is :4.353291362328353
+ The value of  target 1 is 3.9011838249810564 and the corresponding error value is 0.009863702620393553
+
+
+
+
+this is iteration number812
+The  current value of  element 0 is :3.6074598091103445
+ The value of  target 1 is 3.87355163102663 and the corresponding error value is 0.016115888384999038
+
+
+
+
+this is iteration number813
+The  current value of  element 0 is :4.1789523443998196
+ The value of  target 1 is 3.948944501055651 and the corresponding error value is 0.002657969471400813
+
+
+
+
+this is iteration number814
+The  current value of  element 0 is :4.998608275523418
+ The value of  target 1 is 3.7459833255974733 and the corresponding error value is 0.06477873754892212
+
+
+
+
+this is iteration number815
+The  current value of  element 0 is :3.978722624209558
+ The value of  target 1 is 3.9935929302774835 and the corresponding error value is 4.7707612151712305e-05
+
+
+
+
+this is iteration number816
+The  current value of  element 0 is :3.777964526069673
+ The value of  target 1 is 3.9306964860729665 and the corresponding error value is 0.004872530556561644
+
+
+
+
+this is iteration number817
+The  current value of  element 0 is :3.8938358656274126
+ The value of  target 1 is 3.9675478399798267 and the corresponding error value is 0.0010858448499951453
+
+
+
+
+this is iteration number818
+The  current value of  element 0 is :5.389715798084638
+ The value of  target 1 is 3.6656439425125447 and the corresponding error value is 0.1121285792360424
+
+
+
+
+this is iteration number819
+The  current value of  element 0 is :3.9223015485122072
+ The value of  target 1 is 3.976369150480975 and the corresponding error value is 0.0005822978985098665
+
+
+
+
+this is iteration number820
+The  current value of  element 0 is :4.4916339288676665
+ The value of  target 1 is 3.865194016458876 and the corresponding error value is 0.018307709182031128
+
+
+
+
+this is iteration number821
+The  current value of  element 0 is :4.449535081412291
+ The value of  target 1 is 3.875975020579271 and the corresponding error value is 0.015506470499733102
+
+
+
+
+this is iteration number822
+The  current value of  element 0 is :3.527793055396087
+ The value of  target 1 is 3.8455769829323563 and the corresponding error value is 0.024001141217341617
+
+
+
+
+this is iteration number823
+The  current value of  element 0 is :3.7130634759307535
+ The value of  target 1 is 3.909368060377347 and the corresponding error value is 0.00830503041938701
+
+
+
+
+this is iteration number824
+The  current value of  element 0 is :4.508379362997193
+ The value of  target 1 is 3.860946266013114 and the corresponding error value is 0.019475244669682718
+
+
+
+
+this is iteration number825
+The  current value of  element 0 is :3.752055107902474
+ The value of  target 1 is 3.9222426115971705 and the corresponding error value is 0.006124218839631414
+
+
+
+
+this is iteration number826
+The  current value of  element 0 is :3.8862848043557987
+ The value of  target 1 is 3.965192771925468 and the corresponding error value is 0.001246600354307061
+
+
+
+
+this is iteration number827
+The  current value of  element 0 is :3.837115273959383
+ The value of  target 1 is 3.9497008125484845 and the corresponding error value is 0.0025805574457342735
+
+
+
+
+this is iteration number828
+The  current value of  element 0 is :4.058512321087073
+ The value of  target 1 is 3.9836242256294794 and the corresponding error value is 0.00028479176060474136
+
+
+
+
+this is iteration number829
+The  current value of  element 0 is :3.603950523940264
+ The value of  target 1 is 3.872337006378184 and the corresponding error value is 0.016425752934105774
+
+
+
+
+this is iteration number830
+The  current value of  element 0 is :5.330552449822972
+ The value of  target 1 is 3.6772243498424135 and the corresponding error value is 0.10450714598481063
+
+
+
+
+this is iteration number831
+The  current value of  element 0 is :3.0135932577481226
+ The value of  target 1 is 3.642337928546905 and the corresponding error value is 0.1282800694275723
+
+
+
+
+this is iteration number832
+The  current value of  element 0 is :4.057475173850016
+ The value of  target 1 is 3.9839291491164275 and the corresponding error value is 0.0002745930990056164
+
+
+
+
+this is iteration number833
+The  current value of  element 0 is :4.062959705510694
+ The value of  target 1 is 3.982317926470179 and the corresponding error value is 0.0003305877978438432
+
+
+
+
+this is iteration number834
+The  current value of  element 0 is :3.7630996555374834
+ The value of  target 1 is 3.9258560702229484 and the corresponding error value is 0.005571716252561508
+
+
+
+
+this is iteration number835
+The  current value of  element 0 is :4.087870839294782
+ The value of  target 1 is 3.9750379765498804 and the corresponding error value is 0.0006483146381744691
+
+
+
+
+this is iteration number836
+The  current value of  element 0 is :4.181615105133576
+ The value of  target 1 is 3.9481937894200145 and the corresponding error value is 0.0027359396652378476
+
+
+
+
+this is iteration number837
+The  current value of  element 0 is :3.944784515666698
+ The value of  target 1 is 3.9832737336428243 and the corresponding error value is 0.0002967442526083833
+
+
+
+
+this is iteration number838
+The  current value of  element 0 is :3.401141683377255
+ The value of  target 1 is 3.7993101695595928 and the corresponding error value is 0.040477347872640054
+
+
+
+
+this is iteration number839
+The  current value of  element 0 is :3.8935394669287415
+ The value of  target 1 is 3.967455517053145 and the corresponding error value is 0.0010919378532250365
+
+
+
+
+this is iteration number840
+The  current value of  element 0 is :3.3856950195580184
+ The value of  target 1 is 3.79351015089185 and the corresponding error value is 0.042844797633814935
+
+
+
+
+this is iteration number841
+The  current value of  element 0 is :3.405313019251121
+ The value of  target 1 is 3.8008704493008456 and the corresponding error value is 0.0398519575123465
+
+
+
+
+this is iteration number842
+The  current value of  element 0 is :4.280196579413214
+ The value of  target 1 is 3.9208701456197215 and the corresponding error value is 0.006340913708624461
+
+
+
+
+this is iteration number843
+The  current value of  element 0 is :4.255282207018056
+ The value of  target 1 is 3.927690399310139 and the corresponding error value is 0.0053012379526171174
+
+
+
+
+this is iteration number844
+The  current value of  element 0 is :3.9820216638022075
+ The value of  target 1 is 3.9945894765037697 and the corresponding error value is 3.493428799949743e-05
+
+
+
+
+this is iteration number845
+The  current value of  element 0 is :3.7788398101344773
+ The value of  target 1 is 3.9309806862469476 and the corresponding error value is 0.004832934984695421
+
+
+
+
+this is iteration number846
+The  current value of  element 0 is :4.019287669474409
+ The value of  target 1 is 3.9952331642017676 and the corresponding error value is 2.773955932554928e-05
+
+
+
+
+this is iteration number847
+The  current value of  element 0 is :3.8388192810001183
+ The value of  target 1 is 3.9502422871106293 and the corresponding error value is 0.002525837704870479
+
+
+
+
+this is iteration number848
+The  current value of  element 0 is :4.496437413166517
+ The value of  target 1 is 3.8639731920158393 and the corresponding error value is 0.018639569298344046
+
+
+
+
+this is iteration number849
+The  current value of  element 0 is :4.463488514620051
+ The value of  target 1 is 3.8723854359339986 and the corresponding error value is 0.016413341525821724
+
+
+
+
+this is iteration number850
+The  current value of  element 0 is :3.24083330100526
+ The value of  target 1 is 3.7373567369759555 and the corresponding error value is 0.0692443768749418
+
+
+
+
+this is iteration number851
+The  current value of  element 0 is :4.948356763982701
+ The value of  target 1 is 3.7569895405097062 and the corresponding error value is 0.059297343881174296
+
+
+
+
+this is iteration number852
+The  current value of  element 0 is :4.109678469453999
+ The value of  target 1 is 3.968716107548355 and the corresponding error value is 0.0010102158193777877
+
+
+
+
+this is iteration number853
+The  current value of  element 0 is :4.437522302938872
+ The value of  target 1 is 3.879078406948107 and the corresponding error value is 0.014743203259259655
+
+
+
+
+this is iteration number854
+The  current value of  element 0 is :3.839385043862408
+ The value of  target 1 is 3.9504219935251053 and the corresponding error value is 0.0025078067324996608
+
+
+
+
+this is iteration number855
+The  current value of  element 0 is :3.882550644856412
+ The value of  target 1 is 3.9640257926522477 and the corresponding error value is 0.001330367801646869
+
+
+
+
+this is iteration number856
+The  current value of  element 0 is :4.612134988034219
+ The value of  target 1 is 3.8351282828668074 and the corresponding error value is 0.02734780482758087
+
+
+
+
+this is iteration number857
+The  current value of  element 0 is :3.5754599754622216
+ The value of  target 1 is 3.862416278230832 and the corresponding error value is 0.01906711421762523
+
+
+
+
+this is iteration number858
+The  current value of  element 0 is :3.573952592017461
+ The value of  target 1 is 3.8618884129631597 and the corresponding error value is 0.019213172060871735
+
+
+
+
+this is iteration number859
+The  current value of  element 0 is :3.051322875588906
+ The value of  target 1 is 3.658741667265084 and the corresponding error value is 0.1167987579937499
+
+
+
+
+this is iteration number860
+The  current value of  element 0 is :3.5980549586792137
+ The value of  target 1 is 3.870292836118125 and the corresponding error value is 0.016953905526161606
+
+
+
+
+this is iteration number861
+The  current value of  element 0 is :3.8369807051913014
+ The value of  target 1 is 3.9496580370809187 and the corresponding error value is 0.002584905193465303
+
+
+
+
+this is iteration number862
+The  current value of  element 0 is :3.6412310638551926
+ The value of  target 1 is 3.885159082224704 and the corresponding error value is 0.01330352731324769
+
+
+
+
+this is iteration number863
+The  current value of  element 0 is :3.5291034069265494
+ The value of  target 1 is 3.846043983433102 and the corresponding error value is 0.023856661053714076
+
+
+
+
+this is iteration number864
+The  current value of  element 0 is :3.568508939334249
+ The value of  target 1 is 3.8599796112395057 and the corresponding error value is 0.019745979657400617
+
+
+
+
+this is iteration number865
+The  current value of  element 0 is :4.051826150576018
+ The value of  target 1 is 3.9855918997685924 and the corresponding error value is 0.0002222514525097134
+
+
+
+
+this is iteration number866
+The  current value of  element 0 is :4.103056360136217
+ The value of  target 1 is 3.970630796386395 and the corresponding error value is 0.0008921693245110344
+
+
+
+
+this is iteration number867
+The  current value of  element 0 is :3.869329458000286
+ The value of  target 1 is 3.9598814322771214 and the corresponding error value is 0.0016498680438581236
+
+
+
+
+this is iteration number868
+The  current value of  element 0 is :2.874689208369812
+ The value of  target 1 is 3.5796219751170018 and the corresponding error value is 0.1771383118294142
+
+
+
+
+this is iteration number869
+The  current value of  element 0 is :4.270868048741702
+ The value of  target 1 is 3.9234171600598966 and the corresponding error value is 0.005941764213231694
+
+
+
+
+this is iteration number870
+The  current value of  element 0 is :3.6127139017958623
+ The value of  target 1 is 3.875367172265576 and the corresponding error value is 0.01565822457681323
+
+
+
+
+this is iteration number871
+The  current value of  element 0 is :3.914665881378352
+ The value of  target 1 is 3.974011668423836 and the corresponding error value is 0.00070163170968885
+
+
+
+
+this is iteration number872
+The  current value of  element 0 is :4.35927843401316
+ The value of  target 1 is 3.89959234679319 and the corresponding error value is 0.010182354475705977
+
+
+
+
+this is iteration number873
+The  current value of  element 0 is :4.263227474842006
+ The value of  target 1 is 3.9255092255840847 and the corresponding error value is 0.005623616247498795
+
+
+
+
+this is iteration number874
+The  current value of  element 0 is :2.263548746130539
+ The value of  target 1 is 3.2516597642047937 and the corresponding error value is 0.560761698745821
+
+
+
+
+this is iteration number875
+The  current value of  element 0 is :3.938805590881868
+ The value of  target 1 is 3.98144294940903 and the corresponding error value is 0.00036317117722681387
+
+
+
+
+this is iteration number876
+The  current value of  element 0 is :3.8519469455827204
+ The value of  target 1 is 3.954402689996534 and the corresponding error value is 0.0021249619895556933
+
+
+
+
+this is iteration number877
+The  current value of  element 0 is :4.052878249075652
+ The value of  target 1 is 3.985281975063831 and the corresponding error value is 0.00023158828295787755
+
+
+
+
+this is iteration number878
+The  current value of  element 0 is :4.642069696089197
+ The value of  target 1 is 3.8278361605796345 and the corresponding error value is 0.029812801443381977
+
+
+
+
+this is iteration number879
+The  current value of  element 0 is :4.747813524624705
+ The value of  target 1 is 3.8026177104655288 and the corresponding error value is 0.039157400511404546
+
+
+
+
+this is iteration number880
+The  current value of  element 0 is :4.032752758740348
+ The value of  target 1 is 3.991230170430213 and the corresponding error value is 8.592974025291086e-05
+
+
+
+
+this is iteration number881
+The  current value of  element 0 is :4.996894941897903
+ The value of  target 1 is 3.746355870287288 and the corresponding error value is 0.06458923866743214
+
+
+
+
+this is iteration number882
+The  current value of  element 0 is :3.9464378819654566
+ The value of  target 1 is 3.983779322164055 and the corresponding error value is 0.0002795810672934771
+
+
+
+
+this is iteration number883
+The  current value of  element 0 is :3.9999964130636085
+ The value of  target 1 is 3.999998923918501 and the corresponding error value is 2.5107723945102343e-07
+
+
+
+
+this is iteration number884
+The  current value of  element 0 is :3.626257687133843
+ The value of  target 1 is 3.8800307272850665 and the corresponding error value is 0.014512845668465172
+
+
+
+
+this is iteration number885
+The  current value of  element 0 is :3.9493529776007916
+ The value of  target 1 is 3.984670020159655 and the corresponding error value is 0.0002505882617457417
+
+
+
+
+this is iteration number886
+The  current value of  element 0 is :4.868785788763608
+ The value of  target 1 is 3.7747610679510357 and the corresponding error value is 0.05095806544260719
+
+
+
+
+this is iteration number887
+The  current value of  element 0 is :4.241616708075896
+ The value of  target 1 is 3.9314555310658266 and the corresponding error value is 0.004767138690402124
+
+
+
+
+this is iteration number888
+The  current value of  element 0 is :3.9444426346686337
+ The value of  target 1 is 3.9831691518238803 and the corresponding error value is 0.0003003582985037322
+
+
+
+
+this is iteration number889
+The  current value of  element 0 is :3.1405479305720014
+ The value of  target 1 is 3.696519693049708 and the corresponding error value is 0.092404027013594
+
+
+
+
+this is iteration number890
+The  current value of  element 0 is :4.716430564828462
+ The value of  target 1 is 3.8100155700770397 and the corresponding error value is 0.03628431804307539
+
+
+
+
+this is iteration number891
+The  current value of  element 0 is :3.0782613614528778
+ The value of  target 1 is 3.6702956996779292 and the corresponding error value is 0.10903487995118871
+
+
+
+
+this is iteration number892
+The  current value of  element 0 is :4.655221202141684
+ The value of  target 1 is 3.8246541130630716 and the corresponding error value is 0.030921775952635233
+
+
+
+
+this is iteration number893
+The  current value of  element 0 is :4.075818143089442
+ The value of  target 1 is 3.9785523958146944 and the corresponding error value is 0.00048169732947486883
+
+
+
+
+this is iteration number894
+The  current value of  element 0 is :3.9277953484651444
+ The value of  target 1 is 3.9780613923736645 and the corresponding error value is 0.0005034911122086683
+
+
+
+
+this is iteration number895
+The  current value of  element 0 is :3.411229185902105
+ The value of  target 1 is 3.8030790242050894 and the corresponding error value is 0.03897504168381493
+
+
+
+
+this is iteration number896
+The  current value of  element 0 is :4.284203737992497
+ The value of  target 1 is 3.9197784838394796 and the corresponding error value is 0.006515963171253259
+
+
+
+
+this is iteration number897
+The  current value of  element 0 is :4.295034953013411
+ The value of  target 1 is 3.9168350447300826 and the corresponding error value is 0.006999824740317383
+
+
+
+
+this is iteration number898
+The  current value of  element 0 is :4.052399394707426
+ The value of  target 1 is 3.985423020836758 and the corresponding error value is 0.0002273153006888508
+
+
+
+
+this is iteration number899
+The  current value of  element 0 is :3.704793002651938
+ The value of  target 1 is 3.906613436573843 and the corresponding error value is 0.008814686791973923
+
+
+
+
+this is iteration number900
+The  current value of  element 0 is :3.583593945589004
+ The value of  target 1 is 3.865259500734737 and the corresponding error value is 0.018289992641517826
+
+
+
+
+this is iteration number901
+The  current value of  element 0 is :4.848677480566472
+ The value of  target 1 is 3.779320304750172 and the corresponding error value is 0.04892045759080706
+
+
+
+
+this is iteration number902
+The  current value of  element 0 is :4.413193119202346
+ The value of  target 1 is 3.885400896235093 and the corresponding error value is 0.01324780368748497
+
+
+
+
+this is iteration number903
+The  current value of  element 0 is :4.307947154847024
+ The value of  target 1 is 3.913339921125398 and the corresponding error value is 0.007596879349426973
+
+
+
+
+this is iteration number904
+The  current value of  element 0 is :4.050343690955698
+ The value of  target 1 is 3.9860287912468957 and the corresponding error value is 0.0002094158827759406
+
+
+
+
+this is iteration number905
+The  current value of  element 0 is :4.4006466618565305
+ The value of  target 1 is 3.8886810393559 and the corresponding error value is 0.012503479959526938
+
+
+
+
+this is iteration number906
+The  current value of  element 0 is :3.82207728532224
+ The value of  target 1 is 3.9449078089641016 and the corresponding error value is 0.003090491704171885
+
+
+
+
+this is iteration number907
+The  current value of  element 0 is :4.270002342857201
+ The value of  target 1 is 3.9236539306323692 and the corresponding error value is 0.005905318377254815
+
+
+
+
+this is iteration number908
+The  current value of  element 0 is :3.6536582216283406
+ The value of  target 1 is 3.8893936356244874 and the corresponding error value is 0.012344624204744319
+
+
+
+
+this is iteration number909
+The  current value of  element 0 is :3.641364807568859
+ The value of  target 1 is 3.8852047599976065 and the corresponding error value is 0.013292992367209659
+
+
+
+
+this is iteration number910
+The  current value of  element 0 is :4.1304383618693015
+ The value of  target 1 is 3.962741800394048 and the corresponding error value is 0.0014256816374829434
+
+
+
+
+this is iteration number911
+The  current value of  element 0 is :3.6396507738336474
+ The value of  target 1 is 3.884619189648227 and the corresponding error value is 0.013428362207783684
+
+
+
+
+this is iteration number912
+The  current value of  element 0 is :3.739821690091179
+ The value of  target 1 is 3.9182231065919932 and the corresponding error value is 0.006769487188872606
+
+
+
+
+this is iteration number913
+The  current value of  element 0 is :3.684724848891052
+ The value of  target 1 is 3.8998943081715898 and the corresponding error value is 0.01012150522827317
+
+
+
+
+this is iteration number914
+The  current value of  element 0 is :5.341140007581018
+ The value of  target 1 is 3.6751377137983683 and the corresponding error value is 0.10586061728235291
+
+
+
+
+this is iteration number915
+The  current value of  element 0 is :3.7472469534171244
+ The value of  target 1 is 3.92066495554227 and the corresponding error value is 0.006373634323567803
+
+
+
+
+this is iteration number916
+The  current value of  element 0 is :4.2039002762582935
+ The value of  target 1 is 3.9419374204719473 and the corresponding error value is 0.0034295757209795706
+
+
+
+
+this is iteration number917
+The  current value of  element 0 is :2.841117520658262
+ The value of  target 1 is 3.56389026911344 and the corresponding error value is 0.19062805710483471
+
+
+
+
+this is iteration number918
+The  current value of  element 0 is :4.3674183331648315
+ The value of  target 1 is 3.8974336319563285 and the corresponding error value is 0.010622676221713671
+
+
+
+
+this is iteration number919
+The  current value of  element 0 is :3.773274424888138
+ The value of  target 1 is 3.9291720902150464 and the corresponding error value is 0.005087670714290562
+
+
+
+
+this is iteration number920
+The  current value of  element 0 is :3.8213456015545715
+ The value of  target 1 is 3.944673937700029 and the corresponding error value is 0.0031165492319203056
+
+
+
+
+this is iteration number921
+The  current value of  element 0 is :4.138693935483317
+ The value of  target 1 is 3.960377779099759 and the corresponding error value is 0.0016097926099677697
+
+
+
+
+this is iteration number922
+The  current value of  element 0 is :4.053224461654501
+ The value of  target 1 is 3.9851800133017674 and the corresponding error value is 0.00023470199243404223
+
+
+
+
+this is iteration number923
+The  current value of  element 0 is :4.269269120438171
+ The value of  target 1 is 3.923854520562423 and the corresponding error value is 0.005874529518216148
+
+
+
+
+this is iteration number924
+The  current value of  element 0 is :3.8975217789605905
+ The value of  target 1 is 3.9686951217472886 and the corresponding error value is 0.0010115502806698363
+
+
+
+
+this is iteration number925
+The  current value of  element 0 is :3.884055398580638
+ The value of  target 1 is 3.9644962373935204 and the corresponding error value is 0.0012962709218237816
+
+
+
+
+this is iteration number926
+The  current value of  element 0 is :4.383185232559402
+ The value of  target 1 is 3.8932686182799126 and the corresponding error value is 0.011498569225599236
+
+
+
+
+this is iteration number927
+The  current value of  element 0 is :3.7144425199581415
+ The value of  target 1 is 3.9098265583538723 and the corresponding error value is 0.008221673019953841
+
+
+
+
+this is iteration number928
+The  current value of  element 0 is :3.6936058002020973
+ The value of  target 1 is 3.90287393927067 and the corresponding error value is 0.009530847733526917
+
+
+
+
+this is iteration number929
+The  current value of  element 0 is :3.414323222473371
+ The value of  target 1 is 3.804232035375752 and the corresponding error value is 0.03852111393774533
+
+
+
+
+this is iteration number930
+The  current value of  element 0 is :4.617082873772504
+ The value of  target 1 is 3.8339182166026156 and the corresponding error value is 0.02774949055985331
+
+
+
+
+this is iteration number931
+The  current value of  element 0 is :4.62459788258682
+ The value of  target 1 is 3.8320839423174995 and the corresponding error value is 0.028363968485315545
+
+
+
+
+this is iteration number932
+The  current value of  element 0 is :3.967086353463495
+ The value of  target 1 is 3.9900687028784905 and the corresponding error value is 0.00010881195963722576
+
+
+
+
+this is iteration number933
+The  current value of  element 0 is :3.7639401323993376
+ The value of  target 1 is 3.926130453532067 and the corresponding error value is 0.005530829441846117
+
+
+
+
+this is iteration number934
+The  current value of  element 0 is :4.935756534118637
+ The value of  target 1 is 3.7597753583257942 and the corresponding error value is 0.05794835310917506
+
+
+
+
+this is iteration number935
+The  current value of  element 0 is :4.0808148704919365
+ The value of  target 1 is 3.9770936370371217 and the corresponding error value is 0.0005478578271500291
+
+
+
+
+this is iteration number936
+The  current value of  element 0 is :3.955823915162221
+ The value of  target 1 is 3.9866439211761016 and the corresponding error value is 0.0001919909203741038
+
+
+
+
+this is iteration number937
+The  current value of  element 0 is :4.2275319136728955
+ The value of  target 1 is 3.9353543114958907 and the corresponding error value is 0.004243960730674524
+
+
+
+
+this is iteration number938
+The  current value of  element 0 is :3.849375504892179
+ The value of  target 1 is 3.95358929848308 and the corresponding error value is 0.002200613916809613
+
+
+
+
+this is iteration number939
+The  current value of  element 0 is :2.836966485328208
+ The value of  target 1 is 3.5619289698762597 and the corresponding error value is 0.19234454846379923
+
+
+
+
+this is iteration number940
+The  current value of  element 0 is :4.058748417736938
+ The value of  target 1 is 3.9835548280227986 and the corresponding error value is 0.0002871388533369527
+
+
+
+
+this is iteration number941
+The  current value of  element 0 is :3.9716494685447534
+ The value of  target 1 is 3.9914524331524945 and the corresponding error value is 8.185846586009097e-05
+
+
+
+
+this is iteration number942
+The  current value of  element 0 is :3.2824874579169094
+ The value of  target 1 is 3.753836834628237 and the corresponding error value is 0.06084271715121804
+
+
+
+
+this is iteration number943
+The  current value of  element 0 is :4.138277139902436
+ The value of  target 1 is 3.960496970566183 and the corresponding error value is 0.0016002423638828785
+
+
+
+
+this is iteration number944
+The  current value of  element 0 is :4.547799569396499
+ The value of  target 1 is 3.8510363802845147 and the corresponding error value is 0.022339373618455397
+
+
+
+
+this is iteration number945
+The  current value of  element 0 is :4.120825386922225
+ The value of  target 1 is 3.9655029492786467 and the corresponding error value is 0.0012247935591930212
+
+
+
+
+this is iteration number946
+The  current value of  element 0 is :3.8820882454532484
+ The value of  target 1 is 3.963881177737649 and the corresponding error value is 0.001340938143881712
+
+
+
+
+this is iteration number947
+The  current value of  element 0 is :3.7486922255180373
+ The value of  target 1 is 3.9211394714694503 and the corresponding error value is 0.00629809348864829
+
+
+
+
+this is iteration number948
+The  current value of  element 0 is :3.562626532605953
+ The value of  target 1 is 3.8579125344745084 and the corresponding error value is 0.02033118532498342
+
+
+
+
+this is iteration number949
+The  current value of  element 0 is :4.784602588573689
+ The value of  target 1 is 3.7940364477273167 and the corresponding error value is 0.04262719841705526
+
+
+
+
+this is iteration number950
+The  current value of  element 0 is :3.628978426870746
+ The value of  target 1 is 3.8809647126354325 and the corresponding error value is 0.014288684925329871
+
+
+
+
+this is iteration number951
+The  current value of  element 0 is :3.0033495755054282
+ The value of  target 1 is 3.637838985021855 and the corresponding error value is 0.1315230117849787
+
+
+
+
+this is iteration number952
+The  current value of  element 0 is :3.8247509510617537
+ The value of  target 1 is 3.945761878971458 and the corresponding error value is 0.0029962618937353883
+
+
+
+
+this is iteration number953
+The  current value of  element 0 is :4.0407500702745915
+ The value of  target 1 is 3.988861541449509 and the corresponding error value is 0.00013545371743150622
+
+
+
+
+this is iteration number954
+The  current value of  element 0 is :4.9004526430099045
+ The value of  target 1 is 3.7676373152008864 and the corresponding error value is 0.054225029971851614
+
+
+
+
+this is iteration number955
+The  current value of  element 0 is :3.912628593817284
+ The value of  target 1 is 3.973381582648113 and the corresponding error value is 0.0007354085596711514
+
+
+
+
+this is iteration number956
+The  current value of  element 0 is :3.364024036848047
+ The value of  target 1 is 3.785313507507571 and the corresponding error value is 0.04630522655119446
+
+
+
+
+this is iteration number957
+The  current value of  element 0 is :4.623756416123267
+ The value of  target 1 is 3.8322891124178433 and the corresponding error value is 0.02829490270117716
+
+
+
+
+this is iteration number958
+The  current value of  element 0 is :3.9687448827354066
+ The value of  target 1 is 3.9905718964361094 and the corresponding error value is 9.85672403753487e-05
+
+
+
+
+this is iteration number959
+The  current value of  element 0 is :3.8009571553802886
+ The value of  target 1 is 3.9381321343183853 and the corresponding error value is 0.003889750669680013
+
+
+
+
+this is iteration number960
+The  current value of  element 0 is :3.7292663345263053
+ The value of  target 1 is 3.9147404395262146 and the corresponding error value is 0.007354702212656952
+
+
+
+
+this is iteration number961
+The  current value of  element 0 is :4.864277299234841
+ The value of  target 1 is 3.775780871717081 and the corresponding error value is 0.050498686616235335
+
+
+
+
+this is iteration number962
+The  current value of  element 0 is :4.795383117809878
+ The value of  target 1 is 3.791540202364363 and the corresponding error value is 0.04366419702792664
+
+
+
+
+this is iteration number963
+The  current value of  element 0 is :3.9911456715030473
+ The value of  target 1 is 3.997339579108902 and the corresponding error value is 9.98826020889305e-06
+
+
+
+
+this is iteration number964
+The  current value of  element 0 is :4.4200809133690395
+ The value of  target 1 is 3.8836058577284316 and the corresponding error value is 0.01366424049740582
+
+
+
+
+this is iteration number965
+The  current value of  element 0 is :3.1656429533936166
+ The value of  target 1 is 3.706896050533583 and the corresponding error value is 0.08620327914227867
+
+
+
+
+this is iteration number966
+The  current value of  element 0 is :3.7503127888950702
+ The value of  target 1 is 3.9216712410275245 and the corresponding error value is 0.006213973241140731
+
+
+
+
+this is iteration number967
+The  current value of  element 0 is :4.648549234748074
+ The value of  target 1 is 3.8262667722728017 and the corresponding error value is 0.03035721764423797
+
+
+
+
+this is iteration number968
+The  current value of  element 0 is :3.607282273454814
+ The value of  target 1 is 3.873490221319231 and the corresponding error value is 0.016131483880538124
+
+
+
+
+this is iteration number969
+The  current value of  element 0 is :4.102075183166125
+ The value of  target 1 is 3.9709148606199642 and the corresponding error value is 0.000875280472136179
+
+
+
+
+this is iteration number970
+The  current value of  element 0 is :2.9807843047896236
+ The value of  target 1 is 3.627859244063167 and the corresponding error value is 0.13886113298517483
+
+
+
+
+this is iteration number971
+The  current value of  element 0 is :3.4053338448540558
+ The value of  target 1 is 3.8008782326968658 and the corresponding error value is 0.03984884998122692
+
+
+
+
+this is iteration number972
+The  current value of  element 0 is :3.400624430334382
+ The value of  target 1 is 3.7991165147542496 and the corresponding error value is 0.04055530812972561
+
+
+
+
+this is iteration number973
+The  current value of  element 0 is :4.0430447514633805
+ The value of  target 1 is 3.9881831219438553 and the corresponding error value is 0.00015170548504995465
+
+
+
+
+this is iteration number974
+The  current value of  element 0 is :4.163553310933396
+ The value of  target 1 is 3.9532992883516815 and the corresponding error value is 0.0022279071801077637
+
+
+
+
+this is iteration number975
+The  current value of  element 0 is :4.120164739653841
+ The value of  target 1 is 3.9656930420995202 and the corresponding error value is 0.0012115243182858138
+
+
+
+
+this is iteration number976
+The  current value of  element 0 is :4.065492827039143
+ The value of  target 1 is 3.981574788985572 and the corresponding error value is 0.00035816361194064415
+
+
+
+
+this is iteration number977
+The  current value of  element 0 is :4.014620050805223
+ The value of  target 1 is 3.9966251777799515 and the corresponding error value is 1.5014247236986159e-05
+
+
+
+
+this is iteration number978
+The  current value of  element 0 is :3.9857532347995646
+ The value of  target 1 is 3.9957152878645483 and the corresponding error value is 2.2893470219144362e-05
+
+
+
+
+this is iteration number979
+The  current value of  element 0 is :3.5842191764190403
+ The value of  target 1 is 3.8654776883590514 and the corresponding error value is 0.01823102464086562
+
+
+
+
+this is iteration number980
+The  current value of  element 0 is :3.9492249596835762
+ The value of  target 1 is 3.9846309239502204 and the corresponding error value is 0.00025182757467370634
+
+
+
+
+this is iteration number981
+The  current value of  element 0 is :4.328473318784059
+ The value of  target 1 is 3.9078145668502913 and the corresponding error value is 0.00859058951814924
+
+
+
+
+this is iteration number982
+The  current value of  element 0 is :4.043723336153324
+ The value of  target 1 is 3.987982602859404 and the corresponding error value is 0.0001566852311754195
+
+
+
+
+this is iteration number983
+The  current value of  element 0 is :4.124690456850616
+ The value of  target 1 is 3.964391686723631 and the corresponding error value is 0.001303810287664461
+
+
+
+
+this is iteration number984
+The  current value of  element 0 is :3.225600012225434
+ The value of  target 1 is 3.731260415790529 and the corresponding error value is 0.0724899537052892
+
+
+
+
+this is iteration number985
+The  current value of  element 0 is :4.146383099022122
+ The value of  target 1 is 3.9581819422900466 and the corresponding error value is 0.0017908180083429975
+
+
+
+
+this is iteration number986
+The  current value of  element 0 is :3.6895263086302243
+ The value of  target 1 is 3.9015064529411396 and the corresponding error value is 0.009799722359294924
+
+
+
+
+this is iteration number987
+The  current value of  element 0 is :3.2556783283852644
+ The value of  target 1 is 3.743261722312923 and the corresponding error value is 0.06617153150741395
+
+
+
+
+this is iteration number988
+The  current value of  element 0 is :4.301956945909495
+ The value of  target 1 is 3.9149595079622372 and the corresponding error value is 0.007317175778062659
+
+
+
+
+this is iteration number989
+The  current value of  element 0 is :3.296329331421002
+ The value of  target 1 is 3.7592525940022807 and the corresponding error value is 0.05820031090062869
+
+
+
+
+this is iteration number990
+The  current value of  element 0 is :3.3782679947997805
+ The value of  target 1 is 3.790708875052677 and the corresponding error value is 0.04401231610666357
+
+
+
+
+this is iteration number991
+The  current value of  element 0 is :4.013550329927527
+ The value of  target 1 is 3.996944517817962 and the corresponding error value is 1.264145354679479e-05
+
+
+
+
+this is iteration number992
+The  current value of  element 0 is :5.033514166492755
+ The value of  target 1 is 3.738434630185499 and the corresponding error value is 0.06867825805601141
+
+
+
+
+this is iteration number993
+The  current value of  element 0 is :4.0785163388114105
+ The value of  target 1 is 3.9777643643390075 and the corresponding error value is 0.0005169091289094223
+
+
+
+
+this is iteration number994
+The  current value of  element 0 is :4.0089026092435835
+ The value of  target 1 is 3.998333371718041 and the corresponding error value is 4.694278112187561e-06
+
+
+
+
+this is iteration number995
+The  current value of  element 0 is :3.9095813760310305
+ The value of  target 1 is 3.972438296836224 and the corresponding error value is 0.0007874591844519126
+
+
+
+
+this is iteration number996
+The  current value of  element 0 is :4.7333074007832066
+ The value of  target 1 is 3.806028267307215 and the corresponding error value is 0.03781925481653426
+
+
+
+
+this is iteration number997
+The  current value of  element 0 is :3.9354591422522462
+ The value of  target 1 is 3.9804165545110592 and the corresponding error value is 0.0004033447827072793
+
+
+
+
+this is iteration number998
+The  current value of  element 0 is :4.292248736785877
+ The value of  target 1 is 3.917591199372743 and the corresponding error value is 0.006873869221450347
+
+
+
+
+this is iteration number999
+The  current value of  element 0 is :4.320392247912592
+ The value of  target 1 is 3.909985391266061 and the corresponding error value is 0.00819289439425815
+
+
+
+
+this is iteration number1000
+The  current value of  element 0 is :3.9721651673776117
+ The value of  target 1 is 3.9916086752673507 and the corresponding error value is 7.905565550143116e-05
