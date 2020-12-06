@@ -1,7 +1,1 @@
  The results are given below
-
-This is a set of nondominanted_solutions values
-
- This is solution  1
- The value of  element 1 is 4.001725656419596
- The value of  target 1 is 4.000482459366048 and the corresponding error value is 3.076738394530932e-10

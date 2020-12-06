@@ -1,0 +1,23 @@
+when specifying the element it is to be noted that the information is case sensitive
+"R3" != "r3"
+the numbering is from 1 , 2, 3 etc as in data.csv
+generally the first data is time so you need to enter to offset this .
+so for examlpe
+
+time1,voltage1,current1,current2,voltage2
+time2,voltage1,current1,current2,voltage2
+time3,voltage1,current1,current2,voltage2
+time4,voltage1,current1,current2,voltage2
+time5,voltage1,current1,current2,voltage2
+time6,voltage1,current1,current2,voltage2
+
+so when the prompt asks for meters
+meter1 represents time
+meter2 represents voltage1
+meter3 represents current1
+meter4 represents current2
+meter5 represents voltage2
+
+so enter accordingly . It is possible to eliminate the time key word as time stance
+is useful only for plotting purposes. which is not of much use for LTSpice
+so that is why such provisions are made .
